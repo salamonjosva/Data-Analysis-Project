@@ -1,0 +1,721 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Region,Product,Category,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Payment_Mode,Order_Status,Customer_Segment,Return_Status
+ORD10659,2025-02-22 00:00:00,CUST1140,Anitha Kumar,Female,52.0,Delhi,Delhi,North,Headset,Accessories,4,2011.01,15.0,6837.43,1223.54,Net Banking,Cancelled,Consumer,No
+ORD10213,2025-12-13 00:00:00,CUST1247,Priya R,Male,28.0,Delhi,Delhi,North,Monitor,Electronics,2,14683.35,5.0,27898.36,4615.54,Credit Card,Returned,Small Business,Returned
+ORD10421,2025-09-25 00:00:00,CUST1086,Dinesh S,Female,60.0,Madurai,Tamil Nadu,South,Tablet,Electronics,2,18452.84,15.0,31369.83,5826.4,Net Banking,delivered,Small Business,No
+ORD10108,2025-02-17 00:00:00,CUST1077,Dinesh S,Female,22.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,4,23994.76,5.0,91180.09,13063.16,Debit Card,Cancelled,Corporate,No
+ORD10344,2025-01-29 00:00:00,CUST1205,Anitha P,Male,35.0,Hyderabad,Telangana,South,Router,Networking,2,3119.17,0.0,6238.34,1160.45,Net Banking,Delivered,Consumer,No
+ORD10686,2025-12-08 00:00:00,CUST1199,Priya S,Male,28.0,Bengaluru,Karnataka,South,SSD,Storage,-1,6311.88,5.0,29981.43,2926.58,Cash,Shipped,Small Business,No
+ORD10334,2025-02-08 00:00:00,CUST1049,Karthik R,Male,25.0,Delhi,Delhi,North,Keyboard,Accessories,1,1657.45,10.0,1491.71,245.92,Cash,Delivered,Consumer,No
+ORD10351,2025-05-10 00:00:00,CUST1157,Vijay R,Male,28.0,Chennai,Tamil Nadu,South,USB Drive,Storage,2,1147.44,10.0,2065.39,215.9,Credit Card,Cancelled,Consumer,No
+ORD10188,2025-01-23 00:00:00,CUST1003,Harish P,Male,45.0,Delhi,Delhi,North,Router,Networking,1,3218.98,5.0,3058.03,577.85,Credit Card,Delivered,Small Business,No
+ORD10300,2025-10-11 00:00:00,CUST1064,Santhosh P,Female,45.0,Delhi,Delhi,North,Keyboard,Accessories,2,1780.94,10.0,3205.69,529.7,Net Banking,Cancelled,Small Business,No
+ORD10675,2025-01-18 00:00:00,CUST1209,Harish M,Male,52.0,Pune,Maharashtra,West,Headset,Accessories,1,2046.83,15.0,1739.81,365.65,net banking,Returned,Consumer,Returned
+ORD10331,2025-07-20 00:00:00,CUST1021,Anitha S,Female,18.0,Kolkata,West Bengal,East,Router,Networking,1,3450.27,0.0,3450.27,660.83,Cash,Delivered,Small Business,No
+ORD10577,2025-08-24 00:00:00,CUST1035,Harish Kumar,Male,60.0,Coimbatore,Tamil Nadu,South,Tablet,Electronics,1,17186.9,0.0,17186.9,,UPI,Delivered,Small Business,No
+ORD10541,2025-06-18 00:00:00,CUST1139,Anitha S,Female,60.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,4,1639.86,0.0,6559.44,700.25,Credit Card,Shipped,Small Business,No
+ORD10285,2025-12-05 00:00:00,CUST1233,Dinesh R,Female,40.0,Mumbai,Maharashtra,West,Laptop,Electronics,1,49171.18,15.0,41795.5,9174.21,Debit Card,Returned,Small Business,Returned
+ORD10067,2025-11-25 00:00:00,CUST1093,Keerthi P,Female,18.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,1,21203.8,20.0,16963.04,1972.68,Cash,Returned,Small Business,Returned
+ORD10623,2025-09-16 00:00:00,CUST1165,Suresh Kumar,Male,18.0,Mumbai,Maharashtra,West,Mouse,Accessories,2,915.65,0.0,1831.3,189.41,Cash,Delivered,Small Business,No
+ORD10361,2025-06-27 00:00:00,CUST1179,Rahul R,Female,28.0,Pune,Maharashtra,West,Tablet,Electronics,6,17643.1,5.0,100565.67,20997.15,UPI,Returned,Consumer,Returned
+ORD10629,2025-02-08 00:00:00,CUST1182,Vijay Kumar,Male,22.0,Madurai,Tamil Nadu,South,Mouse,Accessories,1,823.44,25.0,617.58,120.91,Credit Card,Delivered,Consumer,No
+ORD10089,2025-05-11 00:00:00,CUST1079,Dinesh S,Male,52.0,Delhi,Delhi,North,Headset,Accessories,1,2172.27,20.0,1737.82,256.89,Net Banking,Delivered,Corporate,No
+ORD10022,2025-10-14 00:00:00,CUST1212,Divya S,Male,52.0,Coimbatore,Tamil Nadu,South,Router,Networking,1,3072.39,10.0,2765.15,270.46,UPI,Delivered,Corporate,No
+ORD10658,2025-08-08 00:00:00,CUST1039,Pavithra R,Male,60.0,Chennai,Tamil Nadu,South,Keyboard,Accessories,6,1954.91,0.0,11729.46,1448.13,Cash,Shipped,Corporate,No
+ORD10225,2025-04-09 00:00:00,CUST1103,Vijay R,Male,31.0,Kolkata,West Bengal,East,Printer,Office Equipment,2,13567.17,0.0,27134.34,5091.92,Cash,Delivered,Consumer,Yes
+ORD10526,2025-05-27 00:00:00,CUST1032,Karthik R,Male,18.0,Mumbai,Maharashtra,West,SSD,Storage,1,6583.05,5.0,6253.9,1132.28,Debit Card,Delivered,Corporate,No
+ORD10502,2025-10-30 00:00:00,CUST1211,Rahul M,Male,25.0,Madurai,Tamil Nadu,South,USB Drive,Storage,4,1260.04,5.0,4788.15,485.47,UPI,Cancelled,Consumer,No
+ORD10231,2025-06-30 00:00:00,CUST1005,Swetha M,Male,52.0,Kolkata,West Bengal,East,Tablet,Electronics,2,16668.14,5.0,31669.47,1826.99,Credit Card,Delivered,Consumer,No
+ORD10099,2025-12-03 00:00:00,CUST1213,Swetha P,Male,52.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,1,1866.09,10.0,1679.48,155.71,Cash,Delivered,Small Business,No
+ORD10440,2025-02-12 00:00:00,CUST1016,Swetha Kumar,Female,31.0,,Delhi,North,Monitor,Electronics,4,14034.9,10.0,50525.64,3972.34,Cash,Delivered,Consumer,No
+ORD10058,2025-05-28 00:00:00,CUST1059,,Female,28.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,2,22412.89,10.0,40343.2,8146.02,Cash,Delivered,Small Business,Yes
+ORD10470,2025-12-09 00:00:00,CUST1109,Priya Kumar,Male,45.0,Jaipur,Rajasthan,North,Keyboard,Accessories,2,1805.42,20.0,2888.67,158.15,UPI,Returned,Corporate,Returned
+ORD10442,2025-02-18 00:00:00,CUST1024,Santhosh R,Male,45.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,3,23085.52,5.0,65793.73,9702.02,Net Banking,Cancelled,Consumer,No
+ORD10161,2025-07-12 00:00:00,CUST1061,Karthik M,Female,35.0,Kolkata,West Bengal,East,Printer,Office Equipment,1,11672.03,20.0,9337.62,486.98,net banking,Returned,Small Business,Returned
+ORD10589,2025-03-09 00:00:00,CUST1169,Santhosh Kumar,Male,52.0,Delhi,Delhi,North,SSD,Storage,1,N/A,10.0,5627.32,826.35,Credit Card,Delivered,Corporate,No
+ORD10411,2025-08-31 00:00:00,CUST1172,Divya Kumar,Female,35.0,Mumbai,Maharashtra,West,Tablet,Electronics,4,17815.19,15.0,60571.65,10989.42,Credit Card,Returned,Corporate,Returned
+ORD10070,2025-08-29 00:00:00,CUST1209,Vijay R,Male,35.0,Madurai,Tamil Nadu,South,Tablet,Electronics,2,17614.67,20.0,28183.47,5946.34,UPI,Cancelled,Corporate,No
+ORD10593,2025-10-27 00:00:00,CUST1182,Suresh P,Female,18.0,Jaipur,Rajasthan,North,Keyboard,Accessories,5,1718.65,5.0,8163.59,669.17,Credit Card,Cancelled,Corporate,No
+ORD10272,2025-06-16 00:00:00,CUST1063,Suresh M,Female,40.0,Kolkata,West Bengal,East,Laptop,Electronics,2,48431.5,15.0,82333.55,17667.06,Cash,Shipped,Consumer,No
+ORD10202,2025-10-21 00:00:00,CUST1049,Vijay Kumar,Male,,Kolkata,West Bengal,East,Monitor,Electronics,3,12802.02,10.0,34565.45,2000.73,UPI,Delivered,Corporate,No
+ORD10359,2025-08-07 00:00:00,CUST1067,Divya S,Male,35.0,Jaipur,Rajasthan,North,Tablet,Electronics,1,16907.2,0.0,16907.2,1948.47,Net Banking,Shipped,Consumer,No
+ORD10190,2025-02-20 00:00:00,CUST1247,Vijay P,Female,25.0,Chennai,Tamil Nadu,South,Laptop,Electronics,2,46817.53,15.0,79589.8,14583.61,,Delivered,Consumer,No
+ORD10498,2025-10-09 00:00:00,CUST1129,Arun Kumar,Male,28.0,Pune,Maharashtra,West,Mouse,Accessories,1,865.41,20.0,692.33,37.46,UPI,Shipped,Consumer,No
+ORD10287,2025-10-20 00:00:00,CUST1019,Karthik R,Male,35.0,Chennai,Tamil Nadu,South,Keyboard,Accessories,3,1793.01,20.0,4303.22,817.09,Debit Card,Delivered,Corporate,No
+ORD10116,2025-07-19 00:00:00,CUST1220,Vijay S,Male,31.0,Delhi,Delhi,North, Webcam ,Accessories,5,3469.7,20.0,13878.8,1338.15,Net Banking,Shipped,Consumer,No
+ORD10555,2025-11-09 00:00:00,CUST1053,Swetha S,Male,28.0,Delhi,Delhi,North,Router,Networking,2,3005.15,10.0,5409.27,1147.22,UPI,Returned,Corporate,Returned
+ORD10196,2025-03-24 00:00:00,CUST1001,Karthik S,Male,unknown,Pune,Maharashtra,West,Mouse,Accessories,2,811.28,15.0,1379.18,293.14,Credit Card,Returned,Consumer,Returned
+ORD10045,2025-07-05 00:00:00,CUST1152,Naveen P,Female,52.0,Delhi,Delhi,North,Keyboard,Accessories,3,1686.45,10.0,4553.42,465.81,UPI,Shipped,Corporate,No
+ORD10460,2025-11-22 00:00:00,CUST1204,Harish Kumar,Male,31.0,Delhi,Delhi,North,USB Drive,Storage,4,1107.99,15.0,3767.17,437.95,Cash,Delivered,Small Business,No
+ORD10234,2025-12-14 00:00:00,CUST1181,Rahul S,Female,25.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,4,20250.08,25.0,60750.24,4498.14,Net Banking,Returned,Consumer,Returned
+ORD10168,2025-08-29 00:00:00,CUST1179,Meena P,Female,18.0,Delhi,Delhi,North,Headset,Accessories,1,2356.26,5.0,2238.45,288.91,UPI,Cancelled,Consumer,No
+ORD10274,2025-09-17 00:00:00,CUST1052,Rahul P,Female,60.0,trichy ,Tamil Nadu,South,Mobile Phone,Electronics,5,21315.73,5.0,101249.72,6293.22,Cash,Delivered,Corporate,No
+ORD10023,2025-06-25 00:00:00,CUST1126,Santhosh R,Female,18.0,Chennai,Tamil Nadu,South,Webcam,Accessories,3,3168.34,20.0,7604.02,401.04,UPI,Shipped,Corporate,No
+ORD10665,2025-10-23 00:00:00,CUST1134,Vijay P,Female,45.0,Kolkata,West Bengal,East, Tablet ,Electronics,3,18626.23,5.0,53084.76,,Credit Card,Returned,Corporate,Returned
+ORD10214,2025-04-30 00:00:00,CUST1074,Suresh P,Male,31.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,3,21668.51,5.0,61755.25,11430.37,Debit Card,Returned,Small Business,Returned
+ORD10428,2025-06-09 00:00:00,CUST1075,Divya S,Male,22.0,Coimbatore,Tamil Nadu,South,Headset,Accessories,1,2272.37,10.0,2045.13,165.51,Debit Card,Delivered,Small Business,No
+ORD10384,2025-01-05 00:00:00,CUST1124,Divya P,Male,18.0,Hyderabad,Telangana,South,Monitor,Electronics,4,15196.78,0.0,60787.12,4330.81,Debit Card,Delivered,Consumer,No
+ORD10524,2025-05-11 00:00:00,CUST1053,Arun Kumar,Male,40.0,Coimbatore,Tamil Nadu,South,Monitor,Electronics,2,14740.89,15.0,25059.51,4264.82,UPI,Cancelled,Consumer,No
+ORD10501,2025-05-22 00:00:00,CUST1100,Vijay M,Male,31.0,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,2,1816.97,0.0,3633.94,663.52,Cash,Delivered,Consumer,No
+ORD10117,2025-09-03 00:00:00,CUST1242,Swetha P,Male,,Chennai,Tamil Nadu,South,Laptop,Electronics,2,41826.27,10.0,75287.29,13783.57,Net Banking,Delivered,Corporate,No
+ORD10604,2025-08-03 00:00:00,CUST1231,Pavithra M,Male,18.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,5,1863.43,0.0,9317.15,1195.25,UPI,Shipped,Consumer,No
+ORD10091,2025-07-27 00:00:00,CUST1206,Keerthi Kumar,Female,40.0,Delhi,Delhi,North, Printer ,Office Equipment,3,11387.45,10.0,30746.12,2927.78,Debit Card,Cancelled,Consumer,No
+ORD10132,2025-08-10 00:00:00,CUST1083,Karthik S,Male,60.0,Delhi,Delhi,North,Webcam,Accessories,2,3592.34,10.0,6466.21,461.02,Debit Card,Delivered,Consumer,No
+ORD10612,2025-04-12 00:00:00,CUST1076,Dinesh Kumar,Female,35.0,Chennai,Tamil Nadu,South,Keyboard,Accessories,1,1653.47,5.0,1570.8,,Cash,Cancelled,Corporate,No
+ORD10325,2025-10-25 00:00:00,CUST1097,Arun S,Female,31.0,Jaipur,Rajasthan,North,Keyboard,Accessories,5,1893.7,5.0,8995.07,816.15,Net Banking,Delivered,Small Business,No
+ORD10352,2025-10-30 00:00:00,CUST1154,Harish P,Male,31.0,Pune,Maharashtra,West,Headset,Accessories,2,2349.37,5.0,4463.8,304.91,Credit Card,Cancelled,Corporate,No
+ORD10457,2025-03-10 00:00:00,CUST1052,Vijay M,Female,45.0,Madurai,Tamil Nadu,South,Monitor,Electronics,2,14366.96,10.0,25860.53,5487.12,Cash,Delivered,Small Business,No
+ORD10632,2025-04-10 00:00:00,CUST1224,Harish P,Male,18.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,6,24070.25,20.0,115537.2,20933.67,Net Banking,Returned,Corporate,Returned
+ORD10041,2025-08-04 00:00:00,CUST1243,Meena Kumar,Female,18.0,Delhi,Delhi,North,Printer,Office Equipment,1,11515.09,15.0,9787.83,1819.82,Cash,Delivered,Corporate,No
+ORD10136,2025-10-10 00:00:00,CUST1013,Karthik R,Female,40.0,Bengaluru,Karnataka,South,Monitor,Electronics,2,15128.44,10.0,27231.19,2518.86,Debit Card,Delivered,Corporate,Yes
+ORD10398,2025-04-28 00:00:00,CUST1007,Vijay S,Male,45.0,Bengaluru,Karnataka,South,Webcam,Accessories,2,3206.77,0.0,6413.54,786.97,Cash,Shipped,Small Business,No
+ORD10341,2025-04-21 00:00:00,CUST1120,Priya P,Female,22.0,Coimbatore,Tamil Nadu,South,SSD,Storage,1,6015.43,15.0,5113.12,918.03,UPI,Delivered,Corporate,No
+ORD10597,2025-02-26 00:00:00,CUST1107,Keerthi P,Female,18.0,Pune,Maharashtra,West,Webcam,Accessories,1,3376.29,0.0,3376.29,597.05,Net Banking,Delivered,Consumer,No
+ORD10647,2025-04-03 00:00:00,CUST1058,Keerthi M,Male,25.0,Kolkata,West Bengal,East,Mouse,Accessories,1,823.96,0.0,823.96,149.35,Net Banking,Delivered,Consumer,No
+ORD10090,2025-11-15 00:00:00,CUST1155,Arun S,Male,40.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,1,849.83,20.0,679.86,91.62,Cash,Returned,Corporate,Returned
+ORD10565,2025-12-07 00:00:00,CUST1103,Divya P,Female,22.0,Jaipur,Rajasthan,North,Printer,Office Equipment,1,11838.18,15.0,10062.45,1135.24,Debit Card,delivered,Consumer,No
+ORD10670,2025-02-01 00:00:00,CUST1186,Rahul R,Male,40.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,2,1246.72,10.0,2244.1,363.24,Net Banking,Delivered,Corporate,No
+ORD10571,2025-12-27 00:00:00,CUST1170,Vijay R,Male,25.0,Pune,Maharashtra,West,Keyboard,Accessories,1,1713.96,5.0,1628.26,144.17,Net Banking,Delivered,Corporate,No
+ORD10700,2025-07-18 00:00:00,CUST1148,Arun R,Male,28.0,Pune,Maharashtra,West,Router,Networking,2,3090.7,5.0,5872.33,1208.73,Credit Card,delivered,Consumer,No
+ORD10192,2025-11-20 00:00:00,CUST1141,Dinesh P,Female,18.0,Hyderabad,Telangana,South,Printer,Office Equipment,2,12635.46,0.0,25270.92,4273.6,UPI,Delivered,Corporate,No
+ORD10369,2025-06-15 00:00:00,CUST1111,Santhosh Kumar,Female,52.0,Mumbai,Maharashtra,West, Webcam ,Accessories,1,3195.15,0.0,3195.15,576.59,Cash,Cancelled,Corporate,No
+ORD10348,2025-05-22 00:00:00,CUST1025,Arun S,Male,40.0,Pune,Maharashtra,West,Laptop,Electronics,4,48015.58,15.0,163252.97,17160.33,Net Banking,Returned,Consumer,Returned
+ORD10286,2025-10-04 00:00:00,CUST1139,Santhosh R,Female,28.0,Hyderabad,Telangana,South,SSD,Storage,2,6689.2,10.0,12040.56,801.43,Cash,Shipped,Consumer,No
+ORD10294,2025-04-17 00:00:00,CUST1162,Rahul M,Male,52.0,Delhi,Delhi,North,Mouse,Accessories,6,922.66,5.0,5259.16,491.67,Debit Card,Cancelled,Corporate,No
+ORD10466,2025-07-02 00:00:00,CUST1138,Divya R,Female,28.0,Trichy,Tamil Nadu,South,SSD,Storage,3,6731.65,0.0,20194.95,3333.71,Net Banking,Cancelled,Corporate,No
+ORD10500,2025-06-19 00:00:00,CUST1094,Meena P,Male,45.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,1,21284.97,15.0,18092.22,3178.56,Cash,Delivered,Corporate,No
+ORD10591,2025-08-31 00:00:00,CUST1014,Harish P,Female,52.0,Salem,Tamil Nadu,South,Tablet,Electronics,1,18552.36,20.0,14841.89,894.77,Credit Card,Cancelled,Small Business,No
+ORD10569,2025-08-28 00:00:00,CUST1199,Divya Kumar,Female,60.0,Bengaluru,Karnataka,South,USB Drive,Storage,5,1304.38,5.0,6195.8,838.87,UPI,Delivered,Consumer,No
+ORD10046,2025-05-04 00:00:00,CUST1174,,Female,40.0,mumbai ,Maharashtra,West,Laptop,Electronics,1,47340.41,10.0,42606.37,8473.6,UPI,Shipped,Small Business,No
+ORD10468,2025-12-15 00:00:00,CUST1025,Harish M,Female,22.0,trichy ,Tamil Nadu,South,USB Drive,Storage,3,1129.69,5.0,missing,347.4,Cash,Delivered,Corporate,No
+ORD10232,2025-09-01 00:00:00,CUST1129,Meena Kumar,Male,22.0,Jaipur,Rajasthan,North,Printer,Office Equipment,1,11662.74,15.0,9913.33,1659.18,Credit Card,Delivered,Consumer,No
+ORD10044,2025-03-21 00:00:00,CUST1196,Vijay Kumar,Male,18.0,Coimbatore,Tamil Nadu,South,Router,Networking,1,3321.85,0.0,3321.85,183.55,UPI,Shipped,Small Business,No
+ORD10171,2025-06-04 00:00:00,CUST1226,Dinesh R,Male,28.0,Salem,Tamil Nadu,South,Webcam,Accessories,1,3514.6,15.0,2987.41,219.23,Cash,Delivered,Corporate,No
+ORD10438,2025-09-21 00:00:00,CUST1244,Meena M,Female,18.0,Trichy,Tamil Nadu,South,Webcam,Accessories,3,3782.44,0.0,11347.32,2409.51,Cash,Delivered,Corporate,No
+ORD10533,2025-03-01 00:00:00,CUST1211,Meena Kumar,Female,60.0,Jaipur,Rajasthan,North,Webcam,Accessories,5,3346.23,5.0,15894.59,2475.02,Debit Card,Delivered,Consumer,No
+ORD10130,2025-02-21 00:00:00,CUST1215,Keerthi Kumar,Female,31.0,Mumbai,Maharashtra,West,Router,Networking,2,3450.51,20.0,5520.82,339.89,Cash,Delivered,Corporate,No
+ORD10221,2025-06-22 00:00:00,CUST1010,Keerthi R,Female,45.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,1,21906.81,5.0,20811.47,3397.12,UPI,Shipped,Consumer,No
+ORD10147,2025-06-21 00:00:00,CUST1165,Harish M,Female,28.0,Pune,Maharashtra,West,Mouse,Accessories,2,829.83,5.0,1576.68,217.69,Debit Card,Cancelled,Corporate,No
+ORD10063,2025-07-27 00:00:00,CUST1028,Karthik Kumar,Female,28.0,Coimbatore,Tamil Nadu,South,Monitor,Electronics,4,15032.32,10.0,54116.35,3437.22,Cash,Cancelled,Consumer,No
+ORD10486,2025-01-31 00:00:00,CUST1200,Keerthi R,Male,22.0,Mumbai,Maharashtra,West,Headset,Accessories,-1,2417.34,0.0,2417.34,483.1,Credit Card,Shipped,Consumer,No
+ORD10263,2025-06-27 00:00:00,CUST1196,Karthik M,Male,45.0,Delhi,Delhi,North,Monitor,Electronics,2,14661.73,15.0,24924.94,2863.4,Debit Card,Delivered,Small Business,No
+ORD10653,2025-05-11 00:00:00,CUST1129,Keerthi P,Male,35.0,Bengaluru,Karnataka,South,SSD,Storage,1,6322.92,10.0,5690.63,1099.63,UPI,Delivered,Small Business,No
+ORD10143,2025-12-25 00:00:00,CUST1015,Santhosh R,Male,28.0,Madurai,Tamil Nadu,South,Mouse,Accessories,6,982.85,15.0,5012.54,908.71,Cash,Shipped,Small Business,No
+ORD10258,2025-08-15 00:00:00,CUST1164,Anitha R,Female,35.0,Pune,Maharashtra,West,Router,Networking,1,3415.52,0.0,3415.52,283.8,,Shipped,Consumer,No
+ORD10204,2025-02-06 00:00:00,CUST1035,Dinesh M,Male,45.0,Kolkata,West Bengal,East,Router,Networking,5,2919.04,25.0,10946.4,1287.57,Cash,Delivered,Consumer,No
+ORD10015,2025-06-02 00:00:00,CUST1127,Pavithra S,Male,31.0,Pune,Maharashtra,West,Webcam,Accessories,3,3207.1,20.0,7697.04,951.57,Cash,Delivered,Small Business,No
+ORD10276,2025-05-29 00:00:00,CUST1061,Harish Kumar,Female,18.0,kolkata ,West Bengal,East,Tablet,Electronics,3,19032.42,15.0,48532.67,3761.84,,Cancelled,Consumer,No
+ORD10362,2025-11-12 00:00:00,CUST1022,Meena M,Male,45.0,Salem,Tamil Nadu,South,Webcam,Accessories,2,3595.31,10.0,6471.56,519.87,Net Banking,Returned,Small Business,Returned
+ORD10620,2025-05-29 00:00:00,CUST1167,Rahul P,Male,45.0,Delhi,Delhi,North,Printer,Office Equipment,3,12478.34,20.0,missing,4527.06,UPI,Shipped,Small Business,No
+ORD10652,2025-03-12 00:00:00,CUST1105,Keerthi S,Male,40.0,Chennai,Tamil Nadu,South,Keyboard,Accessories,2,1728.67,10.0,3111.61,326.23,UPI,Delivered,Small Business,No
+ORD10624,2025-08-08 00:00:00,CUST1204,Santhosh R,Male,60.0,Madurai,Tamil Nadu,South,SSD,Storage,2,6133.97,5.0,11654.54,962.77,Debit Card,Shipped,Small Business,No
+ORD10104,2025-06-04 00:00:00,CUST1114,Anitha R,Male,35.0,Bengaluru,Karnataka,South,Router,Networking,5,3094.21,5.0,14697.5,1073.95,UPI,Shipped,Small Business,No
+ORD10210,2025-08-29 00:00:00,CUST1164,Divya Kumar,Female,52.0,Chennai,Tamil Nadu,South,Laptop,Electronics,3,46050.03,5.0,131242.59,8236.52,Cash,Cancelled,Small Business,No
+ORD10446,2025-01-27 00:00:00,CUST1107,Keerthi S,Female,45.0,Salem,Tamil Nadu,South,Mouse,Accessories,2,939.85,5.0,1785.72,276.67,Credit Card,Delivered,Corporate,No
+ORD10142,2025-01-13 00:00:00,CUST1117,Keerthi Kumar,Female,60.0,Trichy,Tamil Nadu,South,Mouse,Accessories,5,813.36,20.0,3253.44,348.6,Debit Card,Delivered,Small Business,No
+ORD10406,2025-12-21 00:00:00,CUST1098,Rahul M,Female,45.0,Pune,Maharashtra,West,Router,Networking,1,2915.61,10.0,2624.05,509.36,Net Banking,Cancelled,Small Business,No
+ORD10447,2025-01-30 00:00:00,CUST1007,Meena M,Female,22.0,Chennai,Tamil Nadu,South,Mouse,Accessories,3,836.87,15.0,2134.02,410.9,UPI,Cancelled,Corporate,No
+ORD10505,2025-01-03 00:00:00,CUST1220,Karthik Kumar,Male,22.0,Kolkata,West Bengal,East,Webcam,Accessories,1,3579.82,0.0,3579.82,579.64,Net Banking,Cancelled,Corporate,No
+ORD10668,2025-03-31 00:00:00,CUST1016,Rahul R,Male,40.0,Jaipur,Rajasthan,North,Monitor,Electronics,2,15199.56,20.0,24319.3,3731.84,Cash,Delivered,Small Business,No
+ORD10199,2025-07-11 00:00:00,CUST1075,Keerthi S,Male,25.0,Kolkata,West Bengal,East,Keyboard,Accessories,1,1903.21,20.0,1522.57,170.84,Debit Card,delivered,Corporate,No
+ORD10118,2025-08-30 00:00:00,CUST1095,Swetha Kumar,Female,45.0,Salem,Tamil Nadu,South,Keyboard,Accessories,2,1633.92,25.0,2450.88,298.28,UPI,Shipped,Corporate,No
+ORD10667,2025-02-10 00:00:00,CUST1016,Priya Kumar,Female,60.0,Madurai,Tamil Nadu,South,Printer,Office Equipment,1,13177.4,15.0,11200.79,1626.74,Debit Card,Delivered,Corporate,No
+ORD10336,2025-01-07 00:00:00,CUST1066,Vijay R,Male,25.0,Delhi,Delhi,North,Router,Networking,1,3326.17,0.0,3326.17,422.19,UPI,Returned,Consumer,Returned
+ORD10346,2025-01-23 00:00:00,CUST1170,Meena R,Female,35.0,Bengaluru,Karnataka,South,Keyboard,Accessories,2,1906.94,5.0,3623.19,440.64,Credit Card,Returned,Corporate,Returned
+ORD10135,2025-10-01 00:00:00,CUST1155,Suresh S,Male,31.0,Salem,Tamil Nadu,South,Tablet,Electronics,1,18161.98,5.0,17253.88,2492.87,Debit Card,Delivered,Corporate,No
+ORD10049,2025-02-09 00:00:00,CUST1206,Karthik R,Male,18.0,Jaipur,Rajasthan,North,Headset,Accessories,3,N/A,0.0,6665.22,369.43,Credit Card,Cancelled,Small Business,No
+ORD10282,2025-11-22 00:00:00,CUST1210,Meena P,Female,18.0,Hyderabad,Telangana,South, USB Drive ,Storage,6,1279.99,10.0,6911.95,1175.86,Credit Card,Cancelled,Corporate,No
+ORD10636,2025-05-23 00:00:00,CUST1188,Karthik M,Female,31.0,Salem,Tamil Nadu,South,Tablet,Electronics,2,16389.85,5.0,31140.71,4712.48,UPI,Delivered,Corporate,No
+ORD10345,2025-04-26 00:00:00,CUST1209,Vijay M,Female,52.0,Coimbatore,Tamil Nadu,South,Router,Networking,2,2926.85,10.0,5268.33,,Debit Card,Delivered,Corporate,No
+ORD10203,2025-05-07 00:00:00,CUST1240,Naveen M,Female,35.0,Bengaluru,Karnataka,South,Printer,Office Equipment,1,12073.83,0.0,12073.83,892.9,Credit Card,Shipped,Consumer,No
+ORD10002,2025-06-26 00:00:00,CUST1136,Naveen M,Male,31.0,Trichy,Tamil Nadu,South,Laptop,Electronics,3,46186.13,10.0,124702.55,8010.08,Credit Card,Delivered,Corporate,No
+ORD10088,2025-01-02 00:00:00,CUST1037,Santhosh R,Male,31.0,Bengaluru,Karnataka,South,Keyboard,Accessories,3,1874.33,,5622.99,555.29,Credit Card,Delivered,Corporate,No
+ORD10680,2025-08-19 00:00:00,CUST1036,Harish S,Female,40.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,6,23068.31,5.0,131489.37,16197.8,Net Banking,Shipped,Small Business,No
+ORD10114,2025-04-09 00:00:00,CUST1115,Pavithra S,Male,35.0,Delhi,Delhi,North,Router,Networking,1,3320.69,20.0,2656.55,571.64,UPI,Returned,Small Business,Returned
+ORD10454,2025-08-24 00:00:00,CUST1050,Suresh M,Male,31.0,Mumbai,Maharashtra,West,SSD,Storage,2,6024.91,5.0,11447.33,1318.85,net banking,Delivered,Consumer,No
+ORD10014,2025-11-03 00:00:00,CUST1165,Santhosh P,Female,28.0,Mumbai,Maharashtra,West,Keyboard,Accessories,4,1741.34,20.0,5572.29,989.76,Credit Card,Delivered,Consumer,No
+ORD10306,2025-10-07 00:00:00,CUST1175,Karthik P,Female,52.0,Hyderabad,Telangana,South, Router ,Networking,1,3365.71,10.0,3029.14,177.08,UPI,Shipped,Small Business,No
+ORD10697,2025-03-10 00:00:00,CUST1035,Pavithra S,Male,31.0,Hyderabad,Telangana,South,Keyboard,Accessories,1,1840.24,20.0,1472.19,131.71,Debit Card,Cancelled,Corporate,No
+ORD10176,2025-05-04 00:00:00,CUST1057,Vijay R,Female,28.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,4,20997.0,15.0,71389.8,8413.04,Net Banking,Delivered,Corporate,No
+ORD10017,2025-01-20 00:00:00,CUST1038,Priya S,Female,28.0,,Tamil Nadu,South,Mouse,Accessories,6,948.49,10.0,5121.85,345.46,Credit Card,Returned,Corporate,Returned
+ORD10523,2025-11-08 00:00:00,CUST1005,Rahul S,Male,35.0,Madurai,Tamil Nadu,South,Tablet,Electronics,5,17221.06,10.0,77494.77,15957.73,Cash,Delivered,Small Business,No
+ORD10430,2025-07-07 00:00:00,CUST1023,,Male,45.0,Trichy,Tamil Nadu,South,Headset,Accessories,6,2059.84,5.0,11741.09,2244.19,Debit Card,Delivered,Small Business,No
+ORD10215,2025-10-15 00:00:00,CUST1074,Naveen P,Female,60.0,Pune,Maharashtra,West,Tablet,Electronics,5,17740.49,15.0,missing,6447.35,Credit Card,Delivered,Consumer,No
+ORD10340,2025-02-11 00:00:00,CUST1152,Priya M,Female,40.0,Hyderabad,Telangana,South,Printer,Office Equipment,3,12521.71,25.0,28173.85,3826.2,Cash,Shipped,Consumer,No
+ORD10030,2025-09-14 00:00:00,CUST1023,Arun S,Male,40.0,,West Bengal,East,Tablet,Electronics,3,18464.16,10.0,49853.23,8617.6,Net Banking,Returned,Small Business,Returned
+ORD10253,2025-08-05 00:00:00,CUST1208,Dinesh P,Male,31.0,Hyderabad,Telangana,South,USB Drive,Storage,3,1221.91,15.0,3115.87,501.19,UPI,Returned,Small Business,Returned
+ORD10672,2025-03-24 00:00:00,CUST1158,Swetha M,Male,52.0,Bengaluru,Karnataka,South,Laptop,Electronics,1,46134.61,5.0,43827.88,7526.99,Credit Card,Cancelled,Consumer,No
+ORD10095,2025-07-27 00:00:00,CUST1185,Anitha Kumar,Female,35.0,Hyderabad,Telangana,South,Mouse,Accessories,1,979.96,15.0,832.97,156.47,Debit Card,Delivered,Corporate,No
+ORD10521,2025-12-26 00:00:00,CUST1203,,Male,31.0,Mumbai,Maharashtra,West,Laptop,Electronics,6,45984.13,20.0,220723.82,19203.2,Credit Card,Delivered,Consumer,No
+ORD10076,2025-07-25 00:00:00,CUST1047,Karthik S,Female,45.0,Bengaluru,Karnataka,South,Printer,Office Equipment,4,12548.75,5.0,47685.25,8216.13,UPI,Shipped,Consumer,No
+ORD10307,2025-02-05 00:00:00,CUST1072,Vijay P,Female,52.0,Mumbai,Maharashtra,West,SSD,Storage,1,6852.78,10.0,6167.5,327.94,Debit Card,Shipped,Small Business,No
+ORD10065,2025-06-27 00:00:00,CUST1039,Divya M,Female,,Hyderabad,Telangana,South,USB Drive,Storage,5,1307.42,20.0,5229.68,402.56,UPI,Delivered,Consumer,No
+ORD10452,2025-03-25 00:00:00,CUST1058,Suresh S,Male,22.0,Delhi,Delhi,North,Headset,Accessories,4,2393.6,10.0,8616.96,555.22,Debit Card,Returned,Small Business,Returned
+ORD10391,2025-06-06 00:00:00,CUST1009,Dinesh M,Female,,Chennai,Tamil Nadu,South,SSD,Storage,3,6274.5,5.0,17882.32,1096.77,UPI,Shipped,Consumer,No
+ORD10417,2025-06-10 00:00:00,CUST1082,Dinesh R,Female,22.0,Jaipur,Rajasthan,North,Headset,Accessories,6,1992.34,0.0,11954.04,1981.7,UPI,Delivered,Small Business,Yes
+ORD10527,2025-03-04 00:00:00,CUST1192,Keerthi M,Male,45.0,Mumbai,Maharashtra,West,Monitor,Electronics,2,12888.18,5.0,24487.54,3177.67,UPI,Delivered,Consumer,No
+ORD10350,2025-10-05 00:00:00,CUST1042,Dinesh P,Male,60.0,Pune,Maharashtra,West,Mobile Phone,Electronics,6,20317.78,0.0,121906.68,23740.32,UPI,Shipped,Small Business,No
+ORD10371,2025-06-23 00:00:00,CUST1033,Swetha P,Female,18.0,Madurai,Tamil Nadu,South,Monitor,Electronics,-1,14504.68,0.0,14504.68,1013.49,Net Banking,Cancelled,Consumer,No
+ORD10218,2025-06-07 00:00:00,CUST1148,Pavithra M,Female,60.0,Hyderabad,Telangana,South,Webcam,Accessories,1,3701.08,25.0,2775.81,176.11,Credit Card,Delivered,Corporate,No
+ORD10055,2025-06-25 00:00:00,CUST1217,Naveen M,Male,unknown,Mumbai,Maharashtra,West,Printer,Office Equipment,3,13668.4,15.0,34854.42,5208.43,Debit Card,Returned,Corporate,Returned
+ORD10050,2025-08-08 00:00:00,CUST1019,Karthik S,Female,40.0,Kolkata,West Bengal,East,Mouse,Accessories,2,947.09,15.0,1610.05,234.3,UPI,Delivered,Corporate,No
+ORD10553,2025-09-03 00:00:00,CUST1109,Meena Kumar,Female,45.0,Trichy,Tamil Nadu,South,Monitor,Electronics,4,12713.7,25.0,38141.1,3499.09,Cash,Shipped,Consumer,No
+ORD10439,2025-01-31 00:00:00,CUST1174,Karthik S,Female,25.0,Kolkata,West Bengal,East,Keyboard,Accessories,3,1931.69,25.0,4346.3,767.88,Cash,Delivered,Corporate,No
+ORD10061,2025-01-28 00:00:00,CUST1188,Anitha Kumar,Male,35.0,Hyderabad,Telangana,South,Router,Networking,2,3447.47,15.0,5860.7,501.86,Cash,Delivered,Consumer,No
+ORD10338,2025-06-27 00:00:00,CUST1043,Vijay Kumar,Female,52.0,Jaipur,Rajasthan,North,SSD,Storage,3,6360.65,0.0,19081.95,1183.27,UPI,Delivered,Corporate,Yes
+ORD10532,2025-02-14 00:00:00,CUST1047,Santhosh Kumar,Male,45.0,,Delhi,North,Router,Networking,5,2995.07,15.0,12729.05,2183.44,Net Banking,Shipped,Small Business,Yes
+ORD10626,2025-05-01 00:00:00,CUST1138,Suresh S,Female,60.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,4,22741.97,10.0,81871.09,8561.02,UPI,Delivered,Corporate,No
+ORD10291,2025-04-26 00:00:00,CUST1081,Vijay R,Female,31.0,Salem,Tamil Nadu,South,Keyboard,Accessories,6,1774.37,5.0,missing,986.83,Cash,Cancelled,Consumer,No
+ORD10473,2025-11-09 00:00:00,CUST1154,Pavithra R,Male,25.0,Trichy,Tamil Nadu,South,Laptop,Electronics,1,45997.14,5.0,43697.28,6327.78,UPI,Cancelled,Small Business,No
+ORD10548,2025-11-15 00:00:00,CUST1169,Divya P,Male,31.0,Chennai,Tamil Nadu,South,Laptop,Electronics,1,46787.3,0.0,46787.3,5125.48,Credit Card,Returned,Corporate,Returned
+ORD10319,2025-08-09 00:00:00,CUST1080,Swetha R,Female,60.0,Chennai,Tamil Nadu,South,SSD,Storage,2,5884.37,0.0,11768.74,2323.21,UPI,Cancelled,Small Business,No
+ORD10165,2025-09-15 00:00:00,CUST1063,Keerthi Kumar,Female,40.0,Bengaluru,Karnataka,South,SSD,Storage,1,6526.71,25.0,4895.03,665.51,Debit Card,Cancelled,Consumer,No
+ORD10416,2025-04-18 00:00:00,CUST1102,Anitha S,Male,18.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,3,22645.29,10.0,61142.28,7811.89,Net Banking,Shipped,Corporate,No
+ORD10485,2025-01-10 00:00:00,CUST1202,Pavithra M,Male,52.0,Coimbatore,Tamil Nadu,South,Router,Networking,6,3019.13,25.0,13586.08,2365.78,Cash,Delivered,Consumer,No
+ORD10080,2025-06-22 00:00:00,CUST1139,Keerthi R,Female,35.0,Madurai,Tamil Nadu,South,Tablet,Electronics,4,17451.55,20.0,55844.96,7794.38,Debit Card,Cancelled,Consumer,No
+ORD10444,2025-05-30 00:00:00,CUST1213,Pavithra S,Female,45.0,Hyderabad,Telangana,South,Laptop,Electronics,2,44676.26,5.0,84884.89,10902.73,Net Banking,Cancelled,Consumer,No
+ORD10267,2025-06-05 00:00:00,CUST1248,Priya Kumar,Male,28.0,,Tamil Nadu,South,Webcam,Accessories,6,3430.03,20.0,16464.14,1525.76,Debit Card,Delivered,Corporate,No
+ORD10187,2025-01-10 00:00:00,CUST1139,Anitha R,Female,25.0,,Tamil Nadu,South,Printer,Office Equipment,3,12895.16,0.0,38685.48,5403.0,Cash,Delivered,Small Business,No
+ORD10436,2025-08-09 00:00:00,CUST1161,Arun S,Male,35.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,1,3525.92,15.0,2997.03,535.82,UPI,Delivered,Small Business,No
+ORD10308,2025-02-22 00:00:00,CUST1080,,Male,45.0,Trichy,Tamil Nadu,South,Tablet,Electronics,2,17430.97,10.0,31375.75,3175.59,Cash,Returned,Small Business,Returned
+ORD10578,2025-09-17 00:00:00,CUST1198,Swetha S,Female,28.0,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,2,1825.25,10.0,3285.45,238.09,Debit Card,Delivered,Corporate,No
+ORD10169,2025-12-20 00:00:00,CUST1095,Anitha S,Male,18.0,Pune,Maharashtra,West,Monitor,Electronics,1,13279.99,5.0,12615.99,1042.98,UPI,Cancelled,Consumer,No
+ORD10138,2025-05-22 00:00:00,CUST1106,Dinesh Kumar,Male,31.0,Bengaluru,Karnataka,South,Router,Networking,6,3492.79,0.0,20956.74,4295.47,Credit Card,Delivered,Small Business,No
+ORD10587,2025-08-31 00:00:00,CUST1103,Divya S,Male,18.0,Jaipur,Rajasthan,North,Tablet,Electronics,5,19252.53,15.0,81823.25,13218.88,Net Banking,Cancelled,Small Business,No
+ORD10475,2025-12-06 00:00:00,CUST1099,,Female,28.0,Trichy,Tamil Nadu,South,Laptop,Electronics,3,42903.77,10.0,115840.18,10729.06,Credit Card,Cancelled,Consumer,No
+ORD10461,2025-05-11 00:00:00,CUST1199,Santhosh R,Male,31.0,Madurai,Tamil Nadu,South,Monitor,Electronics,-1,14500.21,5.0,41325.6,5717.2,Cash,Shipped,Corporate,No
+ORD10242,2025-02-13 00:00:00,CUST1036,,Male,40.0,Salem,Tamil Nadu,South,Webcam,Accessories,4,3241.69,20.0,10373.41,960.02,UPI,Delivered,Small Business,No
+ORD10329,2025-11-19 00:00:00,CUST1083,Arun Kumar,Male,18.0,Trichy,Tamil Nadu,South,Printer,Office Equipment,3,12305.35,15.0,31378.64,2230.86,Cash,Delivered,Small Business,No
+ORD10628,2025-03-03 00:00:00,CUST1154,Karthik S,Female,31.0,Pune,Maharashtra,West,Headset,Accessories,2,2404.94,10.0,4328.89,905.93,Cash,Delivered,Corporate,No
+ORD10694,2025-10-22 00:00:00,CUST1197,Vijay R,Male,25.0,Bengaluru,Karnataka,South,Mobile Phone,Electronics,6,21430.92,15.0,109297.69,8637.68,Net Banking,Returned,Small Business,Returned
+ORD10404,2025-11-22 00:00:00,CUST1220,Karthik S,Female,60.0,Pune,Maharashtra,West,Mobile Phone,Electronics,3,22180.11,25.0,49905.25,5272.04,Credit Card,Delivered,Consumer,No
+ORD10656,2025-03-13 00:00:00,CUST1150,Meena M,Female,60.0,Mumbai,Maharashtra,West,Keyboard,Accessories,1,1632.97,20.0,1306.38,108.88,Credit Card,Returned,Small Business,Returned
+ORD10664,2025-02-28 00:00:00,CUST1021,Meena R,Male,28.0,Jaipur,Rajasthan,North,Monitor,Electronics,4,14670.71,0.0,58682.84,8136.56,UPI,Shipped,Small Business,No
+ORD10332,2025-03-02 00:00:00,CUST1160,Dinesh Kumar,Female,40.0,Hyderabad,Telangana,South,SSD,Storage,1,6068.16,0.0,6068.16,475.41,Net Banking,Shipped,Consumer,No
+ORD10634,2025-10-18 00:00:00,CUST1072,Anitha M,Male,40.0,Delhi,Delhi,North,Tablet,Electronics,3,18207.1,0.0,54621.3,6565.83,Net Banking,Cancelled,Small Business,No
+ORD10100,2025-03-17 00:00:00,CUST1163,Suresh Kumar,Male,45.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,4,1971.81,0.0,7887.24,1674.36,Debit Card,Delivered,Corporate,No
+ORD10268,2025-07-26 00:00:00,CUST1112,Rahul S,Female,22.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,2,22856.56,5.0,43427.46,2653.44,Credit Card,Delivered,Consumer,No
+ORD10469,2025-10-29 00:00:00,CUST1159,Arun P,Male,52.0,Coimbatore,Tamil Nadu,South,Monitor,Electronics,5,12635.84,0.0,63179.2,3653.87,Cash,Delivered,Corporate,No
+ORD10216,2025-03-27 00:00:00,CUST1208,Arun R,Male,40.0,Salem,Tamil Nadu,South,Monitor,Electronics,2,13337.86,10.0,24008.15,,Debit Card,Shipped,Consumer,No
+ORD10318,2025-07-06 00:00:00,CUST1160,Harish P,Male,28.0,Delhi,Delhi,North,Monitor,Electronics,5,13214.99,15.0,56163.71,7916.75,Credit Card,Delivered,Corporate,No
+ORD10376,2025-06-26 00:00:00,CUST1019,Santhosh M,Female,unknown,Salem,Tamil Nadu,South,Mouse,Accessories,2,861.86,10.0,1551.35,173.4,Cash,Shipped,Small Business,No
+ORD10323,2025-10-14 00:00:00,CUST1069,Vijay M,Female,40.0,Kolkata,West Bengal,East,Headset,Accessories,4,1990.19,15.0,6766.65,667.1,UPI,Returned,Small Business,Returned
+ORD10237,2025-04-21 00:00:00,CUST1052,Dinesh S,Female,28.0,Hyderabad,Telangana,South,Monitor,Electronics,4,14574.02,10.0,52466.47,6027.52,Cash,Delivered,Small Business,No
+ORD10185,invalid_date,CUST1138,Harish R,Female,52.0,Jaipur,Rajasthan,North,USB Drive,Storage,2,1163.96,5.0,2211.52,457.84,,Delivered,Consumer,No
+ORD10688,2025-12-14 00:00:00,CUST1020,Swetha M,Female,45.0,Trichy,Tamil Nadu,South,SSD,Storage,2,6046.58,15.0,10279.19,1936.89,Credit Card,Delivered,Consumer,No
+ORD10638,2025-10-20 00:00:00,CUST1189,Priya R,Male,45.0,Salem,Tamil Nadu,South,Router,Networking,1,3107.16,10.0,2796.44,544.33,Cash,Delivered,Consumer,No
+ORD10015,2025-06-02 00:00:00,CUST1127,Pavithra S,Male,31.0,Pune,Maharashtra,West,Webcam,Accessories,3,3207.1,20.0,7697.04,951.57,Cash,Delivered,Small Business,No
+ORD10385,2025-01-20 00:00:00,CUST1017,Swetha R,Male,52.0,Pune,Maharashtra,West,USB Drive,Storage,1,1139.49,15.0,968.57,165.1,Net Banking,Delivered,Consumer,No
+ORD10048,2025-02-19 00:00:00,CUST1212,Harish Kumar,Male,45.0,Delhi,Delhi,North,Headset,Accessories,1,1996.06,0.0,1996.06,351.32,Cash,Shipped,Consumer,No
+ORD10543,2025-04-16 00:00:00,CUST1017,Dinesh M,Male,31.0,Bengaluru,Karnataka,South,Printer,Office Equipment,1,12263.66,0.0,12263.66,2283.71,Debit Card,Delivered,Corporate,No
+ORD10148,2025-07-21 00:00:00,CUST1121,Rahul P,Female,25.0,Bengaluru,Karnataka,South,Keyboard,Accessories,2,1701.49,15.0,2892.53,494.95,Debit Card,Delivered,Corporate,No
+ORD10517,2025-04-18 00:00:00,CUST1139,Dinesh S,Female,52.0,Kolkata,West Bengal,East,USB Drive,Storage,2,1176.8,20.0,1882.88,143.03,UPI,Delivered,Consumer,No
+ORD10590,2025-03-24 00:00:00,CUST1052,Arun R,Male,28.0,Pune,Maharashtra,West,Printer,Office Equipment,3,12014.19,0.0,36042.57,3825.13,Debit Card,Cancelled,Corporate,No
+ORD10209,2025-06-05 00:00:00,CUST1216,Dinesh Kumar,Male,40.0,Coimbatore,Tamil Nadu,South,Headset,Accessories,1,2094.62,0.0,2094.62,273.8,Net Banking,Delivered,Consumer,No
+ORD10596,2025-07-23 00:00:00,CUST1174,Keerthi R,Female,45.0,Hyderabad,Telangana,South,Mouse,Accessories,3,885.68,15.0,2258.48,357.93,UPI,Delivered,Small Business,No
+ORD10265,2025-07-11 00:00:00,CUST1011,Vijay S,Female,40.0,Bengaluru,Karnataka,South,Headset,Accessories,2,2306.25,5.0,4381.88,880.45,Cash,Delivered,Small Business,No
+ORD10567,2025-02-13 00:00:00,CUST1203,Dinesh Kumar,Male,52.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,1,20613.18,15.0,17521.2,1560.21,Net Banking,Cancelled,Small Business,No
+ORD10424,2025-11-24 00:00:00,CUST1196,Anitha S,Female,18.0,Salem,Tamil Nadu,South,Router,Networking,1,2923.68,5.0,2777.5,523.09,Cash,Delivered,Consumer,No
+ORD10423,2025-03-20 00:00:00,CUST1144,Rahul P,Female,31.0,Kolkata,West Bengal,East,Laptop,Electronics,4,43649.57,5.0,165868.37,14158.12,UPI,Delivered,Small Business,No
+ORD10356,2025-07-23 00:00:00,CUST1110,Santhosh R,Male,35.0,Delhi,Delhi,North,Laptop,Electronics,4,41204.52,5.0,156577.18,8706.82,Debit Card,Delivered,Corporate,No
+ORD10166,2025-08-25 00:00:00,CUST1143,Priya Kumar,Female,25.0,Kolkata,West Bengal,East,Tablet,Electronics,1,17366.65,10.0,15629.99,2374.68,Cash,Returned,Consumer,Returned
+ORD10086,2025-04-12 00:00:00,CUST1027,,Female,40.0,Kolkata,West Bengal,East,Tablet,Electronics,3,16354.15,20.0,39249.96,3534.79,Debit Card,Shipped,Corporate,No
+ORD10646,2025-02-24 00:00:00,CUST1110,Naveen S,Female,31.0,Mumbai,Maharashtra,West,Mobile Phone,Electronics,4,23473.7,5.0,89200.06,16641.76,Credit Card,Shipped,Consumer,No
+ORD10327,2025-09-28 00:00:00,CUST1011,Meena P,Female,31.0,Kolkata,West Bengal,East,Printer,Office Equipment,4,11442.76,0.0,45771.04,7068.45,Credit Card,Delivered,Corporate,No
+ORD10625,2025-07-27 00:00:00,CUST1187,Swetha M,Female,22.0,Bengaluru,Karnataka,South,Printer,Office Equipment,6,13541.67,0.0,81250.02,,Cash,Delivered,Small Business,No
+ORD10570,2025-01-01 00:00:00,CUST1205,,Male,45.0,Madurai,Tamil Nadu,South,Router,Networking,2,3055.74,10.0,5500.33,599.19,Net Banking,Delivered,Consumer,No
+ORD10386,2025-07-26 00:00:00,CUST1064,Meena R,Male,35.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,1,20484.46,5.0,19460.24,2922.37,Credit Card,Cancelled,Consumer,No
+ORD10542,2025-09-16 00:00:00,CUST1248,Karthik P,Male,18.0,Salem,Tamil Nadu,South,Keyboard,Accessories,1,1715.82,20.0,1372.66,155.39,Net Banking,Delivered,Corporate,No
+ORD10487,2025-02-19 00:00:00,CUST1049,,Male,31.0,Kolkata,West Bengal,East,Monitor,Electronics,2,12931.2,15.0,21983.04,4635.1,Credit Card,Cancelled,Small Business,No
+ORD10189,2025-02-26 00:00:00,CUST1150,Karthik M,Female,18.0,Trichy,Tamil Nadu,South,Mobile Phone,Electronics,2,19929.56,15.0,33880.25,1950.38,Debit Card,Delivered,Consumer,No
+ORD10405,2025-10-12 00:00:00,CUST1160,Divya R,Female,28.0,Pune,Maharashtra,West,Tablet,Electronics,1,17743.67,5.0,16856.49,3570.82,Net Banking,Delivered,Consumer,No
+ORD10304,2025-09-06 00:00:00,CUST1206,Rahul M,Female,28.0,Pune,Maharashtra,West,Keyboard,Accessories,2,1829.68,5.0,3476.39,473.35,UPI,Delivered,Corporate,No
+ORD10443,2025-02-10 00:00:00,CUST1096,Arun M,Male,22.0,Chennai,Tamil Nadu,South,Router,Networking,1,3488.45,10.0,3139.6,586.79,UPI,Cancelled,Corporate,No
+ORD10223,2025-01-10 00:00:00,CUST1247,Anitha M,Male,25.0,Salem,Tamil Nadu,South,Keyboard,Accessories,2,1641.79,20.0,2626.86,391.84,Debit Card,Returned,Small Business,Returned
+ORD10264,2025-08-05 00:00:00,CUST1072,Santhosh M,Male,18.0,Hyderabad,Telangana,South,Monitor,Electronics,5,13138.5,20.0,52554.0,8958.03,Credit Card,Delivered,Small Business,No
+ORD10493,2025-11-30 00:00:00,CUST1191,Swetha M,Female,45.0,Bengaluru,Karnataka,South,Tablet,Electronics,1,17662.75,5.0,16779.61,3110.57,Net Banking,Delivered,Small Business,No
+ORD10227,2025-08-24 00:00:00,CUST1217,Harish Kumar,Female,45.0,Hyderabad,Telangana,South,Router,Networking,5,3409.96,5.0,16197.31,1650.67,Debit Card,Returned,Small Business,Returned
+ORD10595,2025-12-22 00:00:00,CUST1217,Santhosh M,Female,52.0,Salem,Tamil Nadu,South,Laptop,Electronics,2,41912.19,15.0,71250.72,10944.72,Net Banking,Delivered,Consumer,No
+ORD10637,2025-02-18 00:00:00,CUST1146,Suresh P,Male,18.0,Mumbai,Maharashtra,West,Monitor,Electronics,1,15201.28,0.0,15201.28,2951.33,Debit Card,Delivered,Small Business,No
+ORD10077,2025-05-23 00:00:00,CUST1247,Divya Kumar,Female,52.0,Jaipur,Rajasthan,North,Router,Networking,1,2956.2,10.0,2660.58,151.08,Net Banking,Delivered,Consumer,No
+ORD10085,2025-04-28 00:00:00,CUST1098,Anitha S,Female,31.0,Chennai,Tamil Nadu,South,Mouse,Accessories,2,897.9,10.0,1616.22,300.12,Debit Card,Delivered,Corporate,No
+ORD10538,2025-03-31 00:00:00,CUST1090,Vijay P,Male,28.0,Delhi,Delhi,North,USB Drive,Storage,1,1138.2,,967.47,189.19,UPI,Delivered,Consumer,No
+ORD10010,2025-06-24 00:00:00,CUST1183,Anitha S,Female,28.0,Pune,Maharashtra,West,SSD,Storage,2,5853.49,25.0,8780.24,1790.36,Cash,Delivered,Small Business,No
+ORD10480,2025-06-11 00:00:00,CUST1131,Divya Kumar,Male,18.0,pune ,Maharashtra,West,Mobile Phone,Electronics,3,22728.66,20.0,54548.78,5316.26,Net Banking,Shipped,Small Business,No
+ORD10098,2025-09-16 00:00:00,CUST1096,Santhosh S,Female,35.0,Jaipur,Rajasthan,North,Keyboard,Accessories,1,1747.67,15.0,1485.52,150.96,Cash,Delivered,Corporate,No
+ORD10247,2025-08-19 00:00:00,CUST1147,Karthik P,Male,31.0,bengaluru ,Karnataka,South,Webcam,Accessories,2,3474.45,10.0,6254.01,443.61,Credit Card,Delivered,Corporate,No
+ORD10200,2025-10-20 00:00:00,CUST1046,Dinesh P,Female,28.0,Hyderabad,Telangana,South,USB Drive,Storage,2,1209.51,20.0,1935.22,351.04,Cash,Delivered,Consumer,No
+ORD10505,2025-01-03 00:00:00,CUST1220,Karthik Kumar,Male,22.0,Kolkata,West Bengal,East,Webcam,Accessories,1,3579.82,0.0,3579.82,579.64,Net Banking,Cancelled,Corporate,No
+ORD10016,2025-02-28 00:00:00,CUST1167,Priya Kumar,Male,22.0,Bengaluru,Karnataka,South,Headset,Accessories,1,2295.81,5.0,2181.02,356.87,Credit Card,Delivered,Small Business,No
+ORD10650,2025-09-29 00:00:00,CUST1071,Arun P,Female,52.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,2,3675.37,0.0,7350.74,1367.31,UPI,Cancelled,Small Business,No
+ORD10394,2025-09-18 00:00:00,CUST1019,Meena M,Male,25.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,3,1947.48,5.0,5550.32,1205.07,Net Banking,Cancelled,Consumer,No
+ORD10671,2025-11-19 00:00:00,CUST1029,Meena P,Male,18.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,4,1639.74,10.0,5903.06,997.87,Cash,Delivered,Consumer,No
+ORD10201,2025-07-24 00:00:00,CUST1116,Karthik R,Female,40.0,Coimbatore,Tamil Nadu,South,Mobile Phone,Electronics,3,23861.54,5.0,68005.39,10159.91,Cash,Cancelled,Small Business,No
+ORD10094,2025-03-22 00:00:00,CUST1141,Priya M,Female,31.0,Hyderabad,Telangana,South,Keyboard,Accessories,2,1765.78,20.0,2825.25,428.52,Net Banking,Delivered,Small Business,No
+ORD10674,2025-12-19 00:00:00,CUST1086,,Male,52.0,Jaipur,Rajasthan,North,Tablet,Electronics,3,18218.06,0.0,54654.18,3144.64,Credit Card,Delivered,Consumer,No
+ORD10159,2025-01-30 00:00:00,CUST1212,Pavithra S,Male,22.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,5,825.7,0.0,4128.5,478.36,Credit Card,Cancelled,Consumer,No
+ORD10309,2025-01-02 00:00:00,CUST1113,Meena P,Male,40.0,Coimbatore,Tamil Nadu,South,SSD,Storage,3,6751.71,5.0,19242.37,2024.13,Cash,Delivered,Corporate,No
+ORD10630,2025-11-29 00:00:00,CUST1115,Santhosh S,Male,22.0,Delhi,Delhi,North, Keyboard ,Accessories,4,1927.11,10.0,6937.6,1042.78,Debit Card,Shipped,Small Business,Yes
+ORD10546,2025-04-10 00:00:00,CUST1140,Anitha S,Male,60.0,Pune,Maharashtra,West,Mobile Phone,Electronics,2,21558.6,20.0,34493.76,3687.31,Net Banking,Shipped,Consumer,No
+ORD10380,2025-08-24 00:00:00,CUST1077,Swetha M,Female,45.0,Delhi,Delhi,North,Keyboard,Accessories,1,1973.51,20.0,1578.81,334.59,UPI,Returned,Consumer,Returned
+ORD10556,2025-08-11 00:00:00,CUST1018,,Female,52.0,Kolkata,West Bengal,East,Keyboard,Accessories,3,1938.48,25.0,4361.58,668.55,Cash,Delivered,Small Business,No
+ORD10435,2025-04-23 00:00:00,CUST1064,Pavithra M,Male,52.0,Mumbai,Maharashtra,West,Laptop,Electronics,2,42739.49,5.0,81205.03,4061.97,Debit Card,Delivered,Consumer,No
+ORD10151,2025-09-25 00:00:00,CUST1126,Suresh P,Male,52.0,Trichy,Tamil Nadu,South,Webcam,Accessories,2,3758.43,,7516.86,1019.51,Credit Card,Delivered,Small Business,No
+ORD10689,2025-11-03 00:00:00,CUST1175,Divya S,Female,25.0,Pune,Maharashtra,West,SSD,Storage,1,6207.74,15.0,5276.58,608.96,Debit Card,Delivered,Consumer,No
+ORD10395,2025-08-23 00:00:00,CUST1118,Dinesh M,Male,52.0,Trichy,Tamil Nadu,South,Router,Networking,1,3288.83,10.0,2959.95,313.68,UPI,Shipped,Corporate,No
+ORD10622,2025-10-27 00:00:00,CUST1032,Suresh R,Male,45.0,Delhi,Delhi,North,Tablet,Electronics,2,18287.66,0.0,36575.32,7162.24,Net Banking,Cancelled,Corporate,No
+ORD10193,2025-12-09 00:00:00,CUST1134,Pavithra R,Male,45.0,Bengaluru,Karnataka,South,Laptop,Electronics,3,46231.76,10.0,124825.75,8142.98,Debit Card,Delivered,Corporate,No
+ORD10512,2025-01-26 00:00:00,CUST1015,Arun P,Male,18.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,3,21388.98,10.0,57750.25,11808.45,UPI,Cancelled,Corporate,No
+ORD10679,2025-02-26 00:00:00,CUST1103,Keerthi S,Female,28.0,Pune,Maharashtra,West,Monitor,Electronics,1,14061.62,10.0,12655.46,2742.09,Net Banking,Delivered,Corporate,No
+ORD10360,2025-10-17 00:00:00,CUST1204,Meena P,Female,18.0,Hyderabad,Telangana,South,Router,Networking,2,3287.42,0.0,6574.84,1228.16,Credit Card,Delivered,Corporate,No
+ORD10208,2025-07-31 00:00:00,CUST1128,Naveen S,Male,35.0,Pune,Maharashtra,West,SSD,Storage,3,6159.97,5.0,17555.91,1538.7,Debit Card,Shipped,Corporate,No
+ORD10241,2025-01-05 00:00:00,CUST1055,Priya Kumar,Male,40.0,Pune,Maharashtra,West,Laptop,Electronics,4,41511.01,20.0,132835.23,28266.87,Net Banking,Delivered,Corporate,No
+ORD10508,2025-12-22 00:00:00,CUST1043,Meena R,Male,25.0,Pune,Maharashtra,West,Mouse,Accessories,3,886.61,20.0,2127.86,420.94,Credit Card,Shipped,Small Business,No
+ORD10097,2025-04-26 00:00:00,CUST1151,Keerthi P,Female,22.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,3,20241.92,0.0,60725.76,8152.54,UPI,Delivered,Small Business,No
+ORD10482,2025-12-15 00:00:00,CUST1114,Keerthi Kumar,Male,28.0,Mumbai,Maharashtra,West,SSD,Storage,2,6120.9,15.0,10405.53,1702.8,Net Banking,Delivered,Corporate,No
+ORD10297,2025-10-22 00:00:00,CUST1153,Anitha S,Female,22.0,Kolkata,West Bengal,East,Router,Networking,2,3053.4,20.0,4885.44,495.22,Net Banking,Delivered,Corporate,No
+ORD10029,2025-09-11 00:00:00,CUST1144,Harish P,Female,31.0,Chennai,Tamil Nadu,South, Monitor ,Electronics,1,13442.95,0.0,13442.95,882.82,Net Banking,Delivered,Corporate,No
+ORD10598,2025-08-05 00:00:00,CUST1131,Harish S,Female,40.0,Salem,Tamil Nadu,South,Monitor,Electronics,3,14332.01,15.0,36546.63,1861.43,UPI,Delivered,Small Business,No
+ORD10627,2025-07-19 00:00:00,CUST1219,Arun P,Male,25.0,Bengaluru,Karnataka,South,SSD,Storage,1,6909.67,5.0,6564.19,462.37,Cash,Returned,Consumer,Returned
+ORD10539,2025-09-06 00:00:00,CUST1195,Suresh Kumar,Female,,Coimbatore,Tamil Nadu,South,SSD,Storage,3,7009.93,10.0,18926.81,3163.46,Cash,Delivered,Corporate,No
+ORD10450,2025-05-16 00:00:00,CUST1165,Meena Kumar,Female,45.0,Bengaluru,Karnataka,South,Headset,Accessories,5,2393.19,0.0,11965.95,1766.25,Credit Card,Delivered,Consumer,No
+ORD10511,2025-07-24 00:00:00,CUST1225,Rahul S,Female,60.0,Pune,Maharashtra,West,Tablet,Electronics,2,19254.64,20.0,missing,4692.14,Credit Card,Delivered,Corporate,No
+ORD10676,2025-06-12 00:00:00,CUST1045,Karthik R,Female,18.0,Trichy,Tamil Nadu,South,Monitor,Electronics,1,14803.36,25.0,11102.52,1947.21,Debit Card,Cancelled,Small Business,No
+ORD10607,2025-12-31 00:00:00,CUST1144,Karthik Kumar,Male,52.0,Hyderabad,Telangana,South,Router,Networking,1,2955.37,10.0,2659.83,432.54,Credit Card,Delivered,Consumer,No
+ORD10047,2025-02-25 00:00:00,CUST1222,Meena P,Female,25.0,Trichy,Tamil Nadu,South,Mobile Phone,Electronics,5,21422.16,20.0,85688.64,12889.94,Credit Card,Delivered,Corporate,No
+ORD10292,2025-11-05 00:00:00,CUST1024,Rahul S,Male,25.0,Mumbai,Maharashtra,West,Monitor,Electronics,2,13630.93,5.0,25898.77,3531.86,Net Banking,Delivered,Small Business,No
+ORD10403,2025-07-22 00:00:00,CUST1001,Vijay R,Male,31.0,Chennai,Tamil Nadu,South,Mouse,Accessories,6,956.35,0.0,5738.1,935.58,UPI,Delivered,Consumer,No
+ORD10414,2025-08-19 00:00:00,CUST1050,Swetha Kumar,Female,45.0,Jaipur,Rajasthan,North,Tablet,Electronics,3,17733.3,0.0,53199.9,4414.19,Credit Card,Shipped,Corporate,No
+ORD10262,2025-10-09 00:00:00,CUST1066,Rahul P,Male,35.0,Bengaluru,Karnataka,South,Webcam,Accessories,2,3686.74,0.0,7373.48,1323.81,UPI,Shipped,Consumer,No
+ORD10530,2025-10-09 00:00:00,CUST1135,Swetha M,Female,31.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,1,23637.75,10.0,21273.98,3026.04,Net Banking,Delivered,Small Business,No
+ORD10302,2025-02-17 00:00:00,CUST1236,Anitha M,Female,25.0,Mumbai,Maharashtra,West,Router,Networking,2,2978.63,15.0,5063.67,803.56,Credit Card,Delivered,Small Business,No
+ORD10018,2025-04-03 00:00:00,CUST1039,Rahul R,Female,22.0,Bengaluru,Karnataka,South,Printer,Office Equipment,2,11704.07,5.0,22237.73,4308.35,UPI,Cancelled,Consumer,No
+ORD10128,2025-01-06 00:00:00,CUST1204,Naveen Kumar,Male,60.0,Jaipur,Rajasthan,North,Keyboard,Accessories,1,1759.19,0.0,1759.19,111.75,Debit Card,Cancelled,Small Business,No
+ORD10064,2025-03-25 00:00:00,CUST1173,Swetha M,Female,22.0,Jaipur,Rajasthan,North,USB Drive,Storage,5,1133.66,5.0,5384.88,1049.02,Debit Card,Delivered,Corporate,No
+ORD10579,2025-09-18 00:00:00,CUST1014,Suresh R,Female,40.0,Jaipur,Rajasthan,North,Printer,Office Equipment,2,13284.76,5.0,25241.04,4430.38,Credit Card,Shipped,Corporate,No
+ORD10572,2025-11-28 00:00:00,CUST1118,Pavithra S,Female,45.0,Trichy,Tamil Nadu,South,Mobile Phone,Electronics,3,21221.93,20.0,50932.63,10218.25,Credit Card,Delivered,Small Business,No
+ORD10393,2025-12-30 00:00:00,CUST1089,Suresh S,Female,31.0,Kolkata,West Bengal,East,Laptop,Electronics,2,42746.05,10.0,76942.89,14571.43,UPI,Delivered,Corporate,No
+ORD10198,2025-11-03 00:00:00,CUST1163,Harish P,Male,40.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,1,20051.21,0.0,20051.21,1430.05,Debit Card,Cancelled,Small Business,No
+ORD10467,2025-12-18 00:00:00,CUST1047,Swetha M,Female,35.0,Jaipur,Rajasthan,North,Keyboard,Accessories,5,1700.5,5.0,8077.38,1031.83,,Delivered,Consumer,No
+ORD10495,2025-06-11 00:00:00,CUST1110,Suresh R,Male,18.0,Coimbatore,Tamil Nadu,South,Router,Networking,3,3487.14,15.0,8892.21,567.07,,Returned,Consumer,Returned
+ORD10243,2025-01-25 00:00:00,CUST1150,Divya P,Female,25.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,2,1083.1,25.0,1624.65,270.69,Credit Card,Returned,Small Business,Returned
+ORD10367,2025-10-31 00:00:00,CUST1050,Santhosh P,Male,22.0,Madurai,Tamil Nadu,South,USB Drive,Storage,1,1115.49,10.0,1003.94,216.03,UPI,Delivered,Small Business,No
+ORD10433,2025-11-11 00:00:00,CUST1250,Pavithra Kumar,Female,60.0,Mumbai,Maharashtra,West,Mouse,Accessories,1,840.84,10.0,756.76,165.22,Debit Card,Delivered,Consumer,Yes
+ORD10197,2025-07-24 00:00:00,CUST1065,Vijay S,Male,52.0,Jaipur,Rajasthan,North,Headset,Accessories,2,2037.8,0.0,4075.6,226.06,UPI,Delivered,Small Business,No
+ORD10139,2025-11-14 00:00:00,CUST1076,Arun S,Female,31.0,Mumbai,Maharashtra,West,USB Drive,Storage,1,1149.59,10.0,1034.63,111.47,Credit Card,Delivered,Consumer,No
+ORD10153,2025-09-03 00:00:00,CUST1033,Rahul M,Male,unknown,Chennai,Tamil Nadu,South,USB Drive,Storage,1,1091.47,15.0,927.75,175.31,Debit Card,Cancelled,Consumer,No
+ORD10007,2025-12-16 00:00:00,CUST1231,Santhosh S,Male,,Hyderabad,Telangana,South,USB Drive,Storage,3,1156.5,15.0,2949.08,425.39,Net Banking,Shipped,Small Business,No
+ORD10600,2025-07-19 00:00:00,CUST1147,Swetha S,Female,35.0,Bengaluru,Karnataka,South,Printer,Office Equipment,1,13255.14,10.0,11929.63,1112.69,UPI,Delivered,Consumer,No
+ORD10295,2025-04-02 00:00:00,CUST1082,Rahul S,Male,40.0,Chennai,Tamil Nadu,South,Tablet,Electronics,5,17033.56,0.0,85167.8,17951.33,Credit Card,Delivered,Consumer,No
+ORD10582,2025-10-01 00:00:00,CUST1203,Keerthi P,Male,22.0,Pune,Maharashtra,West,Laptop,Electronics,5,49467.27,0.0,247336.35,19846.49,Credit Card,Cancelled,Corporate,No
+ORD10608,2025-01-25 00:00:00,CUST1115,Dinesh R,Male,40.0,Salem,Tamil Nadu,South,Headset,Accessories,1,2020.04,0.0,2020.04,267.36,Credit Card,Returned,Consumer,Returned
+ORD10682,2025-03-02 00:00:00,CUST1030,Rahul R,Female,18.0,Salem,Tamil Nadu,South,Printer,Office Equipment,1,11957.08,0.0,11957.08,1275.46,Net Banking,Delivered,Corporate,No
+ORD10372,2025-12-04 00:00:00,CUST1096,Harish M,Female,52.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,4,1307.19,15.0,4444.45,861.04,Debit Card,Shipped,Consumer,No
+ORD10479,2025-09-14 00:00:00,CUST1054,Karthik R,Male,35.0,Madurai,Tamil Nadu,South,Headset,Accessories,1,2105.96,20.0,1684.77,124.32,Credit Card,Shipped,Small Business,No
+ORD10107,2025-07-23 00:00:00,CUST1079,Arun S,Male,45.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,2,3449.74,20.0,5519.58,521.28,Cash,Delivered,Consumer,No
+ORD10654,2025-09-30 00:00:00,CUST1232,Divya P,Male,35.0,Trichy,Tamil Nadu,South,Headset,Accessories,3,2207.71,10.0,5960.82,776.7,Debit Card,Delivered,Corporate,No
+ORD10113,2025-01-22 00:00:00,CUST1144,Karthik S,Female,45.0,Chennai,Tamil Nadu,South,Monitor,Electronics,2,13192.39,10.0,23746.3,1485.02,Debit Card,Shipped,Consumer,No
+ORD10586,2025-07-16 00:00:00,CUST1230,Santhosh P,Male,60.0,Salem,Tamil Nadu,South,Laptop,Electronics,1,44814.52,15.0,38092.34,4396.88,Debit Card,Delivered,Small Business,No
+ORD10353,2025-06-25 00:00:00,CUST1032,Vijay R,Female,60.0,Salem,Tamil Nadu,South,Laptop,Electronics,2,42498.94,20.0,67998.3,14597.64,Debit Card,Shipped,Small Business,No
+ORD10381,2025-11-08 00:00:00,CUST1010,Rahul S,Male,60.0,Mumbai,Maharashtra,West,USB Drive,Storage,1,1106.8,5.0,1051.46,210.43,UPI,Cancelled,Consumer,No
+ORD10339,2025-04-13 00:00:00,CUST1077,Meena R,Male,25.0,Jaipur,Rajasthan,North,Printer,Office Equipment,1,12758.41,20.0,10206.73,1837.63,Credit Card,Returned,Consumer,Returned
+ORD10584,2025-11-03 00:00:00,CUST1028,Keerthi R,Female,22.0,Pune,Maharashtra,West,Mouse,Accessories,1,964.56,10.0,868.1,171.45,UPI,Shipped,Corporate,No
+ORD10205,2025-08-03 00:00:00,CUST1082,Dinesh R,Female,45.0,Madurai,Tamil Nadu,South,SSD,Storage,5,5898.96,0.0,29494.8,5500.22,Net Banking,Delivered,Small Business,No
+ORD10238,2025-01-01 00:00:00,CUST1157,Swetha R,Female,60.0,Delhi,Delhi,North,Webcam,Accessories,2,3408.39,25.0,5112.58,701.87,Debit Card,Delivered,Consumer,No
+ORD10373,2025-09-20 00:00:00,CUST1231,Meena P,Male,35.0,Salem,Tamil Nadu,South,Laptop,Electronics,4,41689.75,0.0,166759.0,25690.77,Debit Card,Returned,Small Business,Returned
+ORD10491,2025-02-04 00:00:00,CUST1140,Santhosh Kumar,Male,45.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,1,19867.99,,19867.99,1829.65,Credit Card,Cancelled,Corporate,No
+ORD10448,2025-06-20 00:00:00,CUST1155,Vijay P,Male,52.0,Trichy,Tamil Nadu,South,Monitor,Electronics,2,13830.31,10.0,24894.56,4644.25,Credit Card,Delivered,Consumer,No
+ORD10644,2025-07-07 00:00:00,CUST1199,Arun P,Female,22.0,Chennai,Tamil Nadu,South,Laptop,Electronics,3,45075.53,10.0,121703.93,15463.03,Cash,Delivered,Small Business,No
+ORD10379,2025-08-30 00:00:00,CUST1189,Arun P,Male,35.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,2,917.47,5.0,1743.19,95.61,UPI,Delivered,Consumer,No
+ORD10699,2025-02-11 00:00:00,CUST1045,Divya Kumar,Female,,Mumbai,Maharashtra,West,Webcam,Accessories,2,3750.51,0.0,7501.02,1383.15,Credit Card,Delivered,Consumer,No
+ORD10357,2025-09-22 00:00:00,CUST1147,Rahul S,Female,60.0,Delhi,Delhi,North,USB Drive,Storage,6,1274.95,10.0,6884.73,516.99,Cash,Delivered,Corporate,No
+ORD10175,2025-07-16 00:00:00,CUST1178,Keerthi M,Female,28.0,Coimbatore,Tamil Nadu,South,SSD,Storage,1,6603.13,15.0,5612.66,1212.63,Net Banking,Shipped,Consumer,No
+ORD10383,2025-09-16 00:00:00,CUST1231,Naveen P,Female,35.0,Hyderabad,Telangana,South,Printer,Office Equipment,4,12796.34,10.0,46066.82,4430.14,Cash,Returned,Small Business,Returned
+ORD10552,2025-12-11 00:00:00,CUST1108,Priya R,Male,40.0,Hyderabad,Telangana,South,Webcam,Accessories,1,3172.82,10.0,2855.54,345.28,Cash,Cancelled,Consumer,No
+ORD10271,2025-03-02 00:00:00,CUST1194,Meena S,Female,18.0,Chennai,Tamil Nadu,South,Mouse,Accessories,6,963.04,5.0,5489.33,274.99,Net Banking,Delivered,Consumer,No
+ORD10660,2025-06-13 00:00:00,CUST1196,Suresh S,Male,18.0,Bengaluru,Karnataka,South,SSD,Storage,3,5894.23,0.0,17682.69,998.79,UPI,Delivered,Corporate,No
+ORD10349,2025-03-15 00:00:00,CUST1051,Swetha Kumar,Male,52.0,Kolkata,West Bengal,East,Mouse,Accessories,4,975.68,0.0,3902.72,722.73,Debit Card,Cancelled,Small Business,No
+ORD10610,2025-12-16 00:00:00,CUST1105,Suresh P,Male,52.0,mumbai ,Maharashtra,West,Mouse,Accessories,2,834.45,10.0,1502.01,312.66,Debit Card,Delivered,Corporate,Yes
+ORD10684,2025-02-26 00:00:00,CUST1232,Vijay R,Female,35.0,Kolkata,West Bengal,East,SSD,Storage,3,5878.21,0.0,17634.63,3591.9,Net Banking,Returned,Small Business,Returned
+ORD10259,2025-04-27 00:00:00,CUST1001,Meena Kumar,Female,35.0,Mumbai,Maharashtra,West,Mouse,Accessories,1,868.96,15.0,738.62,63.39,Net Banking,Returned,Small Business,Returned
+ORD10522,2025-10-27 00:00:00,CUST1135,Harish R,Female,25.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,4,22828.73,0.0,91314.92,10779.24,Debit Card,Shipped,Consumer,No
+ORD10462,2025-07-31 00:00:00,CUST1034,Priya P,Male,28.0,Delhi,Delhi,North,Keyboard,Accessories,1,N/A,10.0,1497.56,293.77,Credit Card,Cancelled,Small Business,No
+ORD10396,2025-01-12 00:00:00,CUST1188,Naveen Kumar,Female,40.0,Madurai,Tamil Nadu,South,Router,Networking,5,3001.26,15.0,12755.36,1345.65,Cash,Returned,Consumer,Returned
+ORD10150,2025-10-22 00:00:00,CUST1219,Pavithra R,Male,31.0,Bengaluru,Karnataka,South,Router,Networking,2,2966.63,10.0,5339.93,821.54,Debit Card,Delivered,Small Business,No
+ORD10191,2025-03-13 00:00:00,CUST1179,Divya M,Male,18.0,Coimbatore,Tamil Nadu,South,Mobile Phone,Electronics,4,20400.37,10.0,73441.33,13943.97,Net Banking,Shipped,Small Business,No
+ORD10013,2025-10-09 00:00:00,CUST1100,Meena M,Female,45.0,Bengaluru,Karnataka,South,Monitor,Electronics,3,12911.9,15.0,32925.34,6615.87,Cash,Delivered,Corporate,No
+ORD10464,2025-06-05 00:00:00,CUST1009,Pavithra P,Female,25.0,Hyderabad,Telangana,South,Headset,Accessories,1,2140.59,10.0,1926.53,333.46,Credit Card,Delivered,Small Business,No
+ORD10244,2025-03-07 00:00:00,CUST1183,Anitha P,Female,45.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,5,937.61,10.0,4219.24,780.62,Cash,Returned,Small Business,Returned
+ORD10458,2025-02-14 00:00:00,CUST1053,Arun M,Male,22.0,Kolkata,West Bengal,East,Monitor,Electronics,1,13353.02,0.0,13353.02,946.88,Net Banking,Cancelled,Small Business,No
+ORD10559,2025-07-30 00:00:00,CUST1104,Divya P,Male,31.0,Madurai,Tamil Nadu,South,Tablet,Electronics,4,18825.43,15.0,64006.46,10894.35,Credit Card,Cancelled,Consumer,No
+ORD10248,2025-12-25 00:00:00,CUST1144,Dinesh R,Female,22.0,Kolkata,West Bengal,East,Printer,Office Equipment,4,13325.78,0.0,53303.12,2705.82,Cash,Cancelled,Consumer,No
+ORD10299,2025-07-12 00:00:00,CUST1044,Pavithra R,Female,18.0,Hyderabad,Telangana,South,USB Drive,Storage,2,1210.61,0.0,2421.22,135.63,Net Banking,Delivered,Consumer,No
+ORD10062,2025-12-03 00:00:00,CUST1171,Suresh P,Male,31.0,Delhi,Delhi,North,Monitor,Electronics,3,14371.93,20.0,34492.63,2861.23,Debit Card,Delivered,Consumer,No
+ORD10563,2025-11-16 00:00:00,CUST1039,Pavithra P,Male,31.0,Coimbatore,Tamil Nadu,South,Monitor,Electronics,4,14409.69,15.0,48992.95,8582.53,Net Banking,Delivered,Small Business,No
+ORD10220,2025-03-22 00:00:00,CUST1082,Pavithra R,Female,60.0,Madurai,Tamil Nadu,South,Router,Networking,1,3185.21,10.0,2866.69,500.88,UPI,Cancelled,Corporate,No
+ORD10645,2025-10-22 00:00:00,CUST1116,Swetha S,Female,52.0,Trichy,Tamil Nadu,South,Mobile Phone,Electronics,6,20272.94,10.0,109473.88,17310.19,UPI,Delivered,Corporate,No
+ORD10657,2025-08-03 00:00:00,CUST1020,Santhosh M,Female,45.0,Coimbatore,Tamil Nadu,South,Printer,Office Equipment,4,11429.34,15.0,38859.76,3766.86,Net Banking,Shipped,Corporate,No
+ORD10525,2025-11-03 00:00:00,CUST1079,Keerthi M,Female,35.0,Hyderabad,Telangana,South,Tablet,Electronics,3,19305.95,10.0,52126.07,8695.59,Credit Card,Delivered,Small Business,No
+ORD10119,2025-08-26 00:00:00,CUST1048,Naveen M,Male,52.0,Salem,Tamil Nadu,South,Monitor,Electronics,2,13456.68,10.0,24222.02,2337.12,Net Banking,Cancelled,Small Business,No
+ORD10144,2025-12-07 00:00:00,CUST1126,Vijay Kumar,Female,60.0,Hyderabad,Telangana,South,Router,Networking,3,3503.57,0.0,10510.71,2087.69,Net Banking,Delivered,Small Business,No
+ORD10025,2025-03-23 00:00:00,CUST1123,Karthik P,Male,45.0,Pune,Maharashtra,West,Laptop,Electronics,2,43762.36,5.0,83148.48,13395.13,Net Banking,Delivered,Small Business,No
+ORD10102,2025-02-24 00:00:00,CUST1191,Meena S,Male,60.0,Mumbai,Maharashtra,West,Router,Networking,3,3146.18,0.0,9438.54,1438.64,Debit Card,delivered,Consumer,No
+ORD10310,invalid_date,CUST1249,Meena S,Male,60.0,Chennai,Tamil Nadu,South,Tablet,Electronics,3,19734.04,0.0,59202.12,7657.97,UPI,Cancelled,Corporate,No
+ORD10296,2025-06-22 00:00:00,CUST1026,Pavithra S,Female,60.0,Hyderabad,Telangana,South,Router,Networking,5,3411.69,20.0,13646.76,1081.69,Net Banking,Shipped,Small Business,No
+ORD10617,2025-09-25 00:00:00,CUST1030,Anitha S,Male,40.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,3,24010.26,0.0,72030.78,9418.12,Net Banking,Returned,Small Business,Returned
+ORD10535,2025-05-11 00:00:00,CUST1135,Divya Kumar,Female,35.0,Kolkata,West Bengal,East,USB Drive,Storage,3,1225.94,10.0,3310.04,534.25,Credit Card,Shipped,Small Business,No
+ORD10011,2025-09-17 00:00:00,CUST1100,Dinesh M,Male,18.0,Pune,Maharashtra,West,USB Drive,Storage,2,1255.46,0.0,2510.92,381.96,UPI,Shipped,Consumer,No
+ORD10105,2025-10-24 00:00:00,CUST1031,Keerthi R,Male,31.0,Madurai,Tamil Nadu,South,Laptop,Electronics,2,40600.82,15.0,69021.39,14934.75,Cash,Returned,Consumer,Returned
+ORD10275,2025-03-03 00:00:00,CUST1236,Naveen R,Male,45.0,Chennai,Tamil Nadu,South,Mouse,Accessories,2,938.0,10.0,1688.4,325.64,Cash,Delivered,Small Business,No
+ORD10311,2025-09-07 00:00:00,CUST1159,Rahul Kumar,Female,60.0,Salem,Tamil Nadu,South,Tablet,Electronics,3,17323.28,10.0,46772.86,2436.55,Credit Card,Cancelled,Corporate,No
+ORD10405,2025-10-12 00:00:00,CUST1160,Divya R,Female,28.0,Pune,Maharashtra,West,Tablet,Electronics,1,17743.67,5.0,16856.49,3570.82,Net Banking,Delivered,Consumer,No
+ORD10534,2025-01-03 00:00:00,CUST1096,Rahul S,Female,40.0,Trichy,Tamil Nadu,South,Mouse,Accessories,2,916.61,0.0,1833.22,107.42,Credit Card,Delivered,Corporate,No
+ORD10427,2025-09-29 00:00:00,CUST1114,Pavithra S,Female,52.0,Jaipur,Rajasthan,North,Printer,Office Equipment,1,13369.62,10.0,12032.66,,Debit Card,Cancelled,Small Business,No
+ORD10261,2025-09-17 00:00:00,CUST1201,Rahul M,Male,60.0,Hyderabad,Telangana,South,Keyboard,Accessories,5,1969.44,,7877.76,1368.49,UPI,Cancelled,Small Business,No
+ORD10078,2025-10-10 00:00:00,CUST1057,Naveen P,Female,35.0,coimbatore ,Tamil Nadu,South,Router,Networking,4,N/A,0.0,12694.6,986.97,debit card,Shipped,Consumer,No
+ORD10219,2025-08-11 00:00:00,CUST1084,Pavithra Kumar,Female,60.0,Kolkata,West Bengal,East,Webcam,Accessories,1,3758.59,20.0,3006.87,528.44,Cash,Delivered,Corporate,No
+ORD10561,2025-01-31 00:00:00,CUST1136,Divya S,Male,45.0,Jaipur,Rajasthan,North,Webcam,Accessories,2,3478.08,15.0,5912.74,687.02,UPI,Delivered,Small Business,No
+ORD10365,2025-04-22 00:00:00,CUST1019,Divya M,Female,25.0,Bengaluru,Karnataka,South,Webcam,Accessories,1,3448.24,10.0,3103.42,258.7,Cash,Shipped,Corporate,No
+ORD10115,2025-05-12 00:00:00,CUST1209,Divya R,Male,52.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,2,11709.91,15.0,19906.85,3567.2,Cash,Shipped,Small Business,No
+ORD10249,2025-09-03 00:00:00,CUST1152,Karthik M,Male,45.0,Pune,Maharashtra,West, Tablet ,Electronics,1,16240.48,10.0,14616.43,2652.03,Credit Card,Delivered,Corporate,No
+ORD10272,2025-06-16 00:00:00,CUST1063,Suresh M,Female,40.0,Kolkata,West Bengal,East,Laptop,Electronics,2,48431.5,15.0,82333.55,17667.06,Cash,Shipped,Consumer,No
+ORD10389,2025-03-10 00:00:00,CUST1189,Harish P,Male,40.0,Salem,Tamil Nadu,South,USB Drive,Storage,2,1163.17,15.0,1977.39,289.06,Net Banking,Cancelled,Small Business,Yes
+ORD10621,2025-11-12 00:00:00,CUST1064,Divya S,Female,60.0,Pune,Maharashtra,West,Tablet,Electronics,3,18274.32,5.0,52081.81,4609.55,Net Banking,Delivered,Small Business,No
+ORD10609,2025-01-28 00:00:00,CUST1119,Swetha M,Male,18.0,Jaipur,Rajasthan,North,USB Drive,Storage,1,1110.39,10.0,999.35,182.07,Cash,Returned,Corporate,Returned
+ORD10186,2025-08-10 00:00:00,CUST1131,Divya R,Male,31.0,Kolkata,West Bengal,East,Webcam,Accessories,6,3610.72,5.0,20581.1,2339.73,Credit Card,Delivered,Corporate,No
+ORD10260,2025-11-02 00:00:00,CUST1165,Swetha R,Female,40.0,Pune,Maharashtra,West,Monitor,Electronics,5,13271.92,20.0,53087.68,9985.92,Credit Card,Shipped,Small Business,No
+ORD10677,2025-10-27 00:00:00,CUST1208,Arun M,Female,60.0,Kolkata,West Bengal,East,SSD,Storage,2,6357.51,10.0,11443.52,2204.98,Net Banking,Cancelled,Corporate,No
+ORD10303,2025-06-16 00:00:00,CUST1005,Arun S,Male,40.0,Trichy,Tamil Nadu,South, Laptop ,Electronics,2,43749.14,15.0,74373.54,7971.19,Cash,Cancelled,Small Business,No
+ORD10641,2025-07-18 00:00:00,CUST1079,Anitha M,Female,52.0,Bengaluru,Karnataka,South,Tablet,Electronics,3,17068.09,15.0,43523.63,6631.74,UPI,Shipped,Consumer,Yes
+ORD10342,2025-03-02 00:00:00,CUST1065,Divya Kumar,Female,31.0,Jaipur,Rajasthan,North,USB Drive,Storage,3,1130.95,5.0,3223.21,312.13,UPI,Returned,Consumer,Returned
+ORD10690,2025-06-13 00:00:00,CUST1041,Karthik S,Male,28.0,Hyderabad,Telangana,South,Headset,Accessories,2,2296.85,20.0,3674.96,652.12,Cash,Delivered,Consumer,No
+ORD10661,2025-07-13 00:00:00,CUST1190,Divya Kumar,Male,31.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,1,22449.0,15.0,19081.65,3718.49,Net Banking,Delivered,Small Business,No
+ORD10509,2025-08-20 00:00:00,CUST1027,Priya P,Male,31.0,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,2,1644.85,5.0,3125.21,562.03,Debit Card,Cancelled,Corporate,No
+ORD10255,2025-02-24 00:00:00,CUST1153,Karthik P,Male,60.0,Salem,Tamil Nadu,South,Mouse,Accessories,1,946.89,10.0,852.2,79.87,Cash,Delivered,Consumer,No
+ORD10683,2025-12-14 00:00:00,CUST1050,Divya Kumar,Female,60.0,Jaipur,Rajasthan,North,Printer,Office Equipment,3,11797.13,20.0,28313.11,1806.5,Debit Card,Delivered,Consumer,No
+ORD10005,2025-05-30 00:00:00,CUST1218,Anitha S,Male,28.0,Chennai,Tamil Nadu,South,Monitor,Electronics,1,13813.57,0.0,13813.57,1490.97,Cash,Shipped,Consumer,No
+ORD10134,2025-05-29 00:00:00,CUST1065,Karthik R,Female,52.0,Hyderabad,Telangana,South,SSD,Storage,2,6002.95,15.0,10205.02,2095.3,Debit Card,Cancelled,Consumer,No
+ORD10235,2025-02-11 00:00:00,CUST1010,Swetha M,Male,31.0,Trichy,Tamil Nadu,South,USB Drive,Storage,2,1222.73,5.0,2323.19,296.16,Cash,Delivered,Small Business,No
+ORD10419,2025-12-24 00:00:00,CUST1002,Rahul S,Female,40.0,pune ,Maharashtra,West,Headset,Accessories,2,2294.37,15.0,3900.43,433.35,Credit Card,Returned,Small Business,Returned
+ORD10364,2025-06-10 00:00:00,CUST1204,Anitha S,Female,35.0,Pune,Maharashtra,West,Printer,Office Equipment,3,12026.41,0.0,36079.23,6041.74,upi,Returned,Corporate,Returned
+ORD10225,2025-04-09 00:00:00,CUST1103,Vijay R,Male,31.0,Kolkata,West Bengal,East,Printer,Office Equipment,2,13567.17,0.0,27134.34,5091.92,Cash,Delivered,Consumer,Yes
+ORD10330,2025-09-30 00:00:00,CUST1126,Pavithra P,Male,45.0,Madurai,Tamil Nadu,South,Printer,Office Equipment,3,12711.98,5.0,36229.14,5707.88,Net Banking,Delivered,Consumer,No
+ORD10254,2025-06-20 00:00:00,CUST1026,Karthik Kumar,Female,28.0,Trichy,Tamil Nadu,South,Headset,Accessories,2,2407.9,15.0,4093.43,743.56,Debit Card,Returned,Consumer,Returned
+ORD10426,2025-03-22 00:00:00,CUST1006,Karthik Kumar,Female,25.0,Pune,Maharashtra,West,Mobile Phone,Electronics,3,21419.73,0.0,64259.19,12702.62,Credit Card,Delivered,Corporate,No
+ORD10489,2025-10-08 00:00:00,CUST1177,Naveen Kumar,Female,40.0,Pune,Maharashtra,West,Mobile Phone,Electronics,3,21759.27,5.0,62013.92,7475.8,Cash,Returned,Small Business,Returned
+ORD10504,2025-02-15 00:00:00,CUST1103,Priya M,Female,60.0,Salem,Tamil Nadu,South,Tablet,Electronics,1,17116.02,15.0,14548.62,3040.8,Debit Card,Returned,Small Business,Returned
+ORD10004,2025-07-03 00:00:00,CUST1026,Rahul P,Male,22.0,Coimbatore,Tamil Nadu,South,Printer,Office Equipment,2,12287.07,20.0,19659.31,1820.01,Net Banking,Shipped,Small Business,No
+ORD10075,2025-03-01 00:00:00,CUST1085,Naveen R,Female,31.0,Salem,Tamil Nadu,South,Monitor,Electronics,4,15001.49,0.0,60005.96,3970.01,Cash,Delivered,Small Business,No
+ORD10382,2025-08-13 00:00:00,CUST1008,Santhosh M,Male,31.0,chennai ,Tamil Nadu,South,Mouse,Accessories,3,974.64,10.0,2631.53,397.59,Debit Card,Cancelled,Consumer,No
+ORD10122,2025-03-24 00:00:00,CUST1154,Arun P,Female,,Chennai,Tamil Nadu,South,Headset,Accessories,2,2419.84,10.0,4355.71,562.28,UPI,Cancelled,Consumer,No
+ORD10164,2025-02-25 00:00:00,CUST1224,Vijay Kumar,Female,45.0,Kolkata,West Bengal,East,USB Drive,Storage,5,1160.49,5.0,5512.33,767.69,Credit Card,Cancelled,Consumer,No
+ORD10471,2025-04-16 00:00:00,CUST1099,Swetha S,Female,52.0,Bengaluru,Karnataka,South,Router,Networking,2,2910.14,15.0,4947.24,941.47,Credit Card,Delivered,Corporate,No
+ORD10240,2025-02-28 00:00:00,CUST1213,Vijay P,Female,22.0,Bengaluru,Karnataka,South,Printer,Office Equipment,3,11870.63,25.0,26708.92,3926.76,Debit Card,Shipped,Corporate,No
+ORD10605,2025-10-17 00:00:00,CUST1033,Keerthi R,Female,28.0,Delhi,Delhi,North,Headset,Accessories,4,2395.68,10.0,8624.45,1395.58,Cash,delivered,Consumer,No
+ORD10536,2025-12-23 00:00:00,CUST1077,Arun S,Female,28.0,Coimbatore,Tamil Nadu,South,Tablet,Electronics,3,16326.59,0.0,48979.77,9991.92,Cash,Cancelled,Corporate,No
+ORD10614,2025-02-12 00:00:00,CUST1238,Arun S,Male,45.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,2,921.81,10.0,1659.26,288.44,Cash,Delivered,Corporate,No
+ORD10031,2025-03-26 00:00:00,CUST1191,,Male,31.0,Trichy,Tamil Nadu,South,Webcam,Accessories,4,3679.01,0.0,14716.04,1183.95,UPI,Delivered,Consumer,No
+ORD10434,2025-06-04 00:00:00,CUST1162,Anitha S,Male,31.0,Coimbatore,Tamil Nadu,South,SSD,Storage,1,6395.84,10.0,5756.26,611.18,Debit Card,Delivered,Corporate,No
+ORD10540,2025-05-10 00:00:00,CUST1013,Arun Kumar,Female,18.0,Pune,Maharashtra,West,Webcam,Accessories,3,3804.86,10.0,10273.12,1118.72,UPI,Returned,Consumer,Returned
+ORD10558,2025-10-08 00:00:00,CUST1115,Priya M,Male,35.0,Hyderabad,Telangana,South,Keyboard,Accessories,4,1637.46,5.0,6222.35,1255.17,Credit Card,Cancelled,Small Business,No
+ORD10333,2025-02-12 00:00:00,CUST1245,Dinesh R,Male,25.0,Trichy,Tamil Nadu,South,Monitor,Electronics,4,15244.98,10.0,54881.93,3134.95,Debit Card,Cancelled,Small Business,No
+ORD10217,2025-06-17 00:00:00,CUST1146,Keerthi R,Male,18.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,3,20001.47,5.0,57004.19,12412.58,Net Banking,Delivered,Consumer,No
+ORD10550,2025-07-26 00:00:00,CUST1233,Naveen M,Female,35.0,Trichy,Tamil Nadu,South,USB Drive,Storage,1,1279.59,0.0,1279.59,236.32,Credit Card,Delivered,Consumer,No
+ORD10484,2025-09-06 00:00:00,CUST1083,Dinesh P,Male,22.0,Delhi,Delhi,North,Monitor,Electronics,1,14737.35,,13263.62,1496.12,Credit Card,Delivered,Corporate,No
+ORD10618,2025-02-14 00:00:00,CUST1031,Suresh R,Male,35.0,mumbai ,Maharashtra,West,Mouse,Accessories,2,836.84,10.0,1506.31,315.43,Debit Card,Delivered,Consumer,No
+ORD10145,2025-11-02 00:00:00,CUST1227,Swetha R,Male,18.0,Hyderabad,Telangana,South,Router,Networking,2,3334.17,15.0,5668.09,403.15,UPI,Shipped,Small Business,No
+ORD10693,invalid_date,CUST1204,Divya S,Male,31.0,Delhi,Delhi,North,Router,Networking,2,2898.68,10.0,5217.62,745.44,UPI,Cancelled,Small Business,No
+ORD10314,2025-11-27 00:00:00,CUST1247,Divya S,Female,60.0,Hyderabad,Telangana,South,Laptop,Electronics,3,45541.25,25.0,102467.81,13348.99,Debit Card,Shipped,Corporate,No
+ORD10172,2025-01-12 00:00:00,CUST1024,Harish R,Female,31.0,Madurai,Tamil Nadu,South,Headset,Accessories,3,2263.26,5.0,6450.29,380.96,UPI,Delivered,Small Business,No
+ORD10301,2025-04-22 00:00:00,CUST1176,Suresh Kumar,Male,22.0,Jaipur,Rajasthan,North,Printer,Office Equipment,3,12213.77,25.0,27480.98,5540.2,Credit Card,Delivered,Small Business,No
+ORD10053,2025-01-27 00:00:00,CUST1081,Santhosh Kumar,Female,18.0,Hyderabad,Telangana,South,Headset,Accessories,3,1987.48,5.0,5664.32,1054.79,UPI,Delivered,Corporate,No
+ORD10125,2025-10-12 00:00:00,CUST1181,Arun P,Male,52.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,1,3282.44,5.0,3118.32,482.09,Credit Card,Shipped,Corporate,No
+ORD10545,2025-03-20 00:00:00,CUST1126,Suresh P,Female,28.0,Kolkata,West Bengal,East,USB Drive,Storage,1,1260.16,10.0,1134.14,57.54,Cash,Delivered,Corporate,No
+ORD10079,2025-05-02 00:00:00,CUST1161,Arun S,Male,45.0,Pune,Maharashtra,West,Mobile Phone,Electronics,2,20152.03,0.0,40304.06,8110.18,UPI,Delivered,Corporate,No
+ORD10278,2025-06-10 00:00:00,CUST1186,Keerthi P,Female,18.0,Jaipur,Rajasthan,North,Webcam,Accessories,4,3506.74,5.0,13325.61,1153.16,Cash,Delivered,Consumer,No
+ORD10019,2025-01-07 00:00:00,CUST1101,Harish S,Male,40.0,Madurai,Tamil Nadu,South,Printer,Office Equipment,2,13300.36,0.0,26600.72,1878.61,UPI,Delivered,Corporate,No
+ORD10207,2025-04-09 00:00:00,CUST1018,Divya Kumar,Male,25.0,Mumbai,Maharashtra,West,Mouse,Accessories,2,855.1,10.0,1539.18,243.64,Net Banking,Delivered,Small Business,No
+ORD10488,2025-07-21 00:00:00,CUST1169,Dinesh P,Male,40.0,mumbai ,Maharashtra,West,Router,Networking,1,2980.5,0.0,2980.5,528.88,Credit Card,Delivered,Corporate,No
+ORD10557,2025-06-16 00:00:00,CUST1063,Priya Kumar,Female,60.0,Coimbatore,Tamil Nadu,South,Router,Networking,2,2880.29,20.0,4608.46,673.64,Credit Card,Shipped,Small Business,No
+ORD10036,2025-06-13 00:00:00,CUST1070,Keerthi Kumar,Male,35.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,4,23703.23,5.0,90072.27,18878.27,Cash,Delivered,Small Business,No
+ORD10378,2025-11-25 00:00:00,CUST1083,Priya P,Male,60.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,1,22667.17,10.0,20400.45,1051.11,Credit Card,Delivered,Consumer,No
+ORD10463,2025-06-27 00:00:00,CUST1095,Karthik R,Male,60.0,Trichy,Tamil Nadu,South,Mouse,Accessories,1,961.52,10.0,865.37,57.06,,Returned,Small Business,Returned
+ORD10146,2025-05-05 00:00:00,CUST1165,Rahul M,Male,52.0,Hyderabad,Telangana,South, USB Drive ,Storage,2,1275.84,0.0,2551.68,548.96,Credit Card,Delivered,Small Business,No
+ORD10592,2025-08-31 00:00:00,CUST1132,Karthik R,Male,18.0,Salem,Tamil Nadu,South,Printer,Office Equipment,1,12270.19,5.0,11656.68,909.44,Debit Card,Delivered,Corporate,No
+ORD10678,2025-06-28 00:00:00,CUST1162,Priya S,Female,,Chennai,Tamil Nadu,South,Router,Networking,1,2895.01,0.0,2895.01,583.39,UPI,Delivered,Consumer,No
+ORD10273,2025-10-02 00:00:00,CUST1163,Harish M,Female,45.0,Trichy,Tamil Nadu,South,Headset,Accessories,3,2316.71,0.0,6950.13,760.19,UPI,Delivered,Small Business,No
+ORD10101,2025-02-14 00:00:00,CUST1247,Harish P,Male,22.0,Hyderabad,Telangana,South,Laptop,Electronics,2,44685.17,5.0,84901.82,9089.95,Cash,Delivered,Consumer,No
+ORD10140,2025-06-03 00:00:00,CUST1076,Anitha P,Female,52.0,Kolkata,West Bengal,East,USB Drive,Storage,5,1095.29,5.0,5202.63,784.76,UPI,Delivered,Consumer,No
+ORD10212,2025-05-11 00:00:00,CUST1136,,Male,22.0,Delhi,Delhi,North,Mouse,Accessories,4,849.41,15.0,2887.99,207.79,Debit Card,Shipped,Small Business,No
+ORD10059,2025-06-25 00:00:00,CUST1161,Anitha Kumar,Female,40.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,3,12810.37,15.0,32666.44,2591.89,UPI,Cancelled,Corporate,No
+ORD10006,2025-11-27 00:00:00,CUST1100,Karthik M,Female,18.0,Hyderabad,Telangana,South,Tablet,Electronics,1,18949.26,5.0,18001.8,1494.47,UPI,Shipped,Corporate,No
+ORD10402,2025-07-15 00:00:00,CUST1090,Suresh M,Female,18.0,Madurai,Tamil Nadu,South,Mouse,Accessories,2,968.31,15.0,1646.13,355.74,Cash,Cancelled,Consumer,Yes
+ORD10431,2025-03-13 00:00:00,CUST1137,Karthik M,Female,60.0,Kolkata,West Bengal,East,Mobile Phone,Electronics,-1,22070.78,5.0,62901.72,10601.35,Cash,Delivered,Corporate,No
+ORD10613,2025-05-12 00:00:00,CUST1067,Priya P,Female,28.0,Pune,Maharashtra,West,Headset,Accessories,2,2054.29,20.0,3286.86,509.79,UPI,Delivered,Small Business,No
+ORD10087,2025-05-20 00:00:00,CUST1092,Vijay R,Male,31.0,Mumbai,Maharashtra,West,Mouse,Accessories,4,944.82,5.0,3590.32,333.47,Net Banking,Delivered,Corporate,No
+ORD10183,2025-03-09 00:00:00,CUST1182,Keerthi Kumar,Female,28.0,Salem,Tamil Nadu,South,Tablet,Electronics,1,18453.29,5.0,17530.63,3420.69,Net Banking,Cancelled,Consumer,No
+ORD10056,2025-01-07 00:00:00,CUST1147,Dinesh M,Male,35.0,Mumbai,Maharashtra,West,USB Drive,Storage,2,1213.79,0.0,2427.58,414.0,Net Banking,Shipped,Consumer,No
+ORD10002,2025-06-26 00:00:00,CUST1136,Naveen M,Male,31.0,Trichy,Tamil Nadu,South,Laptop,Electronics,3,46186.13,10.0,124702.55,8010.08,Credit Card,Delivered,Corporate,No
+ORD10673,2025-08-31 00:00:00,CUST1247,Anitha M,Male,45.0,Pune,Maharashtra,West,Webcam,Accessories,5,3683.21,10.0,16574.44,2090.72,Net Banking,Returned,Small Business,Returned
+ORD10183,2025-03-09 00:00:00,CUST1182,Keerthi Kumar,Female,28.0,Salem,Tamil Nadu,South,Tablet,Electronics,1,18453.29,5.0,17530.63,3420.69,Net Banking,Cancelled,Consumer,No
+ORD10038,2025-09-05 00:00:00,CUST1102,Divya Kumar,Female,unknown,Bengaluru,Karnataka,South,Router,Networking,2,3429.71,15.0,5830.51,522.45,Cash,Delivered,Corporate,No
+ORD10273,2025-10-02 00:00:00,CUST1163,Harish M,Female,45.0,Trichy,Tamil Nadu,South,Headset,Accessories,3,2316.71,0.0,6950.13,760.19,UPI,Delivered,Small Business,No
+ORD10607,2025-12-31 00:00:00,CUST1144,Karthik Kumar,Male,52.0,Hyderabad,Telangana,South,Router,Networking,1,2955.37,10.0,2659.83,432.54,Credit Card,Delivered,Consumer,No
+ORD10093,2025-03-19 00:00:00,CUST1231,Naveen R,Male,45.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,1,1733.39,15.0,1473.38,108.89,Debit Card,Delivered,Small Business,No
+ORD10516,2025-12-13 00:00:00,CUST1069,Naveen M,Male,28.0,Pune,Maharashtra,West,Webcam,Accessories,2,3780.58,15.0,6426.99,1097.51,Net Banking,Shipped,Small Business,No
+ORD10422,2025-03-15 00:00:00,CUST1106,Rahul M,Male,52.0,Jaipur,Rajasthan,North,Headset,Accessories,1,2272.36,20.0,1817.89,260.87,Cash,delivered,Corporate,No
+ORD10368,2025-06-26 00:00:00,CUST1213,Priya S,Male,60.0,Delhi,Delhi,North,Webcam,Accessories,2,3555.12,15.0,6043.7,733.87,Net Banking,Delivered,Small Business,No
+ORD10590,2025-03-24 00:00:00,CUST1052,Arun R,Male,28.0,Pune,Maharashtra,West,Printer,Office Equipment,3,12014.19,0.0,36042.57,3825.13,Debit Card,Cancelled,Corporate,No
+ORD10024,2025-06-07 00:00:00,CUST1202,Meena R,Female,22.0,Delhi,Delhi,North,Router,Networking,3,3327.6,10.0,8984.52,555.74,Credit Card,Shipped,Corporate,No
+ORD10639,2025-01-01 00:00:00,CUST1078,Meena S,Female,18.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,3,1904.47,15.0,4856.4,1017.53,Debit Card,Delivered,Small Business,No
+ORD10092,2025-06-21 00:00:00,CUST1209,Arun M,Male,31.0,Hyderabad,Telangana,South,Mobile Phone,Electronics,2,23126.42,15.0,39314.91,8367.53,Credit Card,Cancelled,Consumer,No
+ORD10245,2025-12-11 00:00:00,CUST1144,Naveen Kumar,Female,60.0,,Tamil Nadu,South,USB Drive,Storage,1,1260.17,0.0,1260.17,105.09,Net Banking,Delivered,Corporate,No
+ORD10321,2025-11-01 00:00:00,CUST1183,Rahul R,Female,60.0,madurai ,Tamil Nadu,South,Webcam,Accessories,3,3509.45,15.0,8949.1,1622.55,Debit Card,Delivered,Consumer,No
+ORD10574,2025-12-26 00:00:00,CUST1027,Karthik Kumar,Female,60.0,Trichy,Tamil Nadu,South,Mobile Phone,Electronics,3,21730.15,20.0,52152.36,8761.23,UPI,Delivered,Corporate,No
+ORD10111,2025-02-16 00:00:00,CUST1144,Meena M,Female,35.0,Mumbai,Maharashtra,West,Mouse,Accessories,2,820.22,5.0,1558.42,90.5,Debit Card,Cancelled,Consumer,No
+ORD10194,2025-06-10 00:00:00,CUST1235,Divya M,Male,22.0,Coimbatore,Tamil Nadu,South, USB Drive ,Storage,1,1158.45,5.0,1100.53,125.33,UPI,Delivered,Small Business,Yes
+ORD10224,2025-01-12 00:00:00,CUST1159,Meena R,Male,22.0,Madurai,Tamil Nadu,South,Printer,Office Equipment,5,11262.35,5.0,53496.16,11624.18,UPI,Delivered,Corporate,No
+ORD10312,2025-09-08 00:00:00,CUST1239,Dinesh S,Female,52.0,Coimbatore,Tamil Nadu,South,Tablet,Electronics,6,16653.61,10.0,89929.49,19226.19,Debit Card,Returned,Consumer,Returned
+ORD10083,2025-10-11 00:00:00,CUST1167,Naveen S,Female,18.0,Salem,Tamil Nadu,South,USB Drive,Storage,3,1257.93,10.0,3396.41,210.3,UPI,Shipped,Corporate,No
+ORD10459,2025-08-14 00:00:00,CUST1013,Suresh R,Female,25.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,2,828.69,20.0,1325.9,226.26,UPI,Delivered,Corporate,No
+ORD10492,2025-12-23 00:00:00,CUST1019,Meena Kumar,Male,60.0,,Telangana,South,Monitor,Electronics,2,14372.87,5.0,27308.45,4273.81,Net Banking,Delivered,Small Business,No
+ORD10073,2025-05-05 00:00:00,CUST1228,Naveen Kumar,Male,45.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,2,1835.91,10.0,3304.64,723.99,Cash,Delivered,Consumer,No
+ORD10476,2025-02-25 00:00:00,CUST1141,Meena M,Female,18.0,Salem,Tamil Nadu,South,Keyboard,Accessories,4,1667.19,15.0,5668.45,825.42,Net Banking,Delivered,Consumer,No
+ORD10042,2025-03-01 00:00:00,CUST1075,Pavithra Kumar,Female,35.0,Pune,Maharashtra,West,USB Drive,Storage,2,1222.82,10.0,2201.08,459.11,Credit Card,Cancelled,Corporate,No
+ORD10195,2025-07-07 00:00:00,CUST1199,Divya Kumar,Male,40.0,Bengaluru,Karnataka,South,USB Drive,Storage,-1,1277.94,15.0,3258.75,599.22,Credit Card,Delivered,Consumer,No
+ORD10366,2025-07-08 00:00:00,CUST1171,Suresh S,Male,18.0,Kolkata,West Bengal,East,Monitor,Electronics,1,12654.23,10.0,11388.81,2060.78,Debit Card,Delivered,Corporate,No
+ORD10281,2025-04-18 00:00:00,CUST1234,,Male,45.0,Delhi,Delhi,North,Laptop,Electronics,1,47098.45,10.0,42388.6,,Cash,Returned,Corporate,Returned
+ORD10074,2025-06-12 00:00:00,CUST1120,Santhosh P,Female,35.0,Delhi,Delhi,North,Printer,Office Equipment,2,11738.38,0.0,23476.76,1499.44,Debit Card,Returned,Small Business,Returned
+ORD10129,2025-03-08 00:00:00,CUST1151,Dinesh Kumar,Male,35.0,Madurai,Tamil Nadu,South,Monitor,Electronics,2,13389.92,20.0,21423.87,2552.19,Net Banking,Delivered,Consumer,No
+ORD10033,2025-01-21 00:00:00,CUST1111,Anitha R,Female,35.0,Trichy,Tamil Nadu,South,Headset,Accessories,5,2118.31,20.0,8473.24,486.2,Net Banking,Returned,Small Business,Returned
+ORD10335,2025-04-06 00:00:00,CUST1059,Priya S,Male,18.0,Trichy,Tamil Nadu,South,Router,Networking,1,3060.52,15.0,2601.44,446.17,Credit Card,Returned,Corporate,Returned
+ORD10008,2025-09-08 00:00:00,CUST1192,Harish Kumar,Male,40.0,Pune,Maharashtra,West,Printer,Office Equipment,2,13156.37,10.0,23681.47,3968.76,Credit Card,Delivered,Small Business,No
+ORD10420,2025-06-22 00:00:00,CUST1153,Santhosh Kumar,Female,25.0,Delhi,Delhi,North,Headset,Accessories,2,2089.45,10.0,3761.01,713.18,Debit Card,Shipped,Small Business,Yes
+ORD10507,2025-02-05 00:00:00,CUST1119,Keerthi P,Female,18.0,delhi ,Delhi,North,Tablet,Electronics,1,17708.29,10.0,15937.46,876.75,UPI,Shipped,Consumer,No
+ORD10562,2025-10-17 00:00:00,CUST1111,Suresh S,Male,25.0,Kolkata,West Bengal,East,Mouse,Accessories,2,877.05,0.0,1754.1,318.94,Net Banking,Delivered,Corporate,No
+ORD10691,2025-01-16 00:00:00,CUST1127,Dinesh S,Female,40.0,Salem,Tamil Nadu,South,Monitor,Electronics,2,14410.62,5.0,27380.18,1680.47,Cash,Shipped,Consumer,No
+ORD10180,2025-01-30 00:00:00,CUST1240,Divya P,Male,unknown,Mumbai,Maharashtra,West,Monitor,Electronics,1,13902.49,15.0,11817.12,1616.44,Debit Card,Delivered,Corporate,No
+ORD10588,2025-02-27 00:00:00,CUST1052,Karthik Kumar,Male,25.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,3,11424.47,10.0,30846.07,5030.55,UPI,Delivered,Consumer,No
+ORD10687,2025-07-21 00:00:00,CUST1070,Priya P,Male,40.0,Mumbai,Maharashtra,West,Printer,Office Equipment,3,13011.54,25.0,29275.97,5882.86,UPI,Delivered,Small Business,No
+ORD10230,2025-02-27 00:00:00,CUST1233,Pavithra R,Female,52.0,Pune,Maharashtra,West,Webcam,Accessories,1,3594.86,20.0,2875.89,417.79,Debit Card,Cancelled,Consumer,Yes
+ORD10313,2025-09-03 00:00:00,CUST1189,Naveen S,Male,52.0,Madurai,Tamil Nadu,South,Router,Networking,6,3172.14,5.0,18081.2,2741.26,Cash,Delivered,Corporate,No
+ORD10670,2025-02-01 00:00:00,CUST1186,Rahul R,Male,40.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,2,1246.72,10.0,2244.1,363.24,Net Banking,Delivered,Corporate,No
+ORD10222,2025-05-23 00:00:00,CUST1140,Harish Kumar,Female,60.0,Jaipur,Rajasthan,North,Router,Networking,3,3208.88,5.0,9145.31,1480.45,UPI,delivered,Consumer,No
+ORD10054,2025-10-22 00:00:00,CUST1132,Arun P,Female,60.0,Hyderabad,Telangana,South,USB Drive,Storage,5,1175.91,5.0,5585.57,959.65,UPI,Returned,Small Business,Returned
+ORD10412,2025-03-04 00:00:00,CUST1108,Dinesh M,Female,22.0,Pune,Maharashtra,West,Printer,Office Equipment,4,12645.43,0.0,50581.72,7018.88,Net Banking,Returned,Consumer,Returned
+ORD10554,2025-04-17 00:00:00,CUST1065,Karthik S,Male,,Kolkata,West Bengal,East,Printer,Office Equipment,4,12631.72,10.0,45474.19,2718.08,Credit Card,Delivered,Small Business,No
+ORD10451,2025-08-17 00:00:00,CUST1054,Harish R,Male,25.0,Kolkata,West Bengal,East,Headset,Accessories,3,2074.97,0.0,6224.91,1242.72,Credit Card,cancelled,Corporate,No
+ORD10399,2025-04-04 00:00:00,CUST1138,Swetha R,Female,22.0,Chennai,Tamil Nadu,South,Mouse,Accessories,1,971.04,15.0,825.38,110.24,Cash,Returned,Corporate,Returned
+ORD10177,2025-12-07 00:00:00,CUST1033,Anitha P,Female,28.0,Bengaluru,Karnataka,South,Mobile Phone,Electronics,1,23660.36,10.0,21294.32,2755.19,Credit Card,delivered,Consumer,No
+ORD10206,2025-09-11 00:00:00,CUST1200,Anitha Kumar,Male,35.0,Kolkata,West Bengal,East,USB Drive,Storage,1,1287.39,15.0,1094.28,105.38,UPI,Delivered,Corporate,No
+ORD10320,2025-11-26 00:00:00,CUST1086,,Female,35.0,Delhi,Delhi,North,Mobile Phone,Electronics,2,20665.35,5.0,39264.16,4706.92,Cash,Shipped,Corporate,No
+ORD10141,2025-10-22 00:00:00,CUST1074,Rahul S,Male,31.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,2,3644.43,0.0,7288.86,605.83,debit card,Shipped,Small Business,No
+ORD10583,2025-06-19 00:00:00,CUST1092,Rahul R,Female,25.0,Trichy,Tamil Nadu,South,Keyboard,Accessories,1,1805.0,0.0,1805.0,246.18,Net Banking,Shipped,Corporate,No
+ORD10662,2025-05-07 00:00:00,CUST1248,Karthik P,Female,18.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,5,1226.55,10.0,5519.48,1134.16,Credit Card,Delivered,Small Business,No
+ORD10280,2025-10-03 00:00:00,CUST1134,Anitha M,Male,45.0,Madurai,Tamil Nadu,South,USB Drive,Storage,3,1275.42,20.0,3061.01,559.62,Cash,Delivered,Small Business,No
+ORD10374,2025-11-18 00:00:00,CUST1225,Suresh M,Female,60.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,2,20572.82,5.0,39088.36,3174.98,Debit Card,Delivered,Consumer,No
+ORD10602,2025-12-15 00:00:00,CUST1017,Naveen Kumar,Male,22.0,Salem,Tamil Nadu,South,Mobile Phone,Electronics,1,23533.72,10.0,21180.35,4177.91,UPI,Delivered,Small Business,No
+ORD10695,2025-09-26 00:00:00,CUST1133,Anitha R,Male,31.0,Hyderabad,Telangana,South,Headset,Accessories,2,2362.68,10.0,4252.82,729.33,Cash,Returned,Consumer,Returned
+ORD10611,2025-09-20 00:00:00,CUST1201,Priya R,Male,25.0,Hyderabad,Telangana,South,Mouse,Accessories,3,921.88,0.0,2765.64,417.58,Cash,Returned,Consumer,Returned
+ORD10293,2025-01-07 00:00:00,CUST1148,Karthik Kumar,Female,25.0,Delhi,Delhi,North,Tablet,Electronics,1,18041.19,10.0,16237.07,1322.91,Cash,Delivered,Consumer,No
+ORD10649,2025-08-09 00:00:00,CUST1052,Naveen S,Male,60.0,Salem,Tamil Nadu,South,Headset,Accessories,4,2347.99,15.0,7983.17,,upi,Cancelled,Small Business,No
+ORD10173,2025-04-22 00:00:00,CUST1094,Keerthi P,Male,25.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,4,871.62,15.0,2963.51,580.42,Net Banking,Delivered,Small Business,No
+ORD10619,2025-10-11 00:00:00,CUST1104,Dinesh S,Male,40.0,Coimbatore,Tamil Nadu,South,Router,Networking,3,3049.25,10.0,missing,1704.8,Debit Card,Returned,Small Business,Returned
+ORD10163,2025-05-17 00:00:00,CUST1164,Harish S,Female,40.0,chennai ,Tamil Nadu,South,Printer,Office Equipment,1,13548.69,15.0,11516.39,1007.1,Net Banking,Shipped,Consumer,No
+ORD10445,2025-03-06 00:00:00,CUST1108,Priya S,Male,35.0,Jaipur,Rajasthan,North,Printer,Office Equipment,2,11861.31,15.0,20164.23,2600.29,UPI,Delivered,Corporate,No
+ORD10277,2025-04-09 00:00:00,CUST1068,Karthik Kumar,Female,45.0,Pune,Maharashtra,West,Printer,Office Equipment,1,12810.86,10.0,11529.77,2163.82,UPI,Returned,Corporate,Returned
+ORD10408,2025-05-15 00:00:00,CUST1018,Naveen P,Male,52.0,Salem,Tamil Nadu,South,Keyboard,Accessories,5,1825.67,15.0,7759.1,862.97,Net Banking,Delivered,Corporate,No
+ORD10082,2025-08-19 00:00:00,CUST1241,Vijay Kumar,Male,60.0,Chennai,Tamil Nadu,South,Webcam,Accessories,2,3597.8,5.0,6835.82,580.95,UPI,Shipped,Corporate,No
+ORD10229,2025-11-09 00:00:00,CUST1206,Arun M,Female,28.0,Salem,Tamil Nadu,South,USB Drive,Storage,3,1110.26,10.0,2997.7,247.74,Cash,Cancelled,Consumer,No
+ORD10375,2025-01-01 00:00:00,CUST1148,Dinesh P,Female,22.0,Jaipur,Rajasthan,North,Laptop,Electronics,6,48048.14,20.0,230631.07,25837.82,Debit Card,Delivered,Consumer,No
+ORD10347,2025-04-18 00:00:00,CUST1241,Priya R,Female,35.0,Coimbatore,Tamil Nadu,South,Printer,Office Equipment,3,11951.48,10.0,32269.0,4739.22,UPI,Cancelled,Small Business,No
+ORD10174,2025-11-03 00:00:00,CUST1060,Suresh Kumar,Male,52.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,2,3844.72,20.0,6151.55,439.05,UPI,Delivered,Corporate,No
+ORD10429,2025-02-23 00:00:00,CUST1152,Divya S,Female,31.0,Pune,Maharashtra,West,Monitor,Electronics,1,13640.66,25.0,10230.49,1460.1,Debit Card,Delivered,Corporate,No
+ORD10155,2025-08-28 00:00:00,CUST1110,Arun P,Female,25.0,Mumbai,Maharashtra,West,Laptop,Electronics,5,41135.63,15.0,174826.43,23394.82,UPI,Cancelled,Small Business,No
+ORD10477,2025-02-22 00:00:00,CUST1205,Naveen R,Female,18.0,Hyderabad,Telangana,South,Mouse,Accessories,2,855.24,5.0,1624.96,210.25,Cash,Delivered,Corporate,No
+ORD10020,2025-08-13 00:00:00,CUST1015,Rahul M,Male,18.0,Salem,Tamil Nadu,South,Laptop,Electronics,1,47561.44,10.0,42805.3,2702.21,Debit Card,shipped,Corporate,No
+ORD10123,2025-02-18 00:00:00,CUST1166,Karthik R,Female,45.0,Bengaluru,Karnataka,South,Mouse,Accessories,1,851.07,15.0,723.41,110.27,Net Banking,Shipped,Small Business,No
+ORD10529,2025-03-31 00:00:00,CUST1065,Karthik P,Male,60.0,Bengaluru,Karnataka,South,Headset,Accessories,5,2168.45,10.0,9758.02,2094.23,Cash,Delivered,Corporate,No
+ORD10103,2025-09-18 00:00:00,CUST1083,Divya R,Female,25.0,Jaipur,Rajasthan,North,Mouse,Accessories,4,896.56,10.0,3227.62,416.38,Cash,Returned,Corporate,Returned
+ORD10003,2025-10-06 00:00:00,CUST1206,Rahul P,Female,31.0,Hyderabad,Telangana,South,USB Drive,Storage,1,1317.12,15.0,1119.55,203.86,Cash,Shipped,Small Business,No
+ORD10635,2025-06-04 00:00:00,CUST1125,Pavithra Kumar,Male,31.0,Jaipur,Rajasthan,North,Laptop,Electronics,2,45443.93,0.0,90887.86,18655.39,Net Banking,Delivered,Consumer,No
+ORD10032,2025-06-03 00:00:00,CUST1033,Keerthi Kumar,Male,35.0,Hyderabad,Telangana,South,Mobile Phone,Electronics,1,22565.27,10.0,20308.74,1461.16,UPI,Cancelled,Consumer,No
+ORD10518,2025-05-13 00:00:00,CUST1250,Rahul M,Male,31.0,Hyderabad,Telangana,South,Monitor,Electronics,2,14763.16,15.0,25097.37,4218.94,Credit Card,Shipped,Small Business,No
+ORD10126,2025-02-18 00:00:00,CUST1101,Naveen P,Male,35.0,Delhi,Delhi,North,SSD,Storage,1,6653.9,20.0,5323.12,512.22,upi,Delivered,Consumer,Yes
+ORD10643,2025-06-14 00:00:00,CUST1153,Pavithra R,Female,31.0,Hyderabad,Telangana,South,Printer,Office Equipment,5,11269.27,15.0,47894.4,5391.6,Cash,Delivered,Corporate,No
+ORD10279,2025-03-22 00:00:00,CUST1059,Suresh Kumar,Female,18.0,Jaipur,Rajasthan,North,Laptop,Electronics,4,44186.01,0.0,176744.04,21116.97,Debit Card,Cancelled,Small Business,No
+ORD10071,2025-12-08 00:00:00,CUST1112,Rahul R,Male,45.0,Pune,Maharashtra,West,Headset,Accessories,4,2360.71,10.0,8498.56,1302.3,Net Banking,Delivered,Small Business,No
+ORD10239,2025-04-27 00:00:00,CUST1142,Suresh M,Female,31.0,Mumbai,Maharashtra,West, Router ,Networking,5,N/A,15.0,13992.95,2050.39,UPI,Delivered,Consumer,No
+ORD10666,2025-05-02 00:00:00,CUST1190,Keerthi Kumar,Male,35.0,Jaipur,Rajasthan,North,Laptop,Electronics,2,47162.55,5.0,89608.84,10755.15,Debit Card,Delivered,Small Business,No
+ORD10499,2025-11-09 00:00:00,CUST1141,Priya S,Male,18.0,Hyderabad,Telangana,South,Tablet,Electronics,2,18098.83,20.0,28958.13,5692.33,UPI,Delivered,Corporate,No
+ORD10120,2025-04-13 00:00:00,CUST1062,Meena M,Female,35.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,2,12812.49,10.0,23062.48,3978.61,UPI,Returned,Consumer,Returned
+ORD10363,2025-06-06 00:00:00,CUST1075,Divya S,Female,40.0,Trichy,Tamil Nadu,South,Mouse,Accessories,1,823.08,10.0,740.77,45.15,,Delivered,Small Business,No
+ORD10669,2025-10-07 00:00:00,CUST1065,Karthik Kumar,Female,60.0,Salem,Tamil Nadu,South,SSD,Storage,2,6702.47,0.0,13404.94,1999.51,Net Banking,Returned,Consumer,Returned
+ORD10549,2025-07-30 00:00:00,CUST1063,Vijay R,Female,52.0,Mumbai,Maharashtra,West,Laptop,Electronics,4,46199.44,10.0,166317.98,12642.19,Net Banking,Delivered,Consumer,No
+ORD10652,2025-03-12 00:00:00,CUST1105,Keerthi S,Male,40.0,Chennai,Tamil Nadu,South,Keyboard,Accessories,2,1728.67,10.0,3111.61,326.23,UPI,Delivered,Small Business,No
+ORD10566,2025-05-22 00:00:00,CUST1094,Karthik S,Male,22.0,Chennai,Tamil Nadu,South,Laptop,Electronics,4,40877.3,10.0,147158.28,29093.53,Net Banking,Delivered,Consumer,No
+ORD10404,2025-11-22 00:00:00,CUST1220,Karthik S,Female,60.0,Pune,Maharashtra,West,Mobile Phone,Electronics,3,22180.11,25.0,49905.25,5272.04,Credit Card,Delivered,Consumer,No
+ORD10576,2025-06-29 00:00:00,CUST1168,Swetha S,Female,35.0,Kolkata,West Bengal,East,Mouse,Accessories,1,866.9,0.0,866.9,103.42,Debit Card,Cancelled,Consumer,No
+ORD10131,2025-05-02 00:00:00,CUST1092,Naveen R,Male,35.0,Trichy,Tamil Nadu,South,Printer,Office Equipment,1,12340.2,25.0,9255.15,884.17,Debit Card,Delivered,Small Business,No
+ORD10246,2025-06-14 00:00:00,CUST1106,Santhosh M,Male,52.0,Hyderabad,Telangana,South,Headset,Accessories,5,2189.89,20.0,8759.56,1675.3,Cash,Delivered,Consumer,No
+ORD10328,2025-09-10 00:00:00,CUST1154,Meena R,Male,45.0,Madurai,Tamil Nadu,South,Laptop,Electronics,6,42093.39,10.0,227304.31,41519.28,UPI,Delivered,Small Business,No
+ORD10322,2025-12-02 00:00:00,CUST1022,,Male,18.0,Madurai,Tamil Nadu,South,Router,Networking,3,3491.49,10.0,9427.02,1830.83,Cash,Shipped,Consumer,No
+ORD10269,2025-08-18 00:00:00,CUST1185,Santhosh S,Male,28.0,Pune,Maharashtra,West,Printer,Office Equipment,6,11700.73,10.0,63183.94,3726.14,credit card,Shipped,Corporate,No
+ORD10520,2025-06-29 00:00:00,CUST1071,Rahul Kumar,Male,unknown,Salem,Tamil Nadu,South,Tablet,Electronics,2,19604.49,0.0,39208.98,7500.25,UPI,Delivered,Corporate,No
+ORD10305,2025-07-10 00:00:00,CUST1133,Priya M,Female,60.0,Chennai,Tamil Nadu,South,USB Drive,Storage,4,1185.21,15.0,4029.71,275.41,Credit Card,Returned,Consumer,Returned
+ORD10337,2025-05-18 00:00:00,CUST1107,Pavithra S,Male,60.0,Madurai,Tamil Nadu,South,Router,Networking,5,3049.2,20.0,12196.8,1985.54,Debit Card,Returned,Consumer,Returned
+ORD10531,2025-06-20 00:00:00,CUST1202,Keerthi Kumar,Male,60.0,Coimbatore,Tamil Nadu,South,Headset,Accessories,1,1984.93,20.0,1587.94,276.41,Credit Card,Shipped,Small Business,No
+ORD10400,2025-08-03 00:00:00,CUST1126,Keerthi P,Male,22.0,Pune,Maharashtra,West,Monitor,Electronics,1,N/A,10.0,13138.11,1039.03,Debit Card,Cancelled,Small Business,No
+ORD10397,2025-01-29 00:00:00,CUST1163,Rahul P,Male,31.0,Jaipur,Rajasthan,North,Mouse,Accessories,1,833.25,0.0,833.25,153.79,Net Banking,Delivered,Consumer,No
+ORD10573,2025-09-24 00:00:00,CUST1088,Rahul S,Male,31.0,Chennai,Tamil Nadu,South,USB Drive,Storage,3,1085.51,20.0,2605.22,507.44,UPI,Delivered,Corporate,No
+ORD10290,2025-07-20 00:00:00,CUST1143,Naveen S,Female,18.0,Delhi,Delhi,North,Headset,Accessories,6,2096.61,10.0,11321.69,1820.28,Credit Card,Delivered,Small Business,No
+ORD10257,2025-08-20 00:00:00,CUST1132,Naveen Kumar,Male,40.0,Salem,Tamil Nadu,South,Router,Networking,2,3087.15,20.0,4939.44,579.29,Debit Card,Cancelled,Corporate,No
+ORD10072,2025-02-03 00:00:00,CUST1207,Rahul S,Female,22.0,Trichy,Tamil Nadu,South,Laptop,Electronics,3,48510.4,0.0,145531.2,12271.81,Debit Card,Returned,Small Business,Returned
+ORD10455,2025-03-01 00:00:00,CUST1204,Rahul S,Female,18.0,Salem,Tamil Nadu,South,Monitor,Electronics,1,13300.55,20.0,10640.44,1765.5,Credit Card,Delivered,Consumer,No
+ORD10110,2025-10-26 00:00:00,CUST1211,Arun S,Female,22.0,Madurai,Tamil Nadu,South,USB Drive,Storage,1,1274.23,20.0,1019.38,143.98,Debit Card,Delivered,Corporate,No
+ORD10226,2025-09-08 00:00:00,CUST1090,Arun M,Female,35.0,Bengaluru,Karnataka,South,Mobile Phone,Electronics,1,21947.36,0.0,21947.36,3963.55,UPI,Delivered,Consumer,No
+ORD10027,2025-10-04 00:00:00,CUST1024,Rahul P,Female,31.0,Salem,Tamil Nadu,South,Keyboard,Accessories,5,1865.13,20.0,7460.52,1143.55,UPI,Delivered,Consumer,No
+ORD10354,2025-02-28 00:00:00,CUST1128,Rahul Kumar,Female,60.0,Madurai,Tamil Nadu,South,Mouse,Accessories,5,907.11,15.0,3855.22,298.71,Cash,Returned,Small Business,Returned
+ORD10449,2025-10-31 00:00:00,CUST1178,Divya S,Male,35.0,Mumbai,Maharashtra,West,Tablet,Electronics,1,17307.22,0.0,17307.22,2294.91,Credit Card,Shipped,Consumer,No
+ORD10465,2025-07-31 00:00:00,CUST1026,Swetha S,Female,25.0,Coimbatore,Tamil Nadu,South,Laptop,Electronics,3,42398.3,10.0,114475.41,22949.93,Credit Card,Returned,Small Business,Returned
+ORD10270,2025-04-20 00:00:00,CUST1118,Dinesh M,Female,40.0,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,1,1686.15,15.0,1433.23,75.89,Debit Card,Returned,Consumer,Returned
+ORD10370,2025-09-13 00:00:00,CUST1069,Santhosh P,Male,52.0,Bengaluru,Karnataka,South,Mobile Phone,Electronics,3,21581.16,10.0,58269.13,6670.16,Debit Card,Delivered,Consumer,No
+ORD10043,2025-06-19 00:00:00,CUST1067,Keerthi M,Male,25.0,Mumbai,Maharashtra,West,Keyboard,Accessories,2,1673.18,5.0,3179.04,580.08,Cash,Delivered,Small Business,No
+ORD10503,2025-10-29 00:00:00,CUST1091,Divya R,Male,22.0,Pune,Maharashtra,West,Webcam,Accessories,2,3555.23,25.0,5332.84,1137.84,Cash,Cancelled,Consumer,No
+ORD10413,2025-06-03 00:00:00,CUST1235,Divya Kumar,Male,60.0,Trichy,Tamil Nadu,South,Webcam,Accessories,1,3377.65,0.0,3377.65,672.99,Cash,Cancelled,Consumer,No
+ORD10343,2025-06-10 00:00:00,CUST1103,Anitha M,Male,45.0,Pune,Maharashtra,West,Mouse,Accessories,1,989.61,15.0,841.17,86.26,UPI,Delivered,Small Business,No
+ORD10289,2025-10-04 00:00:00,CUST1086,Naveen Kumar,Female,18.0,Jaipur,Rajasthan,North,Mouse,Accessories,3,924.4,20.0,2218.56,191.53,Cash,Delivered,Small Business,No
+ORD10157,2025-02-06 00:00:00,CUST1250,Keerthi Kumar,Male,60.0,Kolkata,West Bengal,East,USB Drive,Storage,1,N/A,10.0,1139.96,121.42,UPI,Returned,Consumer,Returned
+ORD10096,2025-10-10 00:00:00,CUST1007,Arun Kumar,Male,28.0,Jaipur,Rajasthan,North, Headset ,Accessories,2,2364.0,15.0,4018.8,783.63,Net Banking,Shipped,Corporate,No
+ORD10599,2025-03-31 00:00:00,CUST1160,Vijay R,Female,60.0,Hyderabad,Telangana,South,Printer,Office Equipment,3,11903.98,5.0,33926.34,6443.72,Net Banking,Shipped,Small Business,No
+ORD10606,2025-03-28 00:00:00,CUST1207,Swetha S,Female,40.0,Jaipur,Rajasthan,North,Laptop,Electronics,2,49140.21,20.0,78624.34,14640.34,UPI,Cancelled,Consumer,No
+ORD10039,2025-06-15 00:00:00,CUST1097,Priya Kumar,Female,45.0,Salem,Tamil Nadu,South,SSD,Storage,5,7095.92,10.0,31931.64,3631.61,Cash,Delivered,Consumer,No
+ORD10647,2025-04-03 00:00:00,CUST1058,Keerthi M,Male,25.0,Kolkata,West Bengal,East,Mouse,Accessories,1,823.96,0.0,823.96,149.35,Net Banking,Delivered,Consumer,No
+ORD10037,2025-09-16 00:00:00,CUST1008,Swetha S,Female,40.0,Pune,Maharashtra,West,Tablet,Electronics,5,17463.51,10.0,78585.8,12024.86,Debit Card,Delivered,Small Business,No
+ORD10392,2025-10-06 00:00:00,CUST1005,Dinesh S,Female,22.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,2,11913.32,5.0,22635.31,4144.35,Cash,Delivered,Consumer,No
+ORD10068,2025-10-09 00:00:00,CUST1248,Divya M,Male,18.0,,Tamil Nadu,South,Router,Networking,2,3298.18,5.0,6266.54,787.95,Debit Card,Delivered,Corporate,No
+ORD10456,2025-02-19 00:00:00,CUST1201,Arun S,Male,40.0,,Tamil Nadu,South,USB Drive,Storage,3,1259.45,20.0,3022.68,205.43,Debit Card,Cancelled,Corporate,No
+ORD10109,2025-02-05 00:00:00,CUST1213,Suresh M,Male,52.0,Salem,Tamil Nadu,South,Router,Networking,1,3369.4,5.0,3200.93,623.4,cash,Delivered,Consumer,No
+ORD10051,2025-02-22 00:00:00,CUST1213,Swetha Kumar,Male,25.0,Kolkata,West Bengal,East,Keyboard,Accessories,4,1774.7,0.0,7098.8,648.53,Debit Card,Returned,Consumer,Returned
+ORD10388,2025-04-02 00:00:00,CUST1231,Anitha S,Male,31.0,Jaipur,Rajasthan,North,Monitor,Electronics,3,13449.2,10.0,36312.84,2650.89,Debit Card,Shipped,Corporate,No
+ORD10603,2025-11-30 00:00:00,CUST1079,Arun Kumar,Male,45.0,Trichy,Tamil Nadu,South,Printer,Office Equipment,4,13014.13,0.0,52056.52,5367.15,Credit Card,Delivered,Small Business,No
+ORD10615,2025-09-20 00:00:00,CUST1126,Harish M,Female,18.0,Mumbai,Maharashtra,West,Printer,Office Equipment,6,12198.43,0.0,73190.58,4606.97,net banking,Cancelled,Small Business,No
+ORD10537,2025-12-19 00:00:00,CUST1055,Keerthi P,Female,35.0,Madurai,Tamil Nadu,South,Tablet,Electronics,3,16398.64,15.0,41816.53,2171.04,Cash,Shipped,Small Business,No
+ORD10081,2025-04-19 00:00:00,CUST1152,Swetha S,Male,25.0,Jaipur,Rajasthan,North,USB Drive,Storage,2,1237.55,20.0,1980.08,104.22,Debit Card,Shipped,Small Business,No
+ORD10034,2025-07-19 00:00:00,CUST1052,Naveen R,Female,28.0,Hyderabad,Telangana,South,Tablet,Electronics,3,16942.07,0.0,50826.21,5667.58,Credit Card,Delivered,Consumer,No
+ORD10158,2025-12-27 00:00:00,CUST1010,Anitha R,Male,22.0,Madurai,Tamil Nadu,South,Monitor,Electronics,1,13120.01,5.0,12464.01,2709.37,Net Banking,Returned,Consumer,Returned
+ORD10178,2025-03-06 00:00:00,CUST1077,Keerthi M,Female,28.0,jaipur ,Rajasthan,North,Webcam,Accessories,4,3603.66,10.0,12973.18,817.0,Credit Card,Shipped,Corporate,No
+ORD10648,2025-08-01 00:00:00,CUST1074,Priya Kumar,Male,45.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,6,3341.08,10.0,18041.83,2271.46,Debit Card,Shipped,Small Business,No
+ORD10152,2025-02-13 00:00:00,CUST1002,Divya Kumar,Female,,Delhi,Delhi,North,Mouse,Accessories,5,832.55,15.0,3538.34,318.45,Net Banking,Delivered,Small Business,No
+ORD10288,2025-06-05 00:00:00,CUST1035,Pavithra M,Female,18.0,Delhi,Delhi,North,Tablet,Electronics,2,16617.56,0.0,33235.12,2223.78,Net Banking,Delivered,Corporate,Yes
+ORD10251,2025-12-25 00:00:00,CUST1080,Anitha R,Female,,Bengaluru,Karnataka,South,Tablet,Electronics,2,17940.24,0.0,35880.48,2985.04,Cash,Delivered,Corporate,No
+ORD10283,2025-07-31 00:00:00,CUST1191,Anitha S,Female,40.0,Kolkata,West Bengal,East,Keyboard,Accessories,2,1629.89,5.0,3096.79,176.42,upi,Delivered,Small Business,No
+ORD10315,2025-09-24 00:00:00,CUST1053,Pavithra R,Female,25.0,Kolkata,West Bengal,East,SSD,Storage,2,7003.74,5.0,13307.11,1534.19,UPI,Delivered,Small Business,No
+ORD10227,2025-08-24 00:00:00,CUST1217,Harish Kumar,Female,45.0,Hyderabad,Telangana,South,Router,Networking,5,3409.96,5.0,16197.31,1650.67,Debit Card,Returned,Small Business,Returned
+ORD10560,2025-11-19 00:00:00,CUST1016,Keerthi R,Female,31.0,Madurai,Tamil Nadu,South,Mobile Phone,Electronics,5,22218.04,15.0,94426.67,8087.78,Debit Card,Delivered,Consumer,No
+ORD10519,2025-03-28 00:00:00,CUST1206,Harish R,Female,45.0,Madurai,Tamil Nadu,South, Printer ,Office Equipment,1,13324.36,0.0,13324.36,2697.17,Debit Card,Shipped,Consumer,No
+ORD10040,2025-12-19 00:00:00,CUST1026,Keerthi S,Female,,chennai ,Tamil Nadu,South,Webcam,Accessories,6,3323.8,10.0,17948.52,2484.31,Cash,Cancelled,Corporate,No
+ORD10513,2025-07-05 00:00:00,CUST1006,Suresh P,Female,22.0,,Tamil Nadu,South,Laptop,Electronics,2,48901.24,10.0,88022.23,18763.02,Credit Card,Cancelled,Corporate,No
+ORD10317,2025-03-09 00:00:00,CUST1034,Swetha P,Male,40.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,3,886.87,5.0,2527.58,501.59,Net Banking,Delivered,Small Business,No
+ORD10253,2025-08-05 00:00:00,CUST1208,Dinesh P,Male,31.0,Hyderabad,Telangana,South,USB Drive,Storage,3,1221.91,15.0,3115.87,501.19,UPI,Returned,Small Business,Returned
+ORD10601,2025-07-13 00:00:00,CUST1139,Priya R,Female,40.0,Madurai,Tamil Nadu,South,Monitor,Electronics,2,12692.95,15.0,21578.02,3925.02,UPI,Delivered,Consumer,No
+ORD10149,2025-05-20 00:00:00,CUST1183,Suresh S,Male,22.0,Chennai,Tamil Nadu,South,Router,Networking,6,3481.42,20.0,16710.82,3485.43,Net Banking,Cancelled,Corporate,No
+ORD10252,2025-10-11 00:00:00,CUST1118,Meena M,Female,60.0,Chennai,Tamil Nadu,South,Mouse,Accessories,2,967.12,15.0,1644.1,171.27,Debit Card,Delivered,Consumer,No
+ORD10442,2025-02-18 00:00:00,CUST1024,Santhosh R,Male,45.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,3,23085.52,5.0,65793.73,9702.02,Net Banking,Cancelled,Consumer,No
+ORD10409,2025-06-06 00:00:00,CUST1250,Dinesh P,Female,60.0,Mumbai,Maharashtra,West,Keyboard,Accessories,4,1797.96,25.0,5393.88,503.91,Credit Card,Delivered,Small Business,No
+ORD10663,2025-01-23 00:00:00,CUST1092,Anitha R,Female,60.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,4,1648.36,0.0,6593.44,1234.87,Cash,Shipped,Consumer,No
+ORD10106,2025-01-18 00:00:00,CUST1041,Swetha R,Female,25.0,trichy ,Tamil Nadu,South,Router,Networking,1,3187.82,5.0,3028.43,582.3,Debit Card,Returned,Corporate,Returned
+ORD10472,2025-10-27 00:00:00,CUST1059,Arun P,Male,52.0,Mumbai,Maharashtra,West,Headset,Accessories,3,2083.34,15.0,5312.52,547.4,Net Banking,Cancelled,Consumer,No
+ORD10547,2025-01-15 00:00:00,CUST1045,Karthik M,Female,45.0,Kolkata,West Bengal,East,Laptop,Electronics,2,49059.99,0.0,98119.98,5072.17,Debit Card,Returned,Consumer,Returned
+ORD10358,2025-06-01 00:00:00,CUST1123,Dinesh P,Female,25.0,Pune,Maharashtra,West,Mobile Phone,Electronics,4,21958.93,0.0,87835.72,7537.51,Net Banking,Returned,Small Business,Returned
+ORD10568,2025-04-10 00:00:00,CUST1069,Rahul M,Male,18.0,Mumbai,Maharashtra,West,Tablet,Electronics,4,18945.67,0.0,75782.68,9503.45,Cash,Delivered,Small Business,No
+ORD10424,2025-11-24 00:00:00,CUST1196,Anitha S,Female,18.0,Salem,Tamil Nadu,South,Router,Networking,1,2923.68,5.0,2777.5,523.09,Cash,Delivered,Consumer,No
+ORD10284,2025-03-08 00:00:00,CUST1075,Rahul S,Male,25.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,1,922.72,5.0,876.58,70.92,Net Banking,Delivered,Small Business,No
+ORD10035,2025-02-08 00:00:00,CUST1239,Karthik S,Male,18.0,Salem,Tamil Nadu,South,Webcam,Accessories,1,3622.87,10.0,3260.58,524.46,Debit Card,Delivered,Corporate,No
+ORD10496,2025-11-27 00:00:00,CUST1249,Santhosh Kumar,Female,40.0,Jaipur,Rajasthan,North, Monitor ,Electronics,3,13541.14,5.0,38592.25,3136.53,Debit Card,Cancelled,Small Business,No
+ORD10633,2025-04-21 00:00:00,CUST1144,Rahul P,Male,52.0,Salem,Tamil Nadu,South,Router,Networking,4,3347.43,0.0,13389.72,1143.24,Cash,Cancelled,Consumer,No
+ORD10616,2025-08-26 00:00:00,CUST1151,Vijay M,Male,40.0,Salem,Tamil Nadu,South,Printer,Office Equipment,3,13194.39,10.0,35624.85,2701.86,UPI,Shipped,Small Business,No
+ORD10441,2025-10-29 00:00:00,CUST1214,Harish Kumar,Male,31.0,Delhi,Delhi,North,Mouse,Accessories,3,836.5,0.0,2509.5,490.53,Cash,Shipped,Small Business,No
+ORD10640,2025-02-18 00:00:00,CUST1198,Rahul S,Female,25.0,Trichy,Tamil Nadu,South,Printer,Office Equipment,1,12454.92,5.0,11832.17,2529.09,Cash,Delivered,Small Business,No
+ORD10506,2025-11-13 00:00:00,CUST1246,Pavithra Kumar,Female,31.0,Jaipur,Rajasthan,North,Mobile Phone,Electronics,1,23041.41,10.0,20737.27,1792.44,UPI,Shipped,Corporate,No
+ORD10544,2025-09-28 00:00:00,CUST1215,Suresh R,Male,unknown,Madurai,Tamil Nadu,South,Headset,Accessories,1,2197.52,10.0,1977.77,292.55,net banking,Delivered,Small Business,No
+ORD10256,2025-11-15 00:00:00,CUST1006,Suresh R,Female,60.0,Jaipur,Rajasthan,North,Keyboard,Accessories,3,1704.61,15.0,4346.76,718.33,UPI,Returned,Small Business,Returned
+ORD10483,2025-10-02 00:00:00,CUST1123,Arun P,Male,52.0,Chennai,Tamil Nadu,South,Printer,Office Equipment,1,12025.68,10.0,10823.11,819.08,Cash,Cancelled,Consumer,No
+ORD10154,2025-02-28 00:00:00,CUST1110,Naveen R,Male,28.0,Delhi,Delhi,North,USB Drive,Storage,1,1235.45,10.0,1111.9,198.98,Cash,Shipped,Consumer,No
+ORD10124,2025-02-11 00:00:00,CUST1122,Priya R,Female,40.0,Madurai,Tamil Nadu,South,Webcam,Accessories,2,3472.3,0.0,6944.6,1421.84,Credit Card,Shipped,Consumer,No
+ORD10179,2025-11-14 00:00:00,CUST1250,Suresh R,Female,28.0,bengaluru ,Karnataka,South,Printer,Office Equipment,4,13748.41,10.0,49494.28,5342.88,UPI,Delivered,Small Business,No
+ORD10681,2025-09-18 00:00:00,CUST1060,Dinesh S,Female,28.0,Chennai,Tamil Nadu,South,Router,Networking,1,2934.29,25.0,2200.72,247.69,Cash,Shipped,Consumer,No
+ORD10324,2025-04-08 00:00:00,CUST1108,Pavithra Kumar,Male,18.0,Bengaluru,Karnataka,South,Mobile Phone,Electronics,1,20897.08,15.0,17762.52,2234.87,Credit Card,Delivered,Consumer,No
+ORD10236,2025-12-12 00:00:00,CUST1140,Swetha Kumar,Female,40.0,Mumbai,Maharashtra,West,Headset,Accessories,1,2061.98,5.0,1958.88,266.24,UPI,Returned,Corporate,Returned
+ORD10028,2025-03-13 00:00:00,CUST1175,Keerthi R,Male,40.0,Delhi,Delhi,North,Printer,Office Equipment,3,11994.23,20.0,28786.15,3781.26,Cash,Delivered,Consumer,No
+ORD10510,2025-12-25 00:00:00,CUST1041,Rahul S,Male,40.0,Jaipur,Rajasthan,North,USB Drive,Storage,2,1190.35,15.0,2023.59,295.64,Credit Card,Shipped,Consumer,No
+ORD10581,2025-08-27 00:00:00,CUST1011,Keerthi R,Male,45.0,Jaipur,Rajasthan,North,Keyboard,Accessories,3,1931.18,10.0,5214.19,881.91,Cash,Delivered,Consumer,No
+ORD10514,2025-07-06 00:00:00,CUST1078,Divya Kumar,Male,25.0,Jaipur,Rajasthan,North,SSD,Storage,3,6044.41,20.0,14506.58,2295.86,,Returned,Small Business,Returned
+ORD10170,2025-05-21 00:00:00,CUST1166,Rahul M,Male,60.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,1,23056.05,,21903.25,1918.52,Debit Card,Cancelled,Small Business,No
+ORD10494,2025-12-15 00:00:00,CUST1115,Harish P,Male,28.0,Chennai,Tamil Nadu,South,SSD,Storage,1,6438.63,5.0,6116.7,1289.8,Cash,Delivered,Small Business,No
+ORD10026,2025-11-23 00:00:00,CUST1030,Vijay R,Male,18.0,Pune,Maharashtra,West,Router,Networking,1,3449.09,5.0,3276.64,515.22,Net Banking,Delivered,Corporate,No
+ORD10355,2025-08-31 00:00:00,CUST1241,Naveen S,Female,28.0,Salem,Tamil Nadu,South,Monitor,Electronics,4,14433.98,10.0,51962.33,8697.36,UPI,Returned,Corporate,Returned
+ORD10084,2025-03-18 00:00:00,CUST1068,Keerthi R,Female,31.0,Salem,Tamil Nadu,South,Monitor,Electronics,4,15025.71,10.0,54092.56,,net banking,Delivered,Corporate,No
+ORD10685,2025-08-25 00:00:00,CUST1164,Rahul S,Male,22.0,Mumbai,Maharashtra,West,Webcam,Accessories,5,3285.8,5.0,15607.55,1697.58,Credit Card,Cancelled,Corporate,No
+ORD10012,2025-09-09 00:00:00,CUST1029,Rahul R,Male,28.0,Trichy,Tamil Nadu,South,Webcam,Accessories,-1,3319.28,0.0,13277.12,816.35,UPI,Cancelled,Small Business,No
+ORD10009,2025-09-09 00:00:00,CUST1002,Anitha S,Male,52.0,Hyderabad,Telangana,South,Mobile Phone,Electronics,2,20649.95,5.0,39234.9,7417.27,Credit Card,Returned,Corporate,Returned
+ORD10001,2025-02-17 00:00:00,CUST1074,Arun Kumar,Female,60.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,2,1879.01,10.0,3382.22,733.03,Cash,Delivered,Small Business,No
+ORD10233,invalid_date,CUST1143,Karthik P,Male,28.0,Kolkata,West Bengal,East,Headset,Accessories,3,2340.0,0.0,7020.0,1034.03,Credit Card,Returned,Corporate,Returned
+ORD10266,2025-08-09 00:00:00,CUST1210,Naveen P,Male,60.0,Chennai,Tamil Nadu,South,Router,Networking,1,3345.46,0.0,3345.46,212.8,Net Banking,Delivered,Small Business,No
+ORD10432,2025-04-22 00:00:00,CUST1214,Naveen Kumar,Male,40.0,Kolkata,West Bengal,East,USB Drive,Storage,4,1241.1,15.0,4219.74,871.05,Debit Card,Delivered,Corporate,No
+ORD10481,2025-07-03 00:00:00,CUST1095,Rahul R,Male,45.0,Coimbatore,Tamil Nadu,South,SSD,Storage,3,6699.42,15.0,17083.52,3510.2,Credit Card,Cancelled,Corporate,No
+ORD10181,2025-05-28 00:00:00,CUST1115,Naveen Kumar,Female,28.0,Hyderabad,Telangana,South,Monitor,Electronics,3,14054.97,0.0,42164.91,2782.78,Cash,Shipped,Consumer,No
+ORD10490,2025-09-08 00:00:00,CUST1089,Keerthi P,Female,40.0,Pune,Maharashtra,West,Laptop,Electronics,1,45339.09,0.0,45339.09,9192.73,Debit Card,Shipped,Consumer,No
+ORD10326,2025-03-23 00:00:00,CUST1104,Rahul R,Male,45.0,Jaipur,Rajasthan,North,USB Drive,Storage,2,1083.29,25.0,1624.94,133.66,Net Banking,Delivered,Small Business,No
+ORD10112,2025-02-08 00:00:00,CUST1052,Dinesh P,Male,45.0,Trichy,Tamil Nadu,South,USB Drive,Storage,3,1235.5,10.0,3335.85,554.52,Net Banking,Shipped,Small Business,No
+ORD10127,2025-11-18 00:00:00,CUST1005,Vijay R,Female,25.0,Bengaluru,Karnataka,South,USB Drive,Storage,3,1097.3,5.0,3127.3,164.53,Net Banking,Delivered,Consumer,No
+ORD10313,2025-09-03 00:00:00,CUST1189,Naveen S,Male,52.0,Madurai,Tamil Nadu,South,Router,Networking,6,3172.14,5.0,18081.2,2741.26,Cash,Delivered,Corporate,No
+ORD10057,2025-01-18 00:00:00,CUST1117,Santhosh R,Female,31.0,Coimbatore,Tamil Nadu,South,USB Drive,Storage,4,1207.8,10.0,4348.08,557.92,Credit Card,Cancelled,Consumer,No
+ORD10651,2025-02-05 00:00:00,CUST1037,Priya Kumar,Female,,Mumbai,Maharashtra,West, Tablet ,Electronics,5,19431.12,15.0,82582.26,7215.01,UPI,Shipped,Corporate,No
+ORD10387,2025-04-10 00:00:00,CUST1172,Santhosh M,Female,52.0,Chennai,Tamil Nadu,South,Laptop,Electronics,1,43380.39,0.0,43380.39,4761.28,Cash,Delivered,Consumer,Yes
+ORD10551,2025-08-14 00:00:00,CUST1180,Arun S,Female,25.0,Delhi,Delhi,North,Webcam,Accessories,3,3512.63,10.0,9484.1,2003.03,UPI,Cancelled,Corporate,No
+ORD10298,2025-11-03 00:00:00,CUST1025,Dinesh S,Female,31.0,Jaipur,Rajasthan,North,Printer,Office Equipment,5,12382.45,0.0,61912.25,3463.61,Cash,Delivered,Small Business,No
+ORD10696,2025-12-18 00:00:00,CUST1226,Divya P,Female,22.0,Hyderabad,Telangana,South,SSD,Storage,1,6822.16,5.0,6481.05,383.78,Cash,Returned,Corporate,Returned
+ORD10515,2025-02-22 00:00:00,CUST1017,Santhosh M,Male,52.0,Bengaluru,Karnataka,South,USB Drive,Storage,2,1183.28,20.0,1893.25,345.08,Cash,Delivered,Corporate,No
+ORD10160,2025-03-07 00:00:00,CUST1069,Naveen S,Female,31.0,Jaipur,Rajasthan,North,Laptop,Electronics,6,42658.97,,230358.44,41185.12,Debit Card,Shipped,Small Business,No
+ORD10162,2025-05-02 00:00:00,CUST1019,Meena M,Male,60.0,Mumbai,Maharashtra,West,Headset,Accessories,1,2336.76,10.0,2103.08,457.43,Credit Card,Returned,Consumer,Returned
+ORD10137,2025-09-04 00:00:00,CUST1008,Harish M,Male,40.0,Chennai,Tamil Nadu,South,Laptop,Electronics,1,44783.72,20.0,35826.98,2560.6,Credit Card,Delivered,Small Business,No
+ORD10425,2025-05-22 00:00:00,CUST1066,Anitha Kumar,Female,31.0,Madurai,Tamil Nadu,South,Keyboard,Accessories,2,1910.93,10.0,3439.67,187.94,Credit Card,Delivered,Consumer,No
+ORD10497,2025-08-15 00:00:00,CUST1211,Naveen P,Female,25.0,,Karnataka,South,Monitor,Electronics,6,14073.01,5.0,80216.16,10288.43,Credit Card,Delivered,Corporate,No
+ORD10692,2025-02-08 00:00:00,CUST1248,Arun R,Male,40.0,Kolkata,West Bengal,East,Router,Networking,3,3412.22,20.0,8189.33,1028.39,Credit Card,Delivered,Consumer,No
+ORD10407,2025-12-12 00:00:00,CUST1215,Meena R,Male,52.0,Kolkata,West Bengal,East,Monitor,Electronics,3,13847.67,10.0,37388.71,2904.07,Net Banking,Delivered,Consumer,No
+ORD10631,2025-01-15 00:00:00,CUST1213,Santhosh R,Female,22.0,Pune,Maharashtra,West,Mobile Phone,Electronics,2,20134.27,15.0,34228.26,4280.22,UPI,Returned,Corporate,Returned
+ORD10060,2025-09-30 00:00:00,CUST1081,Divya R,Female,18.0,Kolkata,West Bengal,East,Keyboard,Accessories,1,1754.63,5.0,1666.9,178.51,Credit Card,Cancelled,Consumer,No
+ORD10316,2025-12-15 00:00:00,CUST1188,Divya R,Male,52.0,Jaipur,Rajasthan,North,Mouse,Accessories,5,955.27,10.0,4298.72,908.12,Credit Card,delivered,Corporate,No
+ORD10184,invalid_date,CUST1163,Meena R,Female,31.0,Trichy,Tamil Nadu,South,Headset,Accessories,2,2380.09,10.0,4284.16,624.13,Cash,Returned,Corporate,Returned
+ORD10474,2025-03-27 00:00:00,CUST1100,Naveen S,Female,,Hyderabad,Telangana,South,Headset,Accessories,6,1984.53,20.0,9525.74,690.23,Net Banking,Delivered,Consumer,No
+ORD10528,2025-01-09 00:00:00,CUST1044,Meena Kumar,Female,22.0,Delhi,Delhi,North,Webcam,Accessories,1,3812.06,0.0,3812.06,191.34,Cash,Delivered,Consumer,No
+ORD10453,2025-05-16 00:00:00,CUST1029,Anitha S,Male,35.0,Trichy,Tamil Nadu,South,Mouse,Accessories,4,897.77,10.0,3231.97,575.65,UPI,Shipped,Consumer,No
+ORD10182,2025-07-13 00:00:00,CUST1135,Naveen P,Female,22.0,Pune,Maharashtra,West,Mobile Phone,Electronics,2,22767.93,5.0,43259.07,7570.33,Cash,Delivered,Consumer,No
+ORD10052,2025-04-10 00:00:00,CUST1231,Divya M,Male,52.0,Mumbai,Maharashtra,West,USB Drive,Storage,1,1165.22,25.0,873.92,112.21,Credit Card,Returned,Small Business,Returned
+ORD10390,2025-03-16 00:00:00,CUST1086,Priya R,Male,25.0,Salem,Tamil Nadu,South,SSD,Storage,6,6810.38,20.0,32689.82,2449.46,Debit Card,Returned,Corporate,Returned
+ORD10478,2025-08-12 00:00:00,CUST1053,Santhosh M,Male,52.0,Madurai,Tamil Nadu,South,Headset,Accessories,3,2350.05,15.0,5992.63,1096.43,Net Banking,Cancelled,Small Business,No
+ORD10167,2025-09-13 00:00:00,CUST1073,Vijay R,Female,22.0,Madurai,Tamil Nadu,South, Laptop ,Electronics,1,41813.76,10.0,37632.38,7247.32,UPI,Shipped,Corporate,No
+ORD10410,2025-07-11 00:00:00,CUST1064,Divya R,Male,45.0,Pune,Maharashtra,West,Laptop,Electronics,2,41608.1,20.0,66572.96,7574.72,Credit Card,Delivered,Corporate,No
+ORD10437,2025-04-12 00:00:00,CUST1031,Divya Kumar,Male,40.0,Coimbatore,Tamil Nadu,South,Webcam,Accessories,1,3761.37,10.0,3385.23,384.54,,Delivered,Small Business,No
+ORD10642,2025-02-13 00:00:00,CUST1123,Anitha S,Female,28.0,Delhi,Delhi,North,Headset,Accessories,5,2035.67,10.0,9160.52,841.22,Credit Card,Cancelled,Consumer,No
+ORD10121,2025-06-25 00:00:00,CUST1158,Swetha M,Male,60.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,2,811.11,0.0,1622.22,162.55,Cash,Delivered,Small Business,No
+ORD10580,2025-12-17 00:00:00,CUST1093,Keerthi Kumar,Male,28.0,Kolkata,West Bengal,East,SSD,Storage,2,5991.87,20.0,9586.99,1222.47,UPI,Delivered,Small Business,No
+ORD10594,2025-07-16 00:00:00,CUST1114,Pavithra M,Male,40.0,Bengaluru,Karnataka,South,Tablet,Electronics,3,18144.68,5.0,51712.34,10029.92,Debit Card,Delivered,Small Business,No
+ORD10069,2025-07-04 00:00:00,CUST1165,Rahul Kumar,Female,28.0,delhi ,Delhi,North,Headset,Accessories,5,2201.43,5.0,10456.79,1673.02,Debit Card,Returned,Small Business,Returned
+ORD10418,2025-12-05 00:00:00,CUST1055,Swetha M,Male,40.0,Pune,Maharashtra,West,Laptop,Electronics,4,42493.56,0.0,169974.24,8555.33,Cash,Returned,Consumer,Returned
+ORD10133,2025-02-23 00:00:00,CUST1092,Priya Kumar,Female,18.0,Delhi,Delhi,North,SSD,Storage,2,6283.52,0.0,12567.04,649.13,credit card,Returned,Small Business,Returned
+ORD10698,2025-05-17 00:00:00,CUST1110,Karthik P,Female,28.0,Trichy,Tamil Nadu,South,Printer,Office Equipment,2,12145.02,5.0,23075.54,1531.19,UPI,Shipped,Consumer,No
+ORD10250,2025-02-18 00:00:00,CUST1157,Keerthi M,Male,60.0,Mumbai,Maharashtra,West,Keyboard,Accessories,5,1779.16,0.0,8895.8,1420.12,Debit Card,Cancelled,Corporate,No
+ORD10066,2025-11-10 00:00:00,CUST1166,Naveen M,Female,45.0,Bengaluru,Karnataka,South,Webcam,Accessories,2,3367.36,5.0,6397.98,924.48,UPI,Delivered,Small Business,No
+ORD10575,2025-10-12 00:00:00,CUST1173,Santhosh M,Male,25.0,Coimbatore,Tamil Nadu,South,Tablet,Electronics,1,16274.05,0.0,16274.05,3221.81,UPI,Returned,Corporate,Returned
+ORD10610,2025-12-16 00:00:00,CUST1105,Suresh P,Male,52.0,mumbai ,Maharashtra,West,Mouse,Accessories,2,834.45,10.0,1502.01,312.66,Debit Card,Delivered,Corporate,Yes
+ORD10401,2025-08-29 00:00:00,CUST1198,Divya P,Female,28.0,Mumbai,Maharashtra,West,Mouse,Accessories,1,983.06,5.0,933.91,84.17,UPI,Cancelled,Consumer,No
+ORD10585,2025-11-20 00:00:00,CUST1198,Meena R,Female,35.0,Pune,Maharashtra,West,Mouse,Accessories,1,988.01,0.0,988.01,70.86,Credit Card,Delivered,Corporate,No
+ORD10156,2025-12-31 00:00:00,CUST1134,Keerthi S,Female,31.0,Salem,Tamil Nadu,South,SSD,Storage,2,7014.29,5.0,13327.15,2712.09,Cash,Cancelled,Small Business,No
+ORD10377,2025-10-18 00:00:00,CUST1134,Santhosh M,Female,28.0,Madurai,Tamil Nadu,South,SSD,Storage,2,6962.06,15.0,11835.5,754.94,Credit Card,Shipped,Corporate,No
+ORD10021,2025-06-08 00:00:00,CUST1188,Karthik Kumar,Female,52.0,Coimbatore,Tamil Nadu,South,Mouse,Accessories,5,914.76,15.0,3887.73,646.2,UPI,Returned,Corporate,Returned
+ORD10228,2025-08-22 00:00:00,CUST1074,,Female,25.0,Madurai,Tamil Nadu,South,Router,Networking,4,3276.72,5.0,12451.54,2638.85,Net Banking,Shipped,Corporate,No
+ORD10211,2025-10-02 00:00:00,CUST1004,Dinesh Kumar,Female,25.0,Kolkata,West Bengal,East,Router,Networking,3,3459.43,15.0,8821.55,1146.73,UPI,Delivered,Corporate,No
+ORD10415,2025-04-01 00:00:00,CUST1216,Meena R,Female,35.0,Hyderabad,Telangana,South,Mouse,Accessories,5,892.74,20.0,3570.96,675.87,UPI,Delivered,Small Business,No
+ORD10655,2025-01-01 00:00:00,CUST1065,Dinesh Kumar,Female,40.0,Kolkata,West Bengal,East,Headset,Accessories,2,2390.92,20.0,3825.47,591.33,Debit Card,Cancelled,Consumer,No
+ORD10564,2025-10-15 00:00:00,CUST1155,Dinesh P,Female,18.0,Chennai,Tamil Nadu,South,Mobile Phone,Electronics,3,22758.46,20.0,54620.3,8247.78,Net Banking,Cancelled,Consumer,No

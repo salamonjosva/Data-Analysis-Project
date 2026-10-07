@@ -1,0 +1,701 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Region,Product,Category,Quantity,Unit_Price,Sales,Profit,Customer_Segment
+ORD10659,2025-02-22 00:00:00,CUST1140,Anitha S,Female,52,Pune,Delhi,North,Headset,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10213,2025-12-13 00:00:00,CUST1247,Anitha S,Male,28,Pune,Delhi,North,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10421,2025-09-25 00:00:00,CUST1086,Anitha S,Female,60,Pune,Tamil Nadu,South,Tablet,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10108,2025-02-17 00:00:00,CUST1077,Anitha S,Female,22,Pune,West Bengal,East,Mobile Phone,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10344,2025-01-29 00:00:00,CUST1205,Anitha S,Male,35,Pune,Telangana,South,Router,Networking,2,823.96,823.96,149.35,Consumer
+ORD10686,2025-12-08 00:00:00,CUST1199,Anitha S,Male,28,Pune,Karnataka,South,SSD,Storage,-1,823.96,823.96,149.35,Small Business
+ORD10334,2025-02-08 00:00:00,CUST1049,Anitha S,Male,25,Pune,Delhi,North,Keyboard,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10351,2025-05-10 00:00:00,CUST1157,Anitha S,Male,28,Pune,Tamil Nadu,South,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10188,2025-01-23 00:00:00,CUST1003,Anitha S,Male,45,Pune,Delhi,North,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10300,2025-10-11 00:00:00,CUST1064,Anitha S,Female,45,Pune,Delhi,North,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10675,2025-01-18 00:00:00,CUST1209,Anitha S,Male,52,Pune,Maharashtra,West,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10331,2025-07-20 00:00:00,CUST1021,Anitha S,Female,18,Pune,West Bengal,East,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10577,2025-08-24 00:00:00,CUST1035,Anitha S,Male,60,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10541,2025-06-18 00:00:00,CUST1139,Anitha S,Female,60,Pune,Tamil Nadu,South,Keyboard,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10285,2025-12-05 00:00:00,CUST1233,Anitha S,Female,40,Pune,Maharashtra,West,Laptop,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10067,2025-11-25 00:00:00,CUST1093,Anitha S,Female,18,Pune,West Bengal,East,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10623,2025-09-16 00:00:00,CUST1165,Anitha S,Male,18,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10361,2025-06-27 00:00:00,CUST1179,Anitha S,Female,28,Pune,Maharashtra,West,Tablet,Electronics,6,823.96,823.96,149.35,Consumer
+ORD10629,2025-02-08 00:00:00,CUST1182,Anitha S,Male,22,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10089,2025-05-11 00:00:00,CUST1079,Anitha S,Male,52,Pune,Delhi,North,Headset,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10022,2025-10-14 00:00:00,CUST1212,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10658,2025-08-08 00:00:00,CUST1039,Anitha S,Male,60,Pune,Tamil Nadu,South,Keyboard,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10225,2025-04-09 00:00:00,CUST1103,Anitha S,Male,31,Pune,West Bengal,East,Printer,Office Equipment,2,823.96,823.96,149.35,Consumer
+ORD10526,2025-05-27 00:00:00,CUST1032,Anitha S,Male,18,Pune,Maharashtra,West,SSD,Storage,1,823.96,823.96,149.35,Corporate
+ORD10502,2025-10-30 00:00:00,CUST1211,Anitha S,Male,25,Pune,Tamil Nadu,South,USB Drive,Storage,4,823.96,823.96,149.35,Consumer
+ORD10231,2025-06-30 00:00:00,CUST1005,Anitha S,Male,52,Pune,West Bengal,East,Tablet,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10099,2025-12-03 00:00:00,CUST1213,Anitha S,Male,52,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10440,2025-02-12 00:00:00,CUST1016,Anitha S,Female,31,Pune,Delhi,North,Monitor,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10058,2025-05-28 00:00:00,CUST1059,Anitha S,Female,28,Pune,Rajasthan,North,Mobile Phone,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10470,2025-12-09 00:00:00,CUST1109,Anitha S,Male,45,Pune,Rajasthan,North,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10442,2025-02-18 00:00:00,CUST1024,Anitha S,Male,45,Pune,Rajasthan,North,Mobile Phone,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10161,2025-07-12 00:00:00,CUST1061,Anitha S,Female,35,Pune,West Bengal,East,Printer,Office Equipment,1,823.96,823.96,149.35,Small Business
+ORD10589,2025-03-09 00:00:00,CUST1169,Anitha S,Male,52,Pune,Delhi,North,SSD,Storage,1,823.96,823.96,149.35,Corporate
+ORD10411,2025-08-31 00:00:00,CUST1172,Anitha S,Female,35,Pune,Maharashtra,West,Tablet,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10070,2025-08-29 00:00:00,CUST1209,Anitha S,Male,35,Pune,Tamil Nadu,South,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10593,2025-10-27 00:00:00,CUST1182,Anitha S,Female,18,Pune,Rajasthan,North,Keyboard,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10272,2025-06-16 00:00:00,CUST1063,Anitha S,Female,40,Pune,West Bengal,East,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10202,2025-10-21 00:00:00,CUST1049,Anitha S,Male,35,Pune,West Bengal,East,Monitor,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10359,2025-08-07 00:00:00,CUST1067,Anitha S,Male,35,Pune,Rajasthan,North,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10190,2025-02-20 00:00:00,CUST1247,Anitha S,Female,25,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10498,2025-10-09 00:00:00,CUST1129,Anitha S,Male,28,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10287,2025-10-20 00:00:00,CUST1019,Anitha S,Male,35,Pune,Tamil Nadu,South,Keyboard,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10116,2025-07-19 00:00:00,CUST1220,Anitha S,Male,31,Pune,Delhi,North, Webcam ,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10555,2025-11-09 00:00:00,CUST1053,Anitha S,Male,28,Pune,Delhi,North,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10196,2025-03-24 00:00:00,CUST1001,Anitha S,Male,35,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10045,2025-07-05 00:00:00,CUST1152,Anitha S,Female,52,Pune,Delhi,North,Keyboard,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10460,2025-11-22 00:00:00,CUST1204,Anitha S,Male,31,Pune,Delhi,North,USB Drive,Storage,4,823.96,823.96,149.35,Small Business
+ORD10234,2025-12-14 00:00:00,CUST1181,Anitha S,Female,25,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10168,2025-08-29 00:00:00,CUST1179,Anitha S,Female,18,Pune,Delhi,North,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10274,2025-09-17 00:00:00,CUST1052,Anitha S,Female,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10023,2025-06-25 00:00:00,CUST1126,Anitha S,Female,18,Pune,Tamil Nadu,South,Webcam,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10665,2025-10-23 00:00:00,CUST1134,Anitha S,Female,45,Pune,West Bengal,East, Tablet ,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10214,2025-04-30 00:00:00,CUST1074,Anitha S,Male,31,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10428,2025-06-09 00:00:00,CUST1075,Anitha S,Male,22,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10384,2025-01-05 00:00:00,CUST1124,Anitha S,Male,18,Pune,Telangana,South,Monitor,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10524,2025-05-11 00:00:00,CUST1053,Anitha S,Male,40,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10501,2025-05-22 00:00:00,CUST1100,Anitha S,Male,31,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10117,2025-09-03 00:00:00,CUST1242,Anitha S,Male,35,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10604,2025-08-03 00:00:00,CUST1231,Anitha S,Male,18,Pune,Tamil Nadu,South,Keyboard,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10091,2025-07-27 00:00:00,CUST1206,Anitha S,Female,40,Pune,Delhi,North, Printer ,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10132,2025-08-10 00:00:00,CUST1083,Anitha S,Male,60,Pune,Delhi,North,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10612,2025-04-12 00:00:00,CUST1076,Anitha S,Female,35,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10325,2025-10-25 00:00:00,CUST1097,Anitha S,Female,31,Pune,Rajasthan,North,Keyboard,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10352,2025-10-30 00:00:00,CUST1154,Anitha S,Male,31,Pune,Maharashtra,West,Headset,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10457,2025-03-10 00:00:00,CUST1052,Anitha S,Female,45,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10632,2025-04-10 00:00:00,CUST1224,Anitha S,Male,18,Pune,Tamil Nadu,South,Mobile Phone,Electronics,6,823.96,823.96,149.35,Corporate
+ORD10041,2025-08-04 00:00:00,CUST1243,Anitha S,Female,18,Pune,Delhi,North,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10136,2025-10-10 00:00:00,CUST1013,Anitha S,Female,40,Pune,Karnataka,South,Monitor,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10398,2025-04-28 00:00:00,CUST1007,Anitha S,Male,45,Pune,Karnataka,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10341,2025-04-21 00:00:00,CUST1120,Anitha S,Female,22,Pune,Tamil Nadu,South,SSD,Storage,1,823.96,823.96,149.35,Corporate
+ORD10597,2025-02-26 00:00:00,CUST1107,Anitha S,Female,18,Pune,Maharashtra,West,Webcam,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10647,2025-04-03 00:00:00,CUST1058,Anitha S,Male,25,Pune,West Bengal,East,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10090,2025-11-15 00:00:00,CUST1155,Anitha S,Male,40,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10565,2025-12-07 00:00:00,CUST1103,Anitha S,Female,22,Pune,Rajasthan,North,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10670,2025-02-01 00:00:00,CUST1186,Anitha S,Male,40,Pune,Tamil Nadu,South,USB Drive,Storage,2,823.96,823.96,149.35,Corporate
+ORD10571,2025-12-27 00:00:00,CUST1170,Anitha S,Male,25,Pune,Maharashtra,West,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10700,2025-07-18 00:00:00,CUST1148,Anitha S,Male,28,Pune,Maharashtra,West,Router,Networking,2,823.96,823.96,149.35,Consumer
+ORD10192,2025-11-20 00:00:00,CUST1141,Anitha S,Female,18,Pune,Telangana,South,Printer,Office Equipment,2,823.96,823.96,149.35,Corporate
+ORD10369,2025-06-15 00:00:00,CUST1111,Anitha S,Female,52,Pune,Maharashtra,West, Webcam ,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10348,2025-05-22 00:00:00,CUST1025,Anitha S,Male,40,Pune,Maharashtra,West,Laptop,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10286,2025-10-04 00:00:00,CUST1139,Anitha S,Female,28,Pune,Telangana,South,SSD,Storage,2,823.96,823.96,149.35,Consumer
+ORD10294,2025-04-17 00:00:00,CUST1162,Anitha S,Male,52,Pune,Delhi,North,Mouse,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10466,2025-07-02 00:00:00,CUST1138,Anitha S,Female,28,Pune,Tamil Nadu,South,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10500,2025-06-19 00:00:00,CUST1094,Anitha S,Male,45,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10591,2025-08-31 00:00:00,CUST1014,Anitha S,Female,52,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10569,2025-08-28 00:00:00,CUST1199,Anitha S,Female,60,Pune,Karnataka,South,USB Drive,Storage,5,823.96,823.96,149.35,Consumer
+ORD10046,2025-05-04 00:00:00,CUST1174,Anitha S,Female,40,Pune,Maharashtra,West,Laptop,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10468,2025-12-15 00:00:00,CUST1025,Anitha S,Female,22,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Corporate
+ORD10232,2025-09-01 00:00:00,CUST1129,Anitha S,Male,22,Pune,Rajasthan,North,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10044,2025-03-21 00:00:00,CUST1196,Anitha S,Male,18,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10171,2025-06-04 00:00:00,CUST1226,Anitha S,Male,28,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10438,2025-09-21 00:00:00,CUST1244,Anitha S,Female,18,Pune,Tamil Nadu,South,Webcam,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10533,2025-03-01 00:00:00,CUST1211,Anitha S,Female,60,Pune,Rajasthan,North,Webcam,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10130,2025-02-21 00:00:00,CUST1215,Anitha S,Female,31,Pune,Maharashtra,West,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10221,2025-06-22 00:00:00,CUST1010,Anitha S,Female,45,Pune,West Bengal,East,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10147,2025-06-21 00:00:00,CUST1165,Anitha S,Female,28,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10063,2025-07-27 00:00:00,CUST1028,Anitha S,Female,28,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10486,2025-01-31 00:00:00,CUST1200,Anitha S,Male,22,Pune,Maharashtra,West,Headset,Accessories,-1,823.96,823.96,149.35,Consumer
+ORD10263,2025-06-27 00:00:00,CUST1196,Anitha S,Male,45,Pune,Delhi,North,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10653,2025-05-11 00:00:00,CUST1129,Anitha S,Male,35,Pune,Karnataka,South,SSD,Storage,1,823.96,823.96,149.35,Small Business
+ORD10143,2025-12-25 00:00:00,CUST1015,Anitha S,Male,28,Pune,Tamil Nadu,South,Mouse,Accessories,6,823.96,823.96,149.35,Small Business
+ORD10258,2025-08-15 00:00:00,CUST1164,Anitha S,Female,35,Pune,Maharashtra,West,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10204,2025-02-06 00:00:00,CUST1035,Anitha S,Male,45,Pune,West Bengal,East,Router,Networking,5,823.96,823.96,149.35,Consumer
+ORD10015,2025-06-02 00:00:00,CUST1127,Anitha S,Male,31,Pune,Maharashtra,West,Webcam,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10276,2025-05-29 00:00:00,CUST1061,Anitha S,Female,18,Pune,West Bengal,East,Tablet,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10362,2025-11-12 00:00:00,CUST1022,Anitha S,Male,45,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10620,2025-05-29 00:00:00,CUST1167,Anitha S,Male,45,Pune,Delhi,North,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10652,2025-03-12 00:00:00,CUST1105,Anitha S,Male,40,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10624,2025-08-08 00:00:00,CUST1204,Anitha S,Male,60,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10104,2025-06-04 00:00:00,CUST1114,Anitha S,Male,35,Pune,Karnataka,South,Router,Networking,5,823.96,823.96,149.35,Small Business
+ORD10210,2025-08-29 00:00:00,CUST1164,Anitha S,Female,52,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10446,2025-01-27 00:00:00,CUST1107,Anitha S,Female,45,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10142,2025-01-13 00:00:00,CUST1117,Anitha S,Female,60,Pune,Tamil Nadu,South,Mouse,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10406,2025-12-21 00:00:00,CUST1098,Anitha S,Female,45,Pune,Maharashtra,West,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10447,2025-01-30 00:00:00,CUST1007,Anitha S,Female,22,Pune,Tamil Nadu,South,Mouse,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10505,2025-01-03 00:00:00,CUST1220,Anitha S,Male,22,Pune,West Bengal,East,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10668,2025-03-31 00:00:00,CUST1016,Anitha S,Male,40,Pune,Rajasthan,North,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10199,2025-07-11 00:00:00,CUST1075,Anitha S,Male,25,Pune,West Bengal,East,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10118,2025-08-30 00:00:00,CUST1095,Anitha S,Female,45,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10667,2025-02-10 00:00:00,CUST1016,Anitha S,Female,60,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10336,2025-01-07 00:00:00,CUST1066,Anitha S,Male,25,Pune,Delhi,North,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10346,2025-01-23 00:00:00,CUST1170,Anitha S,Female,35,Pune,Karnataka,South,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10135,2025-10-01 00:00:00,CUST1155,Anitha S,Male,31,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10049,2025-02-09 00:00:00,CUST1206,Anitha S,Male,18,Pune,Rajasthan,North,Headset,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10282,2025-11-22 00:00:00,CUST1210,Anitha S,Female,18,Pune,Telangana,South, USB Drive ,Storage,6,823.96,823.96,149.35,Corporate
+ORD10636,2025-05-23 00:00:00,CUST1188,Anitha S,Female,31,Pune,Tamil Nadu,South,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10345,2025-04-26 00:00:00,CUST1209,Anitha S,Female,52,Pune,Tamil Nadu,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10203,2025-05-07 00:00:00,CUST1240,Anitha S,Female,35,Pune,Karnataka,South,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10002,2025-06-26 00:00:00,CUST1136,Anitha S,Male,31,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10088,2025-01-02 00:00:00,CUST1037,Anitha S,Male,31,Pune,Karnataka,South,Keyboard,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10680,2025-08-19 00:00:00,CUST1036,Anitha S,Female,40,Pune,Tamil Nadu,South,Mobile Phone,Electronics,6,823.96,823.96,149.35,Small Business
+ORD10114,2025-04-09 00:00:00,CUST1115,Anitha S,Male,35,Pune,Delhi,North,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10454,2025-08-24 00:00:00,CUST1050,Anitha S,Male,31,Pune,Maharashtra,West,SSD,Storage,2,823.96,823.96,149.35,Consumer
+ORD10014,2025-11-03 00:00:00,CUST1165,Anitha S,Female,28,Pune,Maharashtra,West,Keyboard,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10306,2025-10-07 00:00:00,CUST1175,Anitha S,Female,52,Pune,Telangana,South, Router ,Networking,1,823.96,823.96,149.35,Small Business
+ORD10697,2025-03-10 00:00:00,CUST1035,Anitha S,Male,31,Pune,Telangana,South,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10176,2025-05-04 00:00:00,CUST1057,Anitha S,Female,28,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10017,2025-01-20 00:00:00,CUST1038,Anitha S,Female,28,Pune,Tamil Nadu,South,Mouse,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10523,2025-11-08 00:00:00,CUST1005,Anitha S,Male,35,Pune,Tamil Nadu,South,Tablet,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10430,2025-07-07 00:00:00,CUST1023,Anitha S,Male,45,Pune,Tamil Nadu,South,Headset,Accessories,6,823.96,823.96,149.35,Small Business
+ORD10215,2025-10-15 00:00:00,CUST1074,Anitha S,Female,60,Pune,Maharashtra,West,Tablet,Electronics,5,823.96,823.96,149.35,Consumer
+ORD10340,2025-02-11 00:00:00,CUST1152,Anitha S,Female,40,Pune,Telangana,South,Printer,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10030,2025-09-14 00:00:00,CUST1023,Anitha S,Male,40,Pune,West Bengal,East,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10253,2025-08-05 00:00:00,CUST1208,Anitha S,Male,31,Pune,Telangana,South,USB Drive,Storage,3,823.96,823.96,149.35,Small Business
+ORD10672,2025-03-24 00:00:00,CUST1158,Anitha S,Male,52,Pune,Karnataka,South,Laptop,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10095,2025-07-27 00:00:00,CUST1185,Anitha S,Female,35,Pune,Telangana,South,Mouse,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10521,2025-12-26 00:00:00,CUST1203,Anitha S,Male,31,Pune,Maharashtra,West,Laptop,Electronics,6,823.96,823.96,149.35,Consumer
+ORD10076,2025-07-25 00:00:00,CUST1047,Anitha S,Female,45,Pune,Karnataka,South,Printer,Office Equipment,4,823.96,823.96,149.35,Consumer
+ORD10307,2025-02-05 00:00:00,CUST1072,Anitha S,Female,52,Pune,Maharashtra,West,SSD,Storage,1,823.96,823.96,149.35,Small Business
+ORD10065,2025-06-27 00:00:00,CUST1039,Anitha S,Female,35,Pune,Telangana,South,USB Drive,Storage,5,823.96,823.96,149.35,Consumer
+ORD10452,2025-03-25 00:00:00,CUST1058,Anitha S,Male,22,Pune,Delhi,North,Headset,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10391,2025-06-06 00:00:00,CUST1009,Anitha S,Female,35,Pune,Tamil Nadu,South,SSD,Storage,3,823.96,823.96,149.35,Consumer
+ORD10417,2025-06-10 00:00:00,CUST1082,Anitha S,Female,22,Pune,Rajasthan,North,Headset,Accessories,6,823.96,823.96,149.35,Small Business
+ORD10527,2025-03-04 00:00:00,CUST1192,Anitha S,Male,45,Pune,Maharashtra,West,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10350,2025-10-05 00:00:00,CUST1042,Anitha S,Male,60,Pune,Maharashtra,West,Mobile Phone,Electronics,6,823.96,823.96,149.35,Small Business
+ORD10371,2025-06-23 00:00:00,CUST1033,Anitha S,Female,18,Pune,Tamil Nadu,South,Monitor,Electronics,-1,823.96,823.96,149.35,Consumer
+ORD10218,2025-06-07 00:00:00,CUST1148,Anitha S,Female,60,Pune,Telangana,South,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10055,2025-06-25 00:00:00,CUST1217,Anitha S,Male,35,Pune,Maharashtra,West,Printer,Office Equipment,3,823.96,823.96,149.35,Corporate
+ORD10050,2025-08-08 00:00:00,CUST1019,Anitha S,Female,40,Pune,West Bengal,East,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10553,2025-09-03 00:00:00,CUST1109,Anitha S,Female,45,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10439,2025-01-31 00:00:00,CUST1174,Anitha S,Female,25,Pune,West Bengal,East,Keyboard,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10061,2025-01-28 00:00:00,CUST1188,Anitha S,Male,35,Pune,Telangana,South,Router,Networking,2,823.96,823.96,149.35,Consumer
+ORD10338,2025-06-27 00:00:00,CUST1043,Anitha S,Female,52,Pune,Rajasthan,North,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10532,2025-02-14 00:00:00,CUST1047,Anitha S,Male,45,Pune,Delhi,North,Router,Networking,5,823.96,823.96,149.35,Small Business
+ORD10626,2025-05-01 00:00:00,CUST1138,Anitha S,Female,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10291,2025-04-26 00:00:00,CUST1081,Anitha S,Female,31,Pune,Tamil Nadu,South,Keyboard,Accessories,6,823.96,823.96,149.35,Consumer
+ORD10473,2025-11-09 00:00:00,CUST1154,Anitha S,Male,25,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10548,2025-11-15 00:00:00,CUST1169,Anitha S,Male,31,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10319,2025-08-09 00:00:00,CUST1080,Anitha S,Female,60,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10165,2025-09-15 00:00:00,CUST1063,Anitha S,Female,40,Pune,Karnataka,South,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10416,2025-04-18 00:00:00,CUST1102,Anitha S,Male,18,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10485,2025-01-10 00:00:00,CUST1202,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,6,823.96,823.96,149.35,Consumer
+ORD10080,2025-06-22 00:00:00,CUST1139,Anitha S,Female,35,Pune,Tamil Nadu,South,Tablet,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10444,2025-05-30 00:00:00,CUST1213,Anitha S,Female,45,Pune,Telangana,South,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10267,2025-06-05 00:00:00,CUST1248,Anitha S,Male,28,Pune,Tamil Nadu,South,Webcam,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10187,2025-01-10 00:00:00,CUST1139,Anitha S,Female,25,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10436,2025-08-09 00:00:00,CUST1161,Anitha S,Male,35,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10308,2025-02-22 00:00:00,CUST1080,Anitha S,Male,45,Pune,Tamil Nadu,South,Tablet,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10578,2025-09-17 00:00:00,CUST1198,Anitha S,Female,28,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10169,2025-12-20 00:00:00,CUST1095,Anitha S,Male,18,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10138,2025-05-22 00:00:00,CUST1106,Anitha S,Male,31,Pune,Karnataka,South,Router,Networking,6,823.96,823.96,149.35,Small Business
+ORD10587,2025-08-31 00:00:00,CUST1103,Anitha S,Male,18,Pune,Rajasthan,North,Tablet,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10475,2025-12-06 00:00:00,CUST1099,Anitha S,Female,28,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10461,2025-05-11 00:00:00,CUST1199,Anitha S,Male,31,Pune,Tamil Nadu,South,Monitor,Electronics,-1,823.96,823.96,149.35,Corporate
+ORD10242,2025-02-13 00:00:00,CUST1036,Anitha S,Male,40,Pune,Tamil Nadu,South,Webcam,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10329,2025-11-19 00:00:00,CUST1083,Anitha S,Male,18,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10628,2025-03-03 00:00:00,CUST1154,Anitha S,Female,31,Pune,Maharashtra,West,Headset,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10694,2025-10-22 00:00:00,CUST1197,Anitha S,Male,25,Pune,Karnataka,South,Mobile Phone,Electronics,6,823.96,823.96,149.35,Small Business
+ORD10404,2025-11-22 00:00:00,CUST1220,Anitha S,Female,60,Pune,Maharashtra,West,Mobile Phone,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10656,2025-03-13 00:00:00,CUST1150,Anitha S,Female,60,Pune,Maharashtra,West,Keyboard,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10664,2025-02-28 00:00:00,CUST1021,Anitha S,Male,28,Pune,Rajasthan,North,Monitor,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10332,2025-03-02 00:00:00,CUST1160,Anitha S,Female,40,Pune,Telangana,South,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10634,2025-10-18 00:00:00,CUST1072,Anitha S,Male,40,Pune,Delhi,North,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10100,2025-03-17 00:00:00,CUST1163,Anitha S,Male,45,Pune,Tamil Nadu,South,Keyboard,Accessories,4,823.96,823.96,149.35,Corporate
+ORD10268,2025-07-26 00:00:00,CUST1112,Anitha S,Female,22,Pune,Tamil Nadu,South,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10469,2025-10-29 00:00:00,CUST1159,Anitha S,Male,52,Pune,Tamil Nadu,South,Monitor,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10216,2025-03-27 00:00:00,CUST1208,Anitha S,Male,40,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10318,2025-07-06 00:00:00,CUST1160,Anitha S,Male,28,Pune,Delhi,North,Monitor,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10376,2025-06-26 00:00:00,CUST1019,Anitha S,Female,35,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10323,2025-10-14 00:00:00,CUST1069,Anitha S,Female,40,Pune,West Bengal,East,Headset,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10237,2025-04-21 00:00:00,CUST1052,Anitha S,Female,28,Pune,Telangana,South,Monitor,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10185,invalid_date,CUST1138,Anitha S,Female,52,Pune,Rajasthan,North,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10688,2025-12-14 00:00:00,CUST1020,Anitha S,Female,45,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Consumer
+ORD10638,2025-10-20 00:00:00,CUST1189,Anitha S,Male,45,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10385,2025-01-20 00:00:00,CUST1017,Anitha S,Male,52,Pune,Maharashtra,West,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10048,2025-02-19 00:00:00,CUST1212,Anitha S,Male,45,Pune,Delhi,North,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10543,2025-04-16 00:00:00,CUST1017,Anitha S,Male,31,Pune,Karnataka,South,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10148,2025-07-21 00:00:00,CUST1121,Anitha S,Female,25,Pune,Karnataka,South,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10517,2025-04-18 00:00:00,CUST1139,Anitha S,Female,52,Pune,West Bengal,East,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10590,2025-03-24 00:00:00,CUST1052,Anitha S,Male,28,Pune,Maharashtra,West,Printer,Office Equipment,3,823.96,823.96,149.35,Corporate
+ORD10209,2025-06-05 00:00:00,CUST1216,Anitha S,Male,40,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10596,2025-07-23 00:00:00,CUST1174,Anitha S,Female,45,Pune,Telangana,South,Mouse,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10265,2025-07-11 00:00:00,CUST1011,Anitha S,Female,40,Pune,Karnataka,South,Headset,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10567,2025-02-13 00:00:00,CUST1203,Anitha S,Male,52,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10424,2025-11-24 00:00:00,CUST1196,Anitha S,Female,18,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10423,2025-03-20 00:00:00,CUST1144,Anitha S,Female,31,Pune,West Bengal,East,Laptop,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10356,2025-07-23 00:00:00,CUST1110,Anitha S,Male,35,Pune,Delhi,North,Laptop,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10166,2025-08-25 00:00:00,CUST1143,Anitha S,Female,25,Pune,West Bengal,East,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10086,2025-04-12 00:00:00,CUST1027,Anitha S,Female,40,Pune,West Bengal,East,Tablet,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10646,2025-02-24 00:00:00,CUST1110,Anitha S,Female,31,Pune,Maharashtra,West,Mobile Phone,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10327,2025-09-28 00:00:00,CUST1011,Anitha S,Female,31,Pune,West Bengal,East,Printer,Office Equipment,4,823.96,823.96,149.35,Corporate
+ORD10625,2025-07-27 00:00:00,CUST1187,Anitha S,Female,22,Pune,Karnataka,South,Printer,Office Equipment,6,823.96,823.96,149.35,Small Business
+ORD10570,2025-01-01 00:00:00,CUST1205,Anitha S,Male,45,Pune,Tamil Nadu,South,Router,Networking,2,823.96,823.96,149.35,Consumer
+ORD10386,2025-07-26 00:00:00,CUST1064,Anitha S,Male,35,Pune,Rajasthan,North,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10542,2025-09-16 00:00:00,CUST1248,Anitha S,Male,18,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10487,2025-02-19 00:00:00,CUST1049,Anitha S,Male,31,Pune,West Bengal,East,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10189,2025-02-26 00:00:00,CUST1150,Anitha S,Female,18,Pune,Tamil Nadu,South,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10405,2025-10-12 00:00:00,CUST1160,Anitha S,Female,28,Pune,Maharashtra,West,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10304,2025-09-06 00:00:00,CUST1206,Anitha S,Female,28,Pune,Maharashtra,West,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10443,2025-02-10 00:00:00,CUST1096,Anitha S,Male,22,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10223,2025-01-10 00:00:00,CUST1247,Anitha S,Male,25,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10264,2025-08-05 00:00:00,CUST1072,Anitha S,Male,18,Pune,Telangana,South,Monitor,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10493,2025-11-30 00:00:00,CUST1191,Anitha S,Female,45,Pune,Karnataka,South,Tablet,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10227,2025-08-24 00:00:00,CUST1217,Anitha S,Female,45,Pune,Telangana,South,Router,Networking,5,823.96,823.96,149.35,Small Business
+ORD10595,2025-12-22 00:00:00,CUST1217,Anitha S,Female,52,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10637,2025-02-18 00:00:00,CUST1146,Anitha S,Male,18,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10077,2025-05-23 00:00:00,CUST1247,Anitha S,Female,52,Pune,Rajasthan,North,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10085,2025-04-28 00:00:00,CUST1098,Anitha S,Female,31,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10538,2025-03-31 00:00:00,CUST1090,Anitha S,Male,28,Pune,Delhi,North,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10010,2025-06-24 00:00:00,CUST1183,Anitha S,Female,28,Pune,Maharashtra,West,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10480,2025-06-11 00:00:00,CUST1131,Anitha S,Male,18,Pune,Maharashtra,West,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10098,2025-09-16 00:00:00,CUST1096,Anitha S,Female,35,Pune,Rajasthan,North,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10247,2025-08-19 00:00:00,CUST1147,Anitha S,Male,31,Pune,Karnataka,South,Webcam,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10200,2025-10-20 00:00:00,CUST1046,Anitha S,Female,28,Pune,Telangana,South,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10016,2025-02-28 00:00:00,CUST1167,Anitha S,Male,22,Pune,Karnataka,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10650,2025-09-29 00:00:00,CUST1071,Anitha S,Female,52,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10394,2025-09-18 00:00:00,CUST1019,Anitha S,Male,25,Pune,Tamil Nadu,South,Keyboard,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10671,2025-11-19 00:00:00,CUST1029,Anitha S,Male,18,Pune,Tamil Nadu,South,Keyboard,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10201,2025-07-24 00:00:00,CUST1116,Anitha S,Female,40,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10094,2025-03-22 00:00:00,CUST1141,Anitha S,Female,31,Pune,Telangana,South,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10674,2025-12-19 00:00:00,CUST1086,Anitha S,Male,52,Pune,Rajasthan,North,Tablet,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10159,2025-01-30 00:00:00,CUST1212,Anitha S,Male,22,Pune,Tamil Nadu,South,Mouse,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10309,2025-01-02 00:00:00,CUST1113,Anitha S,Male,40,Pune,Tamil Nadu,South,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10630,2025-11-29 00:00:00,CUST1115,Anitha S,Male,22,Pune,Delhi,North, Keyboard ,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10546,2025-04-10 00:00:00,CUST1140,Anitha S,Male,60,Pune,Maharashtra,West,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10380,2025-08-24 00:00:00,CUST1077,Anitha S,Female,45,Pune,Delhi,North,Keyboard,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10556,2025-08-11 00:00:00,CUST1018,Anitha S,Female,52,Pune,West Bengal,East,Keyboard,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10435,2025-04-23 00:00:00,CUST1064,Anitha S,Male,52,Pune,Maharashtra,West,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10151,2025-09-25 00:00:00,CUST1126,Anitha S,Male,52,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10689,2025-11-03 00:00:00,CUST1175,Anitha S,Female,25,Pune,Maharashtra,West,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10395,2025-08-23 00:00:00,CUST1118,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10622,2025-10-27 00:00:00,CUST1032,Anitha S,Male,45,Pune,Delhi,North,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10193,2025-12-09 00:00:00,CUST1134,Anitha S,Male,45,Pune,Karnataka,South,Laptop,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10512,2025-01-26 00:00:00,CUST1015,Anitha S,Male,18,Pune,Rajasthan,North,Mobile Phone,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10679,2025-02-26 00:00:00,CUST1103,Anitha S,Female,28,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10360,2025-10-17 00:00:00,CUST1204,Anitha S,Female,18,Pune,Telangana,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10208,2025-07-31 00:00:00,CUST1128,Anitha S,Male,35,Pune,Maharashtra,West,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10241,2025-01-05 00:00:00,CUST1055,Anitha S,Male,40,Pune,Maharashtra,West,Laptop,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10508,2025-12-22 00:00:00,CUST1043,Anitha S,Male,25,Pune,Maharashtra,West,Mouse,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10097,2025-04-26 00:00:00,CUST1151,Anitha S,Female,22,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10482,2025-12-15 00:00:00,CUST1114,Anitha S,Male,28,Pune,Maharashtra,West,SSD,Storage,2,823.96,823.96,149.35,Corporate
+ORD10297,2025-10-22 00:00:00,CUST1153,Anitha S,Female,22,Pune,West Bengal,East,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10029,2025-09-11 00:00:00,CUST1144,Anitha S,Female,31,Pune,Tamil Nadu,South, Monitor ,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10598,2025-08-05 00:00:00,CUST1131,Anitha S,Female,40,Pune,Tamil Nadu,South,Monitor,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10627,2025-07-19 00:00:00,CUST1219,Anitha S,Male,25,Pune,Karnataka,South,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10539,2025-09-06 00:00:00,CUST1195,Anitha S,Female,35,Pune,Tamil Nadu,South,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10450,2025-05-16 00:00:00,CUST1165,Anitha S,Female,45,Pune,Karnataka,South,Headset,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10511,2025-07-24 00:00:00,CUST1225,Anitha S,Female,60,Pune,Maharashtra,West,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10676,2025-06-12 00:00:00,CUST1045,Anitha S,Female,18,Pune,Tamil Nadu,South,Monitor,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10607,2025-12-31 00:00:00,CUST1144,Anitha S,Male,52,Pune,Telangana,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10047,2025-02-25 00:00:00,CUST1222,Anitha S,Female,25,Pune,Tamil Nadu,South,Mobile Phone,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10292,2025-11-05 00:00:00,CUST1024,Anitha S,Male,25,Pune,Maharashtra,West,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10403,2025-07-22 00:00:00,CUST1001,Anitha S,Male,31,Pune,Tamil Nadu,South,Mouse,Accessories,6,823.96,823.96,149.35,Consumer
+ORD10414,2025-08-19 00:00:00,CUST1050,Anitha S,Female,45,Pune,Rajasthan,North,Tablet,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10262,2025-10-09 00:00:00,CUST1066,Anitha S,Male,35,Pune,Karnataka,South,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10530,2025-10-09 00:00:00,CUST1135,Anitha S,Female,31,Pune,West Bengal,East,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10302,2025-02-17 00:00:00,CUST1236,Anitha S,Female,25,Pune,Maharashtra,West,Router,Networking,2,823.96,823.96,149.35,Small Business
+ORD10018,2025-04-03 00:00:00,CUST1039,Anitha S,Female,22,Pune,Karnataka,South,Printer,Office Equipment,2,823.96,823.96,149.35,Consumer
+ORD10128,2025-01-06 00:00:00,CUST1204,Anitha S,Male,60,Pune,Rajasthan,North,Keyboard,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10064,2025-03-25 00:00:00,CUST1173,Anitha S,Female,22,Pune,Rajasthan,North,USB Drive,Storage,5,823.96,823.96,149.35,Corporate
+ORD10579,2025-09-18 00:00:00,CUST1014,Anitha S,Female,40,Pune,Rajasthan,North,Printer,Office Equipment,2,823.96,823.96,149.35,Corporate
+ORD10572,2025-11-28 00:00:00,CUST1118,Anitha S,Female,45,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10393,2025-12-30 00:00:00,CUST1089,Anitha S,Female,31,Pune,West Bengal,East,Laptop,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10198,2025-11-03 00:00:00,CUST1163,Anitha S,Male,40,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10467,2025-12-18 00:00:00,CUST1047,Anitha S,Female,35,Pune,Rajasthan,North,Keyboard,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10495,2025-06-11 00:00:00,CUST1110,Anitha S,Male,18,Pune,Tamil Nadu,South,Router,Networking,3,823.96,823.96,149.35,Consumer
+ORD10243,2025-01-25 00:00:00,CUST1150,Anitha S,Female,25,Pune,Tamil Nadu,South,USB Drive,Storage,2,823.96,823.96,149.35,Small Business
+ORD10367,2025-10-31 00:00:00,CUST1050,Anitha S,Male,22,Pune,Tamil Nadu,South,USB Drive,Storage,1,823.96,823.96,149.35,Small Business
+ORD10433,2025-11-11 00:00:00,CUST1250,Anitha S,Female,60,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10197,2025-07-24 00:00:00,CUST1065,Anitha S,Male,52,Pune,Rajasthan,North,Headset,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10139,2025-11-14 00:00:00,CUST1076,Anitha S,Female,31,Pune,Maharashtra,West,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10153,2025-09-03 00:00:00,CUST1033,Anitha S,Male,35,Pune,Tamil Nadu,South,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10007,2025-12-16 00:00:00,CUST1231,Anitha S,Male,35,Pune,Telangana,South,USB Drive,Storage,3,823.96,823.96,149.35,Small Business
+ORD10600,2025-07-19 00:00:00,CUST1147,Anitha S,Female,35,Pune,Karnataka,South,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10295,2025-04-02 00:00:00,CUST1082,Anitha S,Male,40,Pune,Tamil Nadu,South,Tablet,Electronics,5,823.96,823.96,149.35,Consumer
+ORD10582,2025-10-01 00:00:00,CUST1203,Anitha S,Male,22,Pune,Maharashtra,West,Laptop,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10608,2025-01-25 00:00:00,CUST1115,Anitha S,Male,40,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10682,2025-03-02 00:00:00,CUST1030,Anitha S,Female,18,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10372,2025-12-04 00:00:00,CUST1096,Anitha S,Female,52,Pune,Tamil Nadu,South,USB Drive,Storage,4,823.96,823.96,149.35,Consumer
+ORD10479,2025-09-14 00:00:00,CUST1054,Anitha S,Male,35,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10107,2025-07-23 00:00:00,CUST1079,Anitha S,Male,45,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10654,2025-09-30 00:00:00,CUST1232,Anitha S,Male,35,Pune,Tamil Nadu,South,Headset,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10113,2025-01-22 00:00:00,CUST1144,Anitha S,Female,45,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10586,2025-07-16 00:00:00,CUST1230,Anitha S,Male,60,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10353,2025-06-25 00:00:00,CUST1032,Anitha S,Female,60,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10381,2025-11-08 00:00:00,CUST1010,Anitha S,Male,60,Pune,Maharashtra,West,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10339,2025-04-13 00:00:00,CUST1077,Anitha S,Male,25,Pune,Rajasthan,North,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10584,2025-11-03 00:00:00,CUST1028,Anitha S,Female,22,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10205,2025-08-03 00:00:00,CUST1082,Anitha S,Female,45,Pune,Tamil Nadu,South,SSD,Storage,5,823.96,823.96,149.35,Small Business
+ORD10238,2025-01-01 00:00:00,CUST1157,Anitha S,Female,60,Pune,Delhi,North,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10373,2025-09-20 00:00:00,CUST1231,Anitha S,Male,35,Pune,Tamil Nadu,South,Laptop,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10491,2025-02-04 00:00:00,CUST1140,Anitha S,Male,45,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10448,2025-06-20 00:00:00,CUST1155,Anitha S,Male,52,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10644,2025-07-07 00:00:00,CUST1199,Anitha S,Female,22,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10379,2025-08-30 00:00:00,CUST1189,Anitha S,Male,35,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10699,2025-02-11 00:00:00,CUST1045,Anitha S,Female,35,Pune,Maharashtra,West,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10357,2025-09-22 00:00:00,CUST1147,Anitha S,Female,60,Pune,Delhi,North,USB Drive,Storage,6,823.96,823.96,149.35,Corporate
+ORD10175,2025-07-16 00:00:00,CUST1178,Anitha S,Female,28,Pune,Tamil Nadu,South,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10383,2025-09-16 00:00:00,CUST1231,Anitha S,Female,35,Pune,Telangana,South,Printer,Office Equipment,4,823.96,823.96,149.35,Small Business
+ORD10552,2025-12-11 00:00:00,CUST1108,Anitha S,Male,40,Pune,Telangana,South,Webcam,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10271,2025-03-02 00:00:00,CUST1194,Anitha S,Female,18,Pune,Tamil Nadu,South,Mouse,Accessories,6,823.96,823.96,149.35,Consumer
+ORD10660,2025-06-13 00:00:00,CUST1196,Anitha S,Male,18,Pune,Karnataka,South,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10349,2025-03-15 00:00:00,CUST1051,Anitha S,Male,52,Pune,West Bengal,East,Mouse,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10610,2025-12-16 00:00:00,CUST1105,Anitha S,Male,52,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10684,2025-02-26 00:00:00,CUST1232,Anitha S,Female,35,Pune,West Bengal,East,SSD,Storage,3,823.96,823.96,149.35,Small Business
+ORD10259,2025-04-27 00:00:00,CUST1001,Anitha S,Female,35,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10522,2025-10-27 00:00:00,CUST1135,Anitha S,Female,25,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10462,2025-07-31 00:00:00,CUST1034,Anitha S,Male,28,Pune,Delhi,North,Keyboard,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10396,2025-01-12 00:00:00,CUST1188,Anitha S,Female,40,Pune,Tamil Nadu,South,Router,Networking,5,823.96,823.96,149.35,Consumer
+ORD10150,2025-10-22 00:00:00,CUST1219,Anitha S,Male,31,Pune,Karnataka,South,Router,Networking,2,823.96,823.96,149.35,Small Business
+ORD10191,2025-03-13 00:00:00,CUST1179,Anitha S,Male,18,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10013,2025-10-09 00:00:00,CUST1100,Anitha S,Female,45,Pune,Karnataka,South,Monitor,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10464,2025-06-05 00:00:00,CUST1009,Anitha S,Female,25,Pune,Telangana,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10244,2025-03-07 00:00:00,CUST1183,Anitha S,Female,45,Pune,Tamil Nadu,South,Mouse,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10458,2025-02-14 00:00:00,CUST1053,Anitha S,Male,22,Pune,West Bengal,East,Monitor,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10559,2025-07-30 00:00:00,CUST1104,Anitha S,Male,31,Pune,Tamil Nadu,South,Tablet,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10248,2025-12-25 00:00:00,CUST1144,Anitha S,Female,22,Pune,West Bengal,East,Printer,Office Equipment,4,823.96,823.96,149.35,Consumer
+ORD10299,2025-07-12 00:00:00,CUST1044,Anitha S,Female,18,Pune,Telangana,South,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10062,2025-12-03 00:00:00,CUST1171,Anitha S,Male,31,Pune,Delhi,North,Monitor,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10563,2025-11-16 00:00:00,CUST1039,Anitha S,Male,31,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10220,2025-03-22 00:00:00,CUST1082,Anitha S,Female,60,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10645,2025-10-22 00:00:00,CUST1116,Anitha S,Female,52,Pune,Tamil Nadu,South,Mobile Phone,Electronics,6,823.96,823.96,149.35,Corporate
+ORD10657,2025-08-03 00:00:00,CUST1020,Anitha S,Female,45,Pune,Tamil Nadu,South,Printer,Office Equipment,4,823.96,823.96,149.35,Corporate
+ORD10525,2025-11-03 00:00:00,CUST1079,Anitha S,Female,35,Pune,Telangana,South,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10119,2025-08-26 00:00:00,CUST1048,Anitha S,Male,52,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10144,2025-12-07 00:00:00,CUST1126,Anitha S,Female,60,Pune,Telangana,South,Router,Networking,3,823.96,823.96,149.35,Small Business
+ORD10025,2025-03-23 00:00:00,CUST1123,Anitha S,Male,45,Pune,Maharashtra,West,Laptop,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10102,2025-02-24 00:00:00,CUST1191,Anitha S,Male,60,Pune,Maharashtra,West,Router,Networking,3,823.96,823.96,149.35,Consumer
+ORD10310,invalid_date,CUST1249,Anitha S,Male,60,Pune,Tamil Nadu,South,Tablet,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10296,2025-06-22 00:00:00,CUST1026,Anitha S,Female,60,Pune,Telangana,South,Router,Networking,5,823.96,823.96,149.35,Small Business
+ORD10617,2025-09-25 00:00:00,CUST1030,Anitha S,Male,40,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10535,2025-05-11 00:00:00,CUST1135,Anitha S,Female,35,Pune,West Bengal,East,USB Drive,Storage,3,823.96,823.96,149.35,Small Business
+ORD10011,2025-09-17 00:00:00,CUST1100,Anitha S,Male,18,Pune,Maharashtra,West,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10105,2025-10-24 00:00:00,CUST1031,Anitha S,Male,31,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10275,2025-03-03 00:00:00,CUST1236,Anitha S,Male,45,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10311,2025-09-07 00:00:00,CUST1159,Anitha S,Female,60,Pune,Tamil Nadu,South,Tablet,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10534,2025-01-03 00:00:00,CUST1096,Anitha S,Female,40,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10427,2025-09-29 00:00:00,CUST1114,Anitha S,Female,52,Pune,Rajasthan,North,Printer,Office Equipment,1,823.96,823.96,149.35,Small Business
+ORD10261,2025-09-17 00:00:00,CUST1201,Anitha S,Male,60,Pune,Telangana,South,Keyboard,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10078,2025-10-10 00:00:00,CUST1057,Anitha S,Female,35,Pune,Tamil Nadu,South,Router,Networking,4,823.96,823.96,149.35,Consumer
+ORD10219,2025-08-11 00:00:00,CUST1084,Anitha S,Female,60,Pune,West Bengal,East,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10561,2025-01-31 00:00:00,CUST1136,Anitha S,Male,45,Pune,Rajasthan,North,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10365,2025-04-22 00:00:00,CUST1019,Anitha S,Female,25,Pune,Karnataka,South,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10115,2025-05-12 00:00:00,CUST1209,Anitha S,Male,52,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Small Business
+ORD10249,2025-09-03 00:00:00,CUST1152,Anitha S,Male,45,Pune,Maharashtra,West, Tablet ,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10389,2025-03-10 00:00:00,CUST1189,Anitha S,Male,40,Pune,Tamil Nadu,South,USB Drive,Storage,2,823.96,823.96,149.35,Small Business
+ORD10621,2025-11-12 00:00:00,CUST1064,Anitha S,Female,60,Pune,Maharashtra,West,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10609,2025-01-28 00:00:00,CUST1119,Anitha S,Male,18,Pune,Rajasthan,North,USB Drive,Storage,1,823.96,823.96,149.35,Corporate
+ORD10186,2025-08-10 00:00:00,CUST1131,Anitha S,Male,31,Pune,West Bengal,East,Webcam,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10260,2025-11-02 00:00:00,CUST1165,Anitha S,Female,40,Pune,Maharashtra,West,Monitor,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10677,2025-10-27 00:00:00,CUST1208,Anitha S,Female,60,Pune,West Bengal,East,SSD,Storage,2,823.96,823.96,149.35,Corporate
+ORD10303,2025-06-16 00:00:00,CUST1005,Anitha S,Male,40,Pune,Tamil Nadu,South, Laptop ,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10641,2025-07-18 00:00:00,CUST1079,Anitha S,Female,52,Pune,Karnataka,South,Tablet,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10342,2025-03-02 00:00:00,CUST1065,Anitha S,Female,31,Pune,Rajasthan,North,USB Drive,Storage,3,823.96,823.96,149.35,Consumer
+ORD10690,2025-06-13 00:00:00,CUST1041,Anitha S,Male,28,Pune,Telangana,South,Headset,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10661,2025-07-13 00:00:00,CUST1190,Anitha S,Male,31,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10509,2025-08-20 00:00:00,CUST1027,Anitha S,Male,31,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10255,2025-02-24 00:00:00,CUST1153,Anitha S,Male,60,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10683,2025-12-14 00:00:00,CUST1050,Anitha S,Female,60,Pune,Rajasthan,North,Printer,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10005,2025-05-30 00:00:00,CUST1218,Anitha S,Male,28,Pune,Tamil Nadu,South,Monitor,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10134,2025-05-29 00:00:00,CUST1065,Anitha S,Female,52,Pune,Telangana,South,SSD,Storage,2,823.96,823.96,149.35,Consumer
+ORD10235,2025-02-11 00:00:00,CUST1010,Anitha S,Male,31,Pune,Tamil Nadu,South,USB Drive,Storage,2,823.96,823.96,149.35,Small Business
+ORD10419,2025-12-24 00:00:00,CUST1002,Anitha S,Female,40,Pune,Maharashtra,West,Headset,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10364,2025-06-10 00:00:00,CUST1204,Anitha S,Female,35,Pune,Maharashtra,West,Printer,Office Equipment,3,823.96,823.96,149.35,Corporate
+ORD10330,2025-09-30 00:00:00,CUST1126,Anitha S,Male,45,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10254,2025-06-20 00:00:00,CUST1026,Anitha S,Female,28,Pune,Tamil Nadu,South,Headset,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10426,2025-03-22 00:00:00,CUST1006,Anitha S,Female,25,Pune,Maharashtra,West,Mobile Phone,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10489,2025-10-08 00:00:00,CUST1177,Anitha S,Female,40,Pune,Maharashtra,West,Mobile Phone,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10504,2025-02-15 00:00:00,CUST1103,Anitha S,Female,60,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10004,2025-07-03 00:00:00,CUST1026,Anitha S,Male,22,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Small Business
+ORD10075,2025-03-01 00:00:00,CUST1085,Anitha S,Female,31,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10382,2025-08-13 00:00:00,CUST1008,Anitha S,Male,31,Pune,Tamil Nadu,South,Mouse,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10122,2025-03-24 00:00:00,CUST1154,Anitha S,Female,35,Pune,Tamil Nadu,South,Headset,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10164,2025-02-25 00:00:00,CUST1224,Anitha S,Female,45,Pune,West Bengal,East,USB Drive,Storage,5,823.96,823.96,149.35,Consumer
+ORD10471,2025-04-16 00:00:00,CUST1099,Anitha S,Female,52,Pune,Karnataka,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10240,2025-02-28 00:00:00,CUST1213,Anitha S,Female,22,Pune,Karnataka,South,Printer,Office Equipment,3,823.96,823.96,149.35,Corporate
+ORD10605,2025-10-17 00:00:00,CUST1033,Anitha S,Female,28,Pune,Delhi,North,Headset,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10536,2025-12-23 00:00:00,CUST1077,Anitha S,Female,28,Pune,Tamil Nadu,South,Tablet,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10614,2025-02-12 00:00:00,CUST1238,Anitha S,Male,45,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10031,2025-03-26 00:00:00,CUST1191,Anitha S,Male,31,Pune,Tamil Nadu,South,Webcam,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10434,2025-06-04 00:00:00,CUST1162,Anitha S,Male,31,Pune,Tamil Nadu,South,SSD,Storage,1,823.96,823.96,149.35,Corporate
+ORD10540,2025-05-10 00:00:00,CUST1013,Anitha S,Female,18,Pune,Maharashtra,West,Webcam,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10558,2025-10-08 00:00:00,CUST1115,Anitha S,Male,35,Pune,Telangana,South,Keyboard,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10333,2025-02-12 00:00:00,CUST1245,Anitha S,Male,25,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10217,2025-06-17 00:00:00,CUST1146,Anitha S,Male,18,Pune,West Bengal,East,Mobile Phone,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10550,2025-07-26 00:00:00,CUST1233,Anitha S,Female,35,Pune,Tamil Nadu,South,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10484,2025-09-06 00:00:00,CUST1083,Anitha S,Male,22,Pune,Delhi,North,Monitor,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10618,2025-02-14 00:00:00,CUST1031,Anitha S,Male,35,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10145,2025-11-02 00:00:00,CUST1227,Anitha S,Male,18,Pune,Telangana,South,Router,Networking,2,823.96,823.96,149.35,Small Business
+ORD10693,invalid_date,CUST1204,Anitha S,Male,31,Pune,Delhi,North,Router,Networking,2,823.96,823.96,149.35,Small Business
+ORD10314,2025-11-27 00:00:00,CUST1247,Anitha S,Female,60,Pune,Telangana,South,Laptop,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10172,2025-01-12 00:00:00,CUST1024,Anitha S,Female,31,Pune,Tamil Nadu,South,Headset,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10301,2025-04-22 00:00:00,CUST1176,Anitha S,Male,22,Pune,Rajasthan,North,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10053,2025-01-27 00:00:00,CUST1081,Anitha S,Female,18,Pune,Telangana,South,Headset,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10125,2025-10-12 00:00:00,CUST1181,Anitha S,Male,52,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10545,2025-03-20 00:00:00,CUST1126,Anitha S,Female,28,Pune,West Bengal,East,USB Drive,Storage,1,823.96,823.96,149.35,Corporate
+ORD10079,2025-05-02 00:00:00,CUST1161,Anitha S,Male,45,Pune,Maharashtra,West,Mobile Phone,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10278,2025-06-10 00:00:00,CUST1186,Anitha S,Female,18,Pune,Rajasthan,North,Webcam,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10019,2025-01-07 00:00:00,CUST1101,Anitha S,Male,40,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Corporate
+ORD10207,2025-04-09 00:00:00,CUST1018,Anitha S,Male,25,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10488,2025-07-21 00:00:00,CUST1169,Anitha S,Male,40,Pune,Maharashtra,West,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10557,2025-06-16 00:00:00,CUST1063,Anitha S,Female,60,Pune,Tamil Nadu,South,Router,Networking,2,823.96,823.96,149.35,Small Business
+ORD10036,2025-06-13 00:00:00,CUST1070,Anitha S,Male,35,Pune,Tamil Nadu,South,Mobile Phone,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10378,2025-11-25 00:00:00,CUST1083,Anitha S,Male,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10463,2025-06-27 00:00:00,CUST1095,Anitha S,Male,60,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10146,2025-05-05 00:00:00,CUST1165,Anitha S,Male,52,Pune,Telangana,South, USB Drive ,Storage,2,823.96,823.96,149.35,Small Business
+ORD10592,2025-08-31 00:00:00,CUST1132,Anitha S,Male,18,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10678,2025-06-28 00:00:00,CUST1162,Anitha S,Female,35,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10273,2025-10-02 00:00:00,CUST1163,Anitha S,Female,45,Pune,Tamil Nadu,South,Headset,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10101,2025-02-14 00:00:00,CUST1247,Anitha S,Male,22,Pune,Telangana,South,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10140,2025-06-03 00:00:00,CUST1076,Anitha S,Female,52,Pune,West Bengal,East,USB Drive,Storage,5,823.96,823.96,149.35,Consumer
+ORD10212,2025-05-11 00:00:00,CUST1136,Anitha S,Male,22,Pune,Delhi,North,Mouse,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10059,2025-06-25 00:00:00,CUST1161,Anitha S,Female,40,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Corporate
+ORD10006,2025-11-27 00:00:00,CUST1100,Anitha S,Female,18,Pune,Telangana,South,Tablet,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10402,2025-07-15 00:00:00,CUST1090,Anitha S,Female,18,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10431,2025-03-13 00:00:00,CUST1137,Anitha S,Female,60,Pune,West Bengal,East,Mobile Phone,Electronics,-1,823.96,823.96,149.35,Corporate
+ORD10613,2025-05-12 00:00:00,CUST1067,Anitha S,Female,28,Pune,Maharashtra,West,Headset,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10087,2025-05-20 00:00:00,CUST1092,Anitha S,Male,31,Pune,Maharashtra,West,Mouse,Accessories,4,823.96,823.96,149.35,Corporate
+ORD10183,2025-03-09 00:00:00,CUST1182,Anitha S,Female,28,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10056,2025-01-07 00:00:00,CUST1147,Anitha S,Male,35,Pune,Maharashtra,West,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10673,2025-08-31 00:00:00,CUST1247,Anitha S,Male,45,Pune,Maharashtra,West,Webcam,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10038,2025-09-05 00:00:00,CUST1102,Anitha S,Female,35,Pune,Karnataka,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10093,2025-03-19 00:00:00,CUST1231,Anitha S,Male,45,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10516,2025-12-13 00:00:00,CUST1069,Anitha S,Male,28,Pune,Maharashtra,West,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10422,2025-03-15 00:00:00,CUST1106,Anitha S,Male,52,Pune,Rajasthan,North,Headset,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10368,2025-06-26 00:00:00,CUST1213,Anitha S,Male,60,Pune,Delhi,North,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10024,2025-06-07 00:00:00,CUST1202,Anitha S,Female,22,Pune,Delhi,North,Router,Networking,3,823.96,823.96,149.35,Corporate
+ORD10639,2025-01-01 00:00:00,CUST1078,Anitha S,Female,18,Pune,Tamil Nadu,South,Keyboard,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10092,2025-06-21 00:00:00,CUST1209,Anitha S,Male,31,Pune,Telangana,South,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10245,2025-12-11 00:00:00,CUST1144,Anitha S,Female,60,Pune,Tamil Nadu,South,USB Drive,Storage,1,823.96,823.96,149.35,Corporate
+ORD10321,2025-11-01 00:00:00,CUST1183,Anitha S,Female,60,Pune,Tamil Nadu,South,Webcam,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10574,2025-12-26 00:00:00,CUST1027,Anitha S,Female,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10111,2025-02-16 00:00:00,CUST1144,Anitha S,Female,35,Pune,Maharashtra,West,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10194,2025-06-10 00:00:00,CUST1235,Anitha S,Male,22,Pune,Tamil Nadu,South, USB Drive ,Storage,1,823.96,823.96,149.35,Small Business
+ORD10224,2025-01-12 00:00:00,CUST1159,Anitha S,Male,22,Pune,Tamil Nadu,South,Printer,Office Equipment,5,823.96,823.96,149.35,Corporate
+ORD10312,2025-09-08 00:00:00,CUST1239,Anitha S,Female,52,Pune,Tamil Nadu,South,Tablet,Electronics,6,823.96,823.96,149.35,Consumer
+ORD10083,2025-10-11 00:00:00,CUST1167,Anitha S,Female,18,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Corporate
+ORD10459,2025-08-14 00:00:00,CUST1013,Anitha S,Female,25,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10492,2025-12-23 00:00:00,CUST1019,Anitha S,Male,60,Pune,Telangana,South,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10073,2025-05-05 00:00:00,CUST1228,Anitha S,Male,45,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10476,2025-02-25 00:00:00,CUST1141,Anitha S,Female,18,Pune,Tamil Nadu,South,Keyboard,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10042,2025-03-01 00:00:00,CUST1075,Anitha S,Female,35,Pune,Maharashtra,West,USB Drive,Storage,2,823.96,823.96,149.35,Corporate
+ORD10195,2025-07-07 00:00:00,CUST1199,Anitha S,Male,40,Pune,Karnataka,South,USB Drive,Storage,-1,823.96,823.96,149.35,Consumer
+ORD10366,2025-07-08 00:00:00,CUST1171,Anitha S,Male,18,Pune,West Bengal,East,Monitor,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10281,2025-04-18 00:00:00,CUST1234,Anitha S,Male,45,Pune,Delhi,North,Laptop,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10074,2025-06-12 00:00:00,CUST1120,Anitha S,Female,35,Pune,Delhi,North,Printer,Office Equipment,2,823.96,823.96,149.35,Small Business
+ORD10129,2025-03-08 00:00:00,CUST1151,Anitha S,Male,35,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10033,2025-01-21 00:00:00,CUST1111,Anitha S,Female,35,Pune,Tamil Nadu,South,Headset,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10335,2025-04-06 00:00:00,CUST1059,Anitha S,Male,18,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10008,2025-09-08 00:00:00,CUST1192,Anitha S,Male,40,Pune,Maharashtra,West,Printer,Office Equipment,2,823.96,823.96,149.35,Small Business
+ORD10420,2025-06-22 00:00:00,CUST1153,Anitha S,Female,25,Pune,Delhi,North,Headset,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10507,2025-02-05 00:00:00,CUST1119,Anitha S,Female,18,Pune,Delhi,North,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10562,2025-10-17 00:00:00,CUST1111,Anitha S,Male,25,Pune,West Bengal,East,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10691,2025-01-16 00:00:00,CUST1127,Anitha S,Female,40,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10180,2025-01-30 00:00:00,CUST1240,Anitha S,Male,35,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10588,2025-02-27 00:00:00,CUST1052,Anitha S,Male,25,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10687,2025-07-21 00:00:00,CUST1070,Anitha S,Male,40,Pune,Maharashtra,West,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10230,2025-02-27 00:00:00,CUST1233,Anitha S,Female,52,Pune,Maharashtra,West,Webcam,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10313,2025-09-03 00:00:00,CUST1189,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,6,823.96,823.96,149.35,Corporate
+ORD10222,2025-05-23 00:00:00,CUST1140,Anitha S,Female,60,Pune,Rajasthan,North,Router,Networking,3,823.96,823.96,149.35,Consumer
+ORD10054,2025-10-22 00:00:00,CUST1132,Anitha S,Female,60,Pune,Telangana,South,USB Drive,Storage,5,823.96,823.96,149.35,Small Business
+ORD10412,2025-03-04 00:00:00,CUST1108,Anitha S,Female,22,Pune,Maharashtra,West,Printer,Office Equipment,4,823.96,823.96,149.35,Consumer
+ORD10554,2025-04-17 00:00:00,CUST1065,Anitha S,Male,35,Pune,West Bengal,East,Printer,Office Equipment,4,823.96,823.96,149.35,Small Business
+ORD10451,2025-08-17 00:00:00,CUST1054,Anitha S,Male,25,Pune,West Bengal,East,Headset,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10399,2025-04-04 00:00:00,CUST1138,Anitha S,Female,22,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10177,2025-12-07 00:00:00,CUST1033,Anitha S,Female,28,Pune,Karnataka,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10206,2025-09-11 00:00:00,CUST1200,Anitha S,Male,35,Pune,West Bengal,East,USB Drive,Storage,1,823.96,823.96,149.35,Corporate
+ORD10320,2025-11-26 00:00:00,CUST1086,Anitha S,Female,35,Pune,Delhi,North,Mobile Phone,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10141,2025-10-22 00:00:00,CUST1074,Anitha S,Male,31,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10583,2025-06-19 00:00:00,CUST1092,Anitha S,Female,25,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10662,2025-05-07 00:00:00,CUST1248,Anitha S,Female,18,Pune,Tamil Nadu,South,USB Drive,Storage,5,823.96,823.96,149.35,Small Business
+ORD10280,2025-10-03 00:00:00,CUST1134,Anitha S,Male,45,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Small Business
+ORD10374,2025-11-18 00:00:00,CUST1225,Anitha S,Female,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10602,2025-12-15 00:00:00,CUST1017,Anitha S,Male,22,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10695,2025-09-26 00:00:00,CUST1133,Anitha S,Male,31,Pune,Telangana,South,Headset,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10611,2025-09-20 00:00:00,CUST1201,Anitha S,Male,25,Pune,Telangana,South,Mouse,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10293,2025-01-07 00:00:00,CUST1148,Anitha S,Female,25,Pune,Delhi,North,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10649,2025-08-09 00:00:00,CUST1052,Anitha S,Male,60,Pune,Tamil Nadu,South,Headset,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10173,2025-04-22 00:00:00,CUST1094,Anitha S,Male,25,Pune,Tamil Nadu,South,Mouse,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10619,2025-10-11 00:00:00,CUST1104,Anitha S,Male,40,Pune,Tamil Nadu,South,Router,Networking,3,823.96,823.96,149.35,Small Business
+ORD10163,2025-05-17 00:00:00,CUST1164,Anitha S,Female,40,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10445,2025-03-06 00:00:00,CUST1108,Anitha S,Male,35,Pune,Rajasthan,North,Printer,Office Equipment,2,823.96,823.96,149.35,Corporate
+ORD10277,2025-04-09 00:00:00,CUST1068,Anitha S,Female,45,Pune,Maharashtra,West,Printer,Office Equipment,1,823.96,823.96,149.35,Corporate
+ORD10408,2025-05-15 00:00:00,CUST1018,Anitha S,Male,52,Pune,Tamil Nadu,South,Keyboard,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10082,2025-08-19 00:00:00,CUST1241,Anitha S,Male,60,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10229,2025-11-09 00:00:00,CUST1206,Anitha S,Female,28,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Consumer
+ORD10375,2025-01-01 00:00:00,CUST1148,Anitha S,Female,22,Pune,Rajasthan,North,Laptop,Electronics,6,823.96,823.96,149.35,Consumer
+ORD10347,2025-04-18 00:00:00,CUST1241,Anitha S,Female,35,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10174,2025-11-03 00:00:00,CUST1060,Anitha S,Male,52,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10429,2025-02-23 00:00:00,CUST1152,Anitha S,Female,31,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10155,2025-08-28 00:00:00,CUST1110,Anitha S,Female,25,Pune,Maharashtra,West,Laptop,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10477,2025-02-22 00:00:00,CUST1205,Anitha S,Female,18,Pune,Telangana,South,Mouse,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10020,2025-08-13 00:00:00,CUST1015,Anitha S,Male,18,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10123,2025-02-18 00:00:00,CUST1166,Anitha S,Female,45,Pune,Karnataka,South,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10529,2025-03-31 00:00:00,CUST1065,Anitha S,Male,60,Pune,Karnataka,South,Headset,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10103,2025-09-18 00:00:00,CUST1083,Anitha S,Female,25,Pune,Rajasthan,North,Mouse,Accessories,4,823.96,823.96,149.35,Corporate
+ORD10003,2025-10-06 00:00:00,CUST1206,Anitha S,Female,31,Pune,Telangana,South,USB Drive,Storage,1,823.96,823.96,149.35,Small Business
+ORD10635,2025-06-04 00:00:00,CUST1125,Anitha S,Male,31,Pune,Rajasthan,North,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10032,2025-06-03 00:00:00,CUST1033,Anitha S,Male,35,Pune,Telangana,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10518,2025-05-13 00:00:00,CUST1250,Anitha S,Male,31,Pune,Telangana,South,Monitor,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10126,2025-02-18 00:00:00,CUST1101,Anitha S,Male,35,Pune,Delhi,North,SSD,Storage,1,823.96,823.96,149.35,Consumer
+ORD10643,2025-06-14 00:00:00,CUST1153,Anitha S,Female,31,Pune,Telangana,South,Printer,Office Equipment,5,823.96,823.96,149.35,Corporate
+ORD10279,2025-03-22 00:00:00,CUST1059,Anitha S,Female,18,Pune,Rajasthan,North,Laptop,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10071,2025-12-08 00:00:00,CUST1112,Anitha S,Male,45,Pune,Maharashtra,West,Headset,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10239,2025-04-27 00:00:00,CUST1142,Anitha S,Female,31,Pune,Maharashtra,West, Router ,Networking,5,823.96,823.96,149.35,Consumer
+ORD10666,2025-05-02 00:00:00,CUST1190,Anitha S,Male,35,Pune,Rajasthan,North,Laptop,Electronics,2,823.96,823.96,149.35,Small Business
+ORD10499,2025-11-09 00:00:00,CUST1141,Anitha S,Male,18,Pune,Telangana,South,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10120,2025-04-13 00:00:00,CUST1062,Anitha S,Female,35,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Consumer
+ORD10363,2025-06-06 00:00:00,CUST1075,Anitha S,Female,40,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10669,2025-10-07 00:00:00,CUST1065,Anitha S,Female,60,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Consumer
+ORD10549,2025-07-30 00:00:00,CUST1063,Anitha S,Female,52,Pune,Maharashtra,West,Laptop,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10566,2025-05-22 00:00:00,CUST1094,Anitha S,Male,22,Pune,Tamil Nadu,South,Laptop,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10576,2025-06-29 00:00:00,CUST1168,Anitha S,Female,35,Pune,West Bengal,East,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10131,2025-05-02 00:00:00,CUST1092,Anitha S,Male,35,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Small Business
+ORD10246,2025-06-14 00:00:00,CUST1106,Anitha S,Male,52,Pune,Telangana,South,Headset,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10328,2025-09-10 00:00:00,CUST1154,Anitha S,Male,45,Pune,Tamil Nadu,South,Laptop,Electronics,6,823.96,823.96,149.35,Small Business
+ORD10322,2025-12-02 00:00:00,CUST1022,Anitha S,Male,18,Pune,Tamil Nadu,South,Router,Networking,3,823.96,823.96,149.35,Consumer
+ORD10269,2025-08-18 00:00:00,CUST1185,Anitha S,Male,28,Pune,Maharashtra,West,Printer,Office Equipment,6,823.96,823.96,149.35,Corporate
+ORD10520,2025-06-29 00:00:00,CUST1071,Anitha S,Male,35,Pune,Tamil Nadu,South,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10305,2025-07-10 00:00:00,CUST1133,Anitha S,Female,60,Pune,Tamil Nadu,South,USB Drive,Storage,4,823.96,823.96,149.35,Consumer
+ORD10337,2025-05-18 00:00:00,CUST1107,Anitha S,Male,60,Pune,Tamil Nadu,South,Router,Networking,5,823.96,823.96,149.35,Consumer
+ORD10531,2025-06-20 00:00:00,CUST1202,Anitha S,Male,60,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10400,2025-08-03 00:00:00,CUST1126,Anitha S,Male,22,Pune,Maharashtra,West,Monitor,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10397,2025-01-29 00:00:00,CUST1163,Anitha S,Male,31,Pune,Rajasthan,North,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10573,2025-09-24 00:00:00,CUST1088,Anitha S,Male,31,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Corporate
+ORD10290,2025-07-20 00:00:00,CUST1143,Anitha S,Female,18,Pune,Delhi,North,Headset,Accessories,6,823.96,823.96,149.35,Small Business
+ORD10257,2025-08-20 00:00:00,CUST1132,Anitha S,Male,40,Pune,Tamil Nadu,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10072,2025-02-03 00:00:00,CUST1207,Anitha S,Female,22,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10455,2025-03-01 00:00:00,CUST1204,Anitha S,Female,18,Pune,Tamil Nadu,South,Monitor,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10110,2025-10-26 00:00:00,CUST1211,Anitha S,Female,22,Pune,Tamil Nadu,South,USB Drive,Storage,1,823.96,823.96,149.35,Corporate
+ORD10226,2025-09-08 00:00:00,CUST1090,Anitha S,Female,35,Pune,Karnataka,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10027,2025-10-04 00:00:00,CUST1024,Anitha S,Female,31,Pune,Tamil Nadu,South,Keyboard,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10354,2025-02-28 00:00:00,CUST1128,Anitha S,Female,60,Pune,Tamil Nadu,South,Mouse,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10449,2025-10-31 00:00:00,CUST1178,Anitha S,Male,35,Pune,Maharashtra,West,Tablet,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10465,2025-07-31 00:00:00,CUST1026,Anitha S,Female,25,Pune,Tamil Nadu,South,Laptop,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10270,2025-04-20 00:00:00,CUST1118,Anitha S,Female,40,Pune,Tamil Nadu,South,Keyboard,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10370,2025-09-13 00:00:00,CUST1069,Anitha S,Male,52,Pune,Karnataka,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10043,2025-06-19 00:00:00,CUST1067,Anitha S,Male,25,Pune,Maharashtra,West,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10503,2025-10-29 00:00:00,CUST1091,Anitha S,Male,22,Pune,Maharashtra,West,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10413,2025-06-03 00:00:00,CUST1235,Anitha S,Male,60,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10343,2025-06-10 00:00:00,CUST1103,Anitha S,Male,45,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10289,2025-10-04 00:00:00,CUST1086,Anitha S,Female,18,Pune,Rajasthan,North,Mouse,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10157,2025-02-06 00:00:00,CUST1250,Anitha S,Male,60,Pune,West Bengal,East,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10096,2025-10-10 00:00:00,CUST1007,Anitha S,Male,28,Pune,Rajasthan,North, Headset ,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10599,2025-03-31 00:00:00,CUST1160,Anitha S,Female,60,Pune,Telangana,South,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10606,2025-03-28 00:00:00,CUST1207,Anitha S,Female,40,Pune,Rajasthan,North,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10039,2025-06-15 00:00:00,CUST1097,Anitha S,Female,45,Pune,Tamil Nadu,South,SSD,Storage,5,823.96,823.96,149.35,Consumer
+ORD10037,2025-09-16 00:00:00,CUST1008,Anitha S,Female,40,Pune,Maharashtra,West,Tablet,Electronics,5,823.96,823.96,149.35,Small Business
+ORD10392,2025-10-06 00:00:00,CUST1005,Anitha S,Female,22,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Consumer
+ORD10068,2025-10-09 00:00:00,CUST1248,Anitha S,Male,18,Pune,Tamil Nadu,South,Router,Networking,2,823.96,823.96,149.35,Corporate
+ORD10456,2025-02-19 00:00:00,CUST1201,Anitha S,Male,40,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Corporate
+ORD10109,2025-02-05 00:00:00,CUST1213,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10051,2025-02-22 00:00:00,CUST1213,Anitha S,Male,25,Pune,West Bengal,East,Keyboard,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10388,2025-04-02 00:00:00,CUST1231,Anitha S,Male,31,Pune,Rajasthan,North,Monitor,Electronics,3,823.96,823.96,149.35,Corporate
+ORD10603,2025-11-30 00:00:00,CUST1079,Anitha S,Male,45,Pune,Tamil Nadu,South,Printer,Office Equipment,4,823.96,823.96,149.35,Small Business
+ORD10615,2025-09-20 00:00:00,CUST1126,Anitha S,Female,18,Pune,Maharashtra,West,Printer,Office Equipment,6,823.96,823.96,149.35,Small Business
+ORD10537,2025-12-19 00:00:00,CUST1055,Anitha S,Female,35,Pune,Tamil Nadu,South,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10081,2025-04-19 00:00:00,CUST1152,Anitha S,Male,25,Pune,Rajasthan,North,USB Drive,Storage,2,823.96,823.96,149.35,Small Business
+ORD10034,2025-07-19 00:00:00,CUST1052,Anitha S,Female,28,Pune,Telangana,South,Tablet,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10158,2025-12-27 00:00:00,CUST1010,Anitha S,Male,22,Pune,Tamil Nadu,South,Monitor,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10178,2025-03-06 00:00:00,CUST1077,Anitha S,Female,28,Pune,Rajasthan,North,Webcam,Accessories,4,823.96,823.96,149.35,Corporate
+ORD10648,2025-08-01 00:00:00,CUST1074,Anitha S,Male,45,Pune,Tamil Nadu,South,Webcam,Accessories,6,823.96,823.96,149.35,Small Business
+ORD10152,2025-02-13 00:00:00,CUST1002,Anitha S,Female,35,Pune,Delhi,North,Mouse,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10288,2025-06-05 00:00:00,CUST1035,Anitha S,Female,18,Pune,Delhi,North,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10251,2025-12-25 00:00:00,CUST1080,Anitha S,Female,35,Pune,Karnataka,South,Tablet,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10283,2025-07-31 00:00:00,CUST1191,Anitha S,Female,40,Pune,West Bengal,East,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10315,2025-09-24 00:00:00,CUST1053,Anitha S,Female,25,Pune,West Bengal,East,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10560,2025-11-19 00:00:00,CUST1016,Anitha S,Female,31,Pune,Tamil Nadu,South,Mobile Phone,Electronics,5,823.96,823.96,149.35,Consumer
+ORD10519,2025-03-28 00:00:00,CUST1206,Anitha S,Female,45,Pune,Tamil Nadu,South, Printer ,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10040,2025-12-19 00:00:00,CUST1026,Anitha S,Female,35,Pune,Tamil Nadu,South,Webcam,Accessories,6,823.96,823.96,149.35,Corporate
+ORD10513,2025-07-05 00:00:00,CUST1006,Anitha S,Female,22,Pune,Tamil Nadu,South,Laptop,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10317,2025-03-09 00:00:00,CUST1034,Anitha S,Male,40,Pune,Tamil Nadu,South,Mouse,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10601,2025-07-13 00:00:00,CUST1139,Anitha S,Female,40,Pune,Tamil Nadu,South,Monitor,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10149,2025-05-20 00:00:00,CUST1183,Anitha S,Male,22,Pune,Tamil Nadu,South,Router,Networking,6,823.96,823.96,149.35,Corporate
+ORD10252,2025-10-11 00:00:00,CUST1118,Anitha S,Female,60,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10409,2025-06-06 00:00:00,CUST1250,Anitha S,Female,60,Pune,Maharashtra,West,Keyboard,Accessories,4,823.96,823.96,149.35,Small Business
+ORD10663,2025-01-23 00:00:00,CUST1092,Anitha S,Female,60,Pune,Tamil Nadu,South,Keyboard,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10106,2025-01-18 00:00:00,CUST1041,Anitha S,Female,25,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10472,2025-10-27 00:00:00,CUST1059,Anitha S,Male,52,Pune,Maharashtra,West,Headset,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10547,2025-01-15 00:00:00,CUST1045,Anitha S,Female,45,Pune,West Bengal,East,Laptop,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10358,2025-06-01 00:00:00,CUST1123,Anitha S,Female,25,Pune,Maharashtra,West,Mobile Phone,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10568,2025-04-10 00:00:00,CUST1069,Anitha S,Male,18,Pune,Maharashtra,West,Tablet,Electronics,4,823.96,823.96,149.35,Small Business
+ORD10284,2025-03-08 00:00:00,CUST1075,Anitha S,Male,25,Pune,Tamil Nadu,South,Mouse,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10035,2025-02-08 00:00:00,CUST1239,Anitha S,Male,18,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10496,2025-11-27 00:00:00,CUST1249,Anitha S,Female,40,Pune,Rajasthan,North, Monitor ,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10633,2025-04-21 00:00:00,CUST1144,Anitha S,Male,52,Pune,Tamil Nadu,South,Router,Networking,4,823.96,823.96,149.35,Consumer
+ORD10616,2025-08-26 00:00:00,CUST1151,Anitha S,Male,40,Pune,Tamil Nadu,South,Printer,Office Equipment,3,823.96,823.96,149.35,Small Business
+ORD10441,2025-10-29 00:00:00,CUST1214,Anitha S,Male,31,Pune,Delhi,North,Mouse,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10640,2025-02-18 00:00:00,CUST1198,Anitha S,Female,25,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Small Business
+ORD10506,2025-11-13 00:00:00,CUST1246,Anitha S,Female,31,Pune,Rajasthan,North,Mobile Phone,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10544,2025-09-28 00:00:00,CUST1215,Anitha S,Male,35,Pune,Tamil Nadu,South,Headset,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10256,2025-11-15 00:00:00,CUST1006,Anitha S,Female,60,Pune,Rajasthan,North,Keyboard,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10483,2025-10-02 00:00:00,CUST1123,Anitha S,Male,52,Pune,Tamil Nadu,South,Printer,Office Equipment,1,823.96,823.96,149.35,Consumer
+ORD10154,2025-02-28 00:00:00,CUST1110,Anitha S,Male,28,Pune,Delhi,North,USB Drive,Storage,1,823.96,823.96,149.35,Consumer
+ORD10124,2025-02-11 00:00:00,CUST1122,Anitha S,Female,40,Pune,Tamil Nadu,South,Webcam,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10179,2025-11-14 00:00:00,CUST1250,Anitha S,Female,28,Pune,Karnataka,South,Printer,Office Equipment,4,823.96,823.96,149.35,Small Business
+ORD10681,2025-09-18 00:00:00,CUST1060,Anitha S,Female,28,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Consumer
+ORD10324,2025-04-08 00:00:00,CUST1108,Anitha S,Male,18,Pune,Karnataka,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10236,2025-12-12 00:00:00,CUST1140,Anitha S,Female,40,Pune,Maharashtra,West,Headset,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10028,2025-03-13 00:00:00,CUST1175,Anitha S,Male,40,Pune,Delhi,North,Printer,Office Equipment,3,823.96,823.96,149.35,Consumer
+ORD10510,2025-12-25 00:00:00,CUST1041,Anitha S,Male,40,Pune,Rajasthan,North,USB Drive,Storage,2,823.96,823.96,149.35,Consumer
+ORD10581,2025-08-27 00:00:00,CUST1011,Anitha S,Male,45,Pune,Rajasthan,North,Keyboard,Accessories,3,823.96,823.96,149.35,Consumer
+ORD10514,2025-07-06 00:00:00,CUST1078,Anitha S,Male,25,Pune,Rajasthan,North,SSD,Storage,3,823.96,823.96,149.35,Small Business
+ORD10170,2025-05-21 00:00:00,CUST1166,Anitha S,Male,60,Pune,Tamil Nadu,South,Mobile Phone,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10494,2025-12-15 00:00:00,CUST1115,Anitha S,Male,28,Pune,Tamil Nadu,South,SSD,Storage,1,823.96,823.96,149.35,Small Business
+ORD10026,2025-11-23 00:00:00,CUST1030,Anitha S,Male,18,Pune,Maharashtra,West,Router,Networking,1,823.96,823.96,149.35,Corporate
+ORD10355,2025-08-31 00:00:00,CUST1241,Anitha S,Female,28,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10084,2025-03-18 00:00:00,CUST1068,Anitha S,Female,31,Pune,Tamil Nadu,South,Monitor,Electronics,4,823.96,823.96,149.35,Corporate
+ORD10685,2025-08-25 00:00:00,CUST1164,Anitha S,Male,22,Pune,Maharashtra,West,Webcam,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10012,2025-09-09 00:00:00,CUST1029,Anitha S,Male,28,Pune,Tamil Nadu,South,Webcam,Accessories,-1,823.96,823.96,149.35,Small Business
+ORD10009,2025-09-09 00:00:00,CUST1002,Anitha S,Male,52,Pune,Telangana,South,Mobile Phone,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10001,2025-02-17 00:00:00,CUST1074,Anitha S,Female,60,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10233,invalid_date,CUST1143,Anitha S,Male,28,Pune,West Bengal,East,Headset,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10266,2025-08-09 00:00:00,CUST1210,Anitha S,Male,60,Pune,Tamil Nadu,South,Router,Networking,1,823.96,823.96,149.35,Small Business
+ORD10432,2025-04-22 00:00:00,CUST1214,Anitha S,Male,40,Pune,West Bengal,East,USB Drive,Storage,4,823.96,823.96,149.35,Corporate
+ORD10481,2025-07-03 00:00:00,CUST1095,Anitha S,Male,45,Pune,Tamil Nadu,South,SSD,Storage,3,823.96,823.96,149.35,Corporate
+ORD10181,2025-05-28 00:00:00,CUST1115,Anitha S,Female,28,Pune,Telangana,South,Monitor,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10490,2025-09-08 00:00:00,CUST1089,Anitha S,Female,40,Pune,Maharashtra,West,Laptop,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10326,2025-03-23 00:00:00,CUST1104,Anitha S,Male,45,Pune,Rajasthan,North,USB Drive,Storage,2,823.96,823.96,149.35,Small Business
+ORD10112,2025-02-08 00:00:00,CUST1052,Anitha S,Male,45,Pune,Tamil Nadu,South,USB Drive,Storage,3,823.96,823.96,149.35,Small Business
+ORD10127,2025-11-18 00:00:00,CUST1005,Anitha S,Female,25,Pune,Karnataka,South,USB Drive,Storage,3,823.96,823.96,149.35,Consumer
+ORD10057,2025-01-18 00:00:00,CUST1117,Anitha S,Female,31,Pune,Tamil Nadu,South,USB Drive,Storage,4,823.96,823.96,149.35,Consumer
+ORD10651,2025-02-05 00:00:00,CUST1037,Anitha S,Female,35,Pune,Maharashtra,West, Tablet ,Electronics,5,823.96,823.96,149.35,Corporate
+ORD10387,2025-04-10 00:00:00,CUST1172,Anitha S,Female,52,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Consumer
+ORD10551,2025-08-14 00:00:00,CUST1180,Anitha S,Female,25,Pune,Delhi,North,Webcam,Accessories,3,823.96,823.96,149.35,Corporate
+ORD10298,2025-11-03 00:00:00,CUST1025,Anitha S,Female,31,Pune,Rajasthan,North,Printer,Office Equipment,5,823.96,823.96,149.35,Small Business
+ORD10696,2025-12-18 00:00:00,CUST1226,Anitha S,Female,22,Pune,Telangana,South,SSD,Storage,1,823.96,823.96,149.35,Corporate
+ORD10515,2025-02-22 00:00:00,CUST1017,Anitha S,Male,52,Pune,Karnataka,South,USB Drive,Storage,2,823.96,823.96,149.35,Corporate
+ORD10160,2025-03-07 00:00:00,CUST1069,Anitha S,Female,31,Pune,Rajasthan,North,Laptop,Electronics,6,823.96,823.96,149.35,Small Business
+ORD10162,2025-05-02 00:00:00,CUST1019,Anitha S,Male,60,Pune,Maharashtra,West,Headset,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10137,2025-09-04 00:00:00,CUST1008,Anitha S,Male,40,Pune,Tamil Nadu,South,Laptop,Electronics,1,823.96,823.96,149.35,Small Business
+ORD10425,2025-05-22 00:00:00,CUST1066,Anitha S,Female,31,Pune,Tamil Nadu,South,Keyboard,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10497,2025-08-15 00:00:00,CUST1211,Anitha S,Female,25,Pune,Karnataka,South,Monitor,Electronics,6,823.96,823.96,149.35,Corporate
+ORD10692,2025-02-08 00:00:00,CUST1248,Anitha S,Male,40,Pune,West Bengal,East,Router,Networking,3,823.96,823.96,149.35,Consumer
+ORD10407,2025-12-12 00:00:00,CUST1215,Anitha S,Male,52,Pune,West Bengal,East,Monitor,Electronics,3,823.96,823.96,149.35,Consumer
+ORD10631,2025-01-15 00:00:00,CUST1213,Anitha S,Female,22,Pune,Maharashtra,West,Mobile Phone,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10060,2025-09-30 00:00:00,CUST1081,Anitha S,Female,18,Pune,West Bengal,East,Keyboard,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10316,2025-12-15 00:00:00,CUST1188,Anitha S,Male,52,Pune,Rajasthan,North,Mouse,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10184,invalid_date,CUST1163,Anitha S,Female,31,Pune,Tamil Nadu,South,Headset,Accessories,2,823.96,823.96,149.35,Corporate
+ORD10474,2025-03-27 00:00:00,CUST1100,Anitha S,Female,35,Pune,Telangana,South,Headset,Accessories,6,823.96,823.96,149.35,Consumer
+ORD10528,2025-01-09 00:00:00,CUST1044,Anitha S,Female,22,Pune,Delhi,North,Webcam,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10453,2025-05-16 00:00:00,CUST1029,Anitha S,Male,35,Pune,Tamil Nadu,South,Mouse,Accessories,4,823.96,823.96,149.35,Consumer
+ORD10182,2025-07-13 00:00:00,CUST1135,Anitha S,Female,22,Pune,Maharashtra,West,Mobile Phone,Electronics,2,823.96,823.96,149.35,Consumer
+ORD10052,2025-04-10 00:00:00,CUST1231,Anitha S,Male,52,Pune,Maharashtra,West,USB Drive,Storage,1,823.96,823.96,149.35,Small Business
+ORD10390,2025-03-16 00:00:00,CUST1086,Anitha S,Male,25,Pune,Tamil Nadu,South,SSD,Storage,6,823.96,823.96,149.35,Corporate
+ORD10478,2025-08-12 00:00:00,CUST1053,Anitha S,Male,52,Pune,Tamil Nadu,South,Headset,Accessories,3,823.96,823.96,149.35,Small Business
+ORD10167,2025-09-13 00:00:00,CUST1073,Anitha S,Female,22,Pune,Tamil Nadu,South, Laptop ,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10410,2025-07-11 00:00:00,CUST1064,Anitha S,Male,45,Pune,Maharashtra,West,Laptop,Electronics,2,823.96,823.96,149.35,Corporate
+ORD10437,2025-04-12 00:00:00,CUST1031,Anitha S,Male,40,Pune,Tamil Nadu,South,Webcam,Accessories,1,823.96,823.96,149.35,Small Business
+ORD10642,2025-02-13 00:00:00,CUST1123,Anitha S,Female,28,Pune,Delhi,North,Headset,Accessories,5,823.96,823.96,149.35,Consumer
+ORD10121,2025-06-25 00:00:00,CUST1158,Anitha S,Male,60,Pune,Tamil Nadu,South,Mouse,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10580,2025-12-17 00:00:00,CUST1093,Anitha S,Male,28,Pune,West Bengal,East,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10594,2025-07-16 00:00:00,CUST1114,Anitha S,Male,40,Pune,Karnataka,South,Tablet,Electronics,3,823.96,823.96,149.35,Small Business
+ORD10069,2025-07-04 00:00:00,CUST1165,Anitha S,Female,28,Pune,Delhi,North,Headset,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10418,2025-12-05 00:00:00,CUST1055,Anitha S,Male,40,Pune,Maharashtra,West,Laptop,Electronics,4,823.96,823.96,149.35,Consumer
+ORD10133,2025-02-23 00:00:00,CUST1092,Anitha S,Female,18,Pune,Delhi,North,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10698,2025-05-17 00:00:00,CUST1110,Anitha S,Female,28,Pune,Tamil Nadu,South,Printer,Office Equipment,2,823.96,823.96,149.35,Consumer
+ORD10250,2025-02-18 00:00:00,CUST1157,Anitha S,Male,60,Pune,Maharashtra,West,Keyboard,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10066,2025-11-10 00:00:00,CUST1166,Anitha S,Female,45,Pune,Karnataka,South,Webcam,Accessories,2,823.96,823.96,149.35,Small Business
+ORD10575,2025-10-12 00:00:00,CUST1173,Anitha S,Male,25,Pune,Tamil Nadu,South,Tablet,Electronics,1,823.96,823.96,149.35,Corporate
+ORD10401,2025-08-29 00:00:00,CUST1198,Anitha S,Female,28,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Consumer
+ORD10585,2025-11-20 00:00:00,CUST1198,Anitha S,Female,35,Pune,Maharashtra,West,Mouse,Accessories,1,823.96,823.96,149.35,Corporate
+ORD10156,2025-12-31 00:00:00,CUST1134,Anitha S,Female,31,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Small Business
+ORD10377,2025-10-18 00:00:00,CUST1134,Anitha S,Female,28,Pune,Tamil Nadu,South,SSD,Storage,2,823.96,823.96,149.35,Corporate
+ORD10021,2025-06-08 00:00:00,CUST1188,Anitha S,Female,52,Pune,Tamil Nadu,South,Mouse,Accessories,5,823.96,823.96,149.35,Corporate
+ORD10228,2025-08-22 00:00:00,CUST1074,Anitha S,Female,25,Pune,Tamil Nadu,South,Router,Networking,4,823.96,823.96,149.35,Corporate
+ORD10211,2025-10-02 00:00:00,CUST1004,Anitha S,Female,25,Pune,West Bengal,East,Router,Networking,3,823.96,823.96,149.35,Corporate
+ORD10415,2025-04-01 00:00:00,CUST1216,Anitha S,Female,35,Pune,Telangana,South,Mouse,Accessories,5,823.96,823.96,149.35,Small Business
+ORD10655,2025-01-01 00:00:00,CUST1065,Anitha S,Female,40,Pune,West Bengal,East,Headset,Accessories,2,823.96,823.96,149.35,Consumer
+ORD10564,2025-10-15 00:00:00,CUST1155,Anitha S,Female,18,Pune,Tamil Nadu,South,Mobile Phone,Electronics,3,823.96,823.96,149.35,Consumer
